@@ -1,0 +1,46 @@
+name: Daily Analytics
+
+on:
+  schedule:
+    - cron: "0 1 * * *"        # 01:00 UTC daily
+  workflow_dispatch:           # manual trigger
+
+jobs:
+  run-analytics:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONUNBUFFERED: "1"
+      MONGO_URI: ${{ secrets.MONGO_URI }}
+      MONGO_DB: ${{ secrets.MONGO_DB }}  # remove if not needed
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+            python-version: "3.11"
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}-${{ hashFiles('server/requirements.txt') }}
+          restore-keys: |
+            pip-${{ runner.os }}-
+
+      - name: Install deps
+        run: |
+          pip install -r server/requirements.txt
+
+      - name: (Optional) Cache CmdStan
+        uses: actions/cache@v4
+        with:
+          path: ~/.cmdstan
+          key: cmdstan-${{ runner.os }}
+          restore-keys: |
+            cmdstan-
+
+      - name: Run analytics
+        run: |
+          python server/scripts/run_daily_analytics.py
