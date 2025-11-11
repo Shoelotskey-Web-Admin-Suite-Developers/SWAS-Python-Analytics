@@ -24,6 +24,14 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Ensure jq is installed
+        shell: bash
+        run: |
+          if ! command -v jq >/dev/null 2>&1; then
+            sudo apt-get update -y
+            sudo apt-get install -y jq
+          fi
+
       - name: Add runner IP to Atlas access list
         id: add_ip
         shell: bash
@@ -31,11 +39,11 @@ jobs:
           IP=$(curl -s https://api.ipify.org)
           echo "Runner IP: $IP"
           COMMENT="gha-$(date +%Y%m%d-%H%M%S)"
-          # Atlas expects an array payload
           PAYLOAD=$(jq -n --arg ip "$IP" --arg comment "$COMMENT" '[{ipAddress:$ip, comment:$comment}]')
 
           RESP=$(curl -s -w "\n%{http_code}" -u "$ATLAS_PUBLIC_KEY:$ATLAS_PRIVATE_KEY" --digest \
             -H "Content-Type: application/json" \
+            -H "Accept: application/vnd.atlas.2023-01-01+json" \
             -X POST "https://cloud.mongodb.com/api/atlas/v2/groups/$ATLAS_GROUP_ID/accessList" \
             --data "$PAYLOAD")
 
@@ -44,6 +52,8 @@ jobs:
 
           if [ "$CODE" = "201" ] || [ "$CODE" = "200" ]; then
             CREATED=true
+            # give Atlas a moment to propagate
+            sleep 5
           elif [ "$CODE" = "409" ]; then
             echo "IP already present in access list."
             CREATED=false
@@ -77,9 +87,10 @@ jobs:
           if [ -z "$IP" ] || [ "$CREATED" != "true" ]; then
             echo "No newly created IP entry to remove."; exit 0
           fi
-          # Delete by entry value (IP). For CIDR you'd need URL-encoding.
-          RESP=$(curl -s -w "\n%{http_code}" -u "$ATLAS_PUBLIC_KEY:$ATLAS_PRIVATE_KEY" --digest -X DELETE \
-            "https://cloud.mongodb.com/api/atlas/v2/groups/$ATLAS_GROUP_ID/accessList/$IP")
+          ENC_IP=$(python3 -c "import urllib.parse,sys; print(urllib.parse.quote(sys.argv[1], safe=''))" "$IP")
+          RESP=$(curl -s -w "\n%{http_code}" -u "$ATLAS_PUBLIC_KEY:$ATLAS_PRIVATE_KEY" --digest \
+            -H "Accept: application/vnd.atlas.2023-01-01+json" \
+            -X DELETE "https://cloud.mongodb.com/api/atlas/v2/groups/$ATLAS_GROUP_ID/accessList/$ENC_IP")
           BODY=$(echo "$RESP" | sed '$d'); CODE=$(echo "$RESP" | tail -n1)
           echo "$BODY"
           if [ "$CODE" = "200" ] || [ "$CODE" = "202" ] || [ "$CODE" = "204" ]; then
