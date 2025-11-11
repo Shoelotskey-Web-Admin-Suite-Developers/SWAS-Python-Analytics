@@ -1,0 +1,3272 @@
+[
+  {
+    "cust_id": "CUST-2-1",
+    "cust_name": "Allison Hill",
+    "cust_bdate": "1960-01-19T00:00:00.000+00:00",
+    "cust_address": "819 Johnson Course\nEast William, AK 74064",
+    "cust_email": "jennifermiles@example.com",
+    "cust_contact": "479.540.2654",
+    "total_services": 0,
+    "total_expenditure": 0.0
+  },
+  {
+    "cust_id": "CUST-2-2",
+    "cust_name": "Gabrielle Davis",
+    "cust_bdate": "1951-06-11T00:00:00.000+00:00",
+    "cust_address": "407 Teresa Lane Apt. 849\nBarbaraland, AZ 87174",
+    "cust_email": "kendragalloway@example.org",
+    "cust_contact": "664-375-2553",
+    "total_services": 7,
+    "total_expenditure": 6550.0
+  },
+  {
+    "cust_id": "CUST-4-1",
+    "cust_name": "Carolyn Daniel",
+    "cust_bdate": "1955-12-25T00:00:00.000+00:00",
+    "cust_address": "835 Jeremy Bypass Suite 641\nNew Nancy, MD 28370",
+    "cust_email": "pfoster@example.com",
+    "cust_contact": "(842)738-8496",
+    "total_services": 2,
+    "total_expenditure": 2375.0
+  },
+  {
+    "cust_id": "CUST-2-3",
+    "cust_name": "Zachary Hicks",
+    "cust_bdate": "1951-01-18T00:00:00.000+00:00",
+    "cust_address": "26916 Carlson Mountain\nTashatown, TX 94967",
+    "cust_email": "maldonadoamanda@example.com",
+    "cust_contact": "001-551-446-2704x82814",
+    "total_services": 9,
+    "total_expenditure": 9625.0
+  },
+  {
+    "cust_id": "CUST-2-4",
+    "cust_name": "Christopher Ashley",
+    "cust_bdate": "2007-08-20T00:00:00.000+00:00",
+    "cust_address": "570 Sarah Wells\nJohnbury, FM 74865",
+    "cust_email": "millertodd@example.org",
+    "cust_contact": "001-682-827-8248x96383",
+    "total_services": 8,
+    "total_expenditure": 10247.5
+  },
+  {
+    "cust_id": "CUST-4-2",
+    "cust_name": "Marie Kim DDS",
+    "cust_bdate": "1953-02-04T00:00:00.000+00:00",
+    "cust_address": "0983 Adrian Station\nEast Carloston, VI 43810",
+    "cust_email": "palmerjoshua@example.com",
+    "cust_contact": "582.399.7376",
+    "total_services": 10,
+    "total_expenditure": 8690.0
+  },
+  {
+    "cust_id": "CUST-4-3",
+    "cust_name": "Jeffrey Henderson",
+    "cust_bdate": "1976-08-22T00:00:00.000+00:00",
+    "cust_address": "106 Mcbride Coves\nEast James, NV 18874",
+    "cust_email": "dwhite@example.org",
+    "cust_contact": "478-810-8013",
+    "total_services": 0,
+    "total_expenditure": 0.0
+  },
+  {
+    "cust_id": "CUST-4-4",
+    "cust_name": "Mr. James Brown",
+    "cust_bdate": "1970-08-26T00:00:00.000+00:00",
+    "cust_address": "7468 Moore Hill Apt. 098\nLake Leeton, OR 62994",
+    "cust_email": "brianromero@example.org",
+    "cust_contact": "291-336-1939",
+    "total_services": 8,
+    "total_expenditure": 7550.0
+  },
+  {
+    "cust_id": "CUST-4-5",
+    "cust_name": "Kevin Mills",
+    "cust_bdate": "1962-08-10T00:00:00.000+00:00",
+    "cust_address": "46247 Hickman Cliffs Apt. 799\nNorth Amandahaven, KS 17862",
+    "cust_email": "nicole35@example.com",
+    "cust_contact": "(378)449-8084",
+    "total_services": 0,
+    "total_expenditure": 0.0
+  },
+  {
+    "cust_id": "CUST-4-6",
+    "cust_name": "Steve Newton",
+    "cust_bdate": "1955-06-10T00:00:00.000+00:00",
+    "cust_address": "534 King Vista\nNorth Cynthiaview, AZ 00965",
+    "cust_email": "kellie42@example.net",
+    "cust_contact": "486.880.1128x059",
+    "total_services": 0,
+    "total_expenditure": 0.0
+  },
+  {
+    "cust_id": "CUST-4-7",
+    "cust_name": "Eric Nolan",
+    "cust_bdate": "1999-01-14T00:00:00.000+00:00",
+    "cust_address": "Unit 0533 Box 1586\nDPO AP 98736",
+    "cust_email": "sarayoung@example.org",
+    "cust_contact": "(360)825-6342",
+    "total_services": 5,
+    "total_expenditure": 1975.0
+  },
+  {
+    "cust_id": "CUST-4-8",
+    "cust_name": "Shannon Walker",
+    "cust_bdate": "2000-06-06T00:00:00.000+00:00",
+    "cust_address": "PSC 5433, Box 0365\nAPO AA 09600",
+    "cust_email": "michael86@example.net",
+    "cust_contact": "+1-350-814-2940",
+    "total_services": 1,
+    "total_expenditure": 450.0
+  },
+  {
+    "cust_id": "CUST-2-5",
+    "cust_name": "Richard Graham",
+    "cust_bdate": "1979-08-31T00:00:00.000+00:00",
+    "cust_address": "0608 Michael Cliff\nCindyville, VA 39864",
+    "cust_email": "elizabeth56@example.net",
+    "cust_contact": "682-636-6299x4680",
+    "total_services": 0,
+    "total_expenditure": 0.0
+  },
+  {
+    "cust_id": "CUST-2-6",
+    "cust_name": "Richard Lawson",
+    "cust_bdate": "1966-10-16T00:00:00.000+00:00",
+    "cust_address": "387 Donna Haven Suite 134\nPort James, AK 06558",
+    "cust_email": "traceycarr@example.org",
+    "cust_contact": "569.436.7632x016",
+    "total_services": 0,
+    "total_expenditure": 0.0
+  },
+  {
+    "cust_id": "CUST-3-1",
+    "cust_name": "Melissa Marshall",
+    "cust_bdate": "1982-10-17T00:00:00.000+00:00",
+    "cust_address": "2788 Dodson Mills\nRivasside, NV 21362",
+    "cust_email": "wcole@example.org",
+    "cust_contact": "+1-348-473-4714x3455",
+    "total_services": 3,
+    "total_expenditure": 1975.0
+  },
+  {
+    "cust_id": "CUST-2-7",
+    "cust_name": "James Hernandez",
+    "cust_bdate": "1959-06-03T00:00:00.000+00:00",
+    "cust_address": "8760 Marissa Loaf Apt. 967\nWest Kennethfurt, PR 55422",
+    "cust_email": "tracynelson@example.com",
+    "cust_contact": "2658627298",
+    "total_services": 1,
+    "total_expenditure": 900.0
+  },
+  {
+    "cust_id": "CUST-3-2",
+    "cust_name": "Mary Miller",
+    "cust_bdate": "1974-01-11T00:00:00.000+00:00",
+    "cust_address": "04653 Murphy Trace Suite 464\nSouth Andrewside, AR 46371",
+    "cust_email": "debraharrington@example.net",
+    "cust_contact": "9033309232",
+    "total_services": 0,
+    "total_expenditure": 0.0
+  },
+  {
+    "cust_id": "CUST-4-9",
+    "cust_name": "Claudia Lyons",
+    "cust_bdate": "1997-01-18T00:00:00.000+00:00",
+    "cust_address": "41904 Sanders Stravenue\nNorth Brittany, MP 82714",
+    "cust_email": "curtisbarton@example.net",
+    "cust_contact": "+1-819-905-8651x850",
+    "total_services": 0,
+    "total_expenditure": 0.0
+  },
+  {
+    "cust_id": "CUST-4-10",
+    "cust_name": "Tyler Reid",
+    "cust_bdate": "2001-04-03T00:00:00.000+00:00",
+    "cust_address": "2849 Marshall Views\nMarcusbury, MP 11860",
+    "cust_email": "nicole37@example.net",
+    "cust_contact": "+1-665-607-5273x545",
+    "total_services": 2,
+    "total_expenditure": 4030.0
+  },
+  {
+    "cust_id": "CUST-4-11",
+    "cust_name": "Kellie Lee",
+    "cust_bdate": "1961-04-14T00:00:00.000+00:00",
+    "cust_address": "377 Mcguire Course Suite 363\nElizabethstad, NJ 73045",
+    "cust_email": "ronald85@example.com",
+    "cust_contact": "001-574-544-3135x182",
+    "total_services": 3,
+    "total_expenditure": 1875.0
+  },
+  {
+    "cust_id": "CUST-2-8",
+    "cust_name": "Destiny Lawrence",
+    "cust_bdate": "1996-08-05T00:00:00.000+00:00",
+    "cust_address": "34352 Smith Place Apt. 400\nHeidiberg, SC 99170",
+    "cust_email": "agarcia@example.net",
+    "cust_contact": "377-275-2047x1167",
+    "total_services": 3,
+    "total_expenditure": 5687.5
+  },
+  {
+    "cust_id": "CUST-2-9",
+    "cust_name": "Robert Avery",
+    "cust_bdate": "1950-08-29T00:00:00.000+00:00",
+    "cust_address": "Unit 1869 Box 9938\nDPO AA 59550",
+    "cust_email": "levans@example.com",
+    "cust_contact": "399-409-1334x1232",
+    "total_services": 4,
+    "total_expenditure": 1850.0
+  },
+  {
+    "cust_id": "CUST-2-10",
+    "cust_name": "Jerry Wheeler",
+    "cust_bdate": "1964-09-06T00:00:00.000+00:00",
+    "cust_address": "471 Sandra Turnpike Apt. 618\nLake Edward, KY 19144",
+    "cust_email": "brownlaura@example.net",
+    "cust_contact": "001-394-271-7464x8877",
+    "total_services": 5,
+    "total_expenditure": 2175.0
+  },
+  {
+    "cust_id": "CUST-2-11",
+    "cust_name": "Morgan Munoz",
+    "cust_bdate": "1946-08-15T00:00:00.000+00:00",
+    "cust_address": "490 Thomas Run\nMoonburgh, OR 57633",
+    "cust_email": "ecosta@example.com",
+    "cust_contact": "(755)612-5674x68071",
+    "total_services": 5,
+    "total_expenditure": 4675.0
+  },
+  {
+    "cust_id": "CUST-2-12",
+    "cust_name": "Wayne Powell",
+    "cust_bdate": "1979-11-18T00:00:00.000+00:00",
+    "cust_address": "876 Jacob Lake\nGarrettton, IL 35504",
+    "cust_email": "sarakim@example.net",
+    "cust_contact": "310.993.2480x8613",
+    "total_services": 0,
+    "total_expenditure": 0.0
+  },
+  {
+    "cust_id": "CUST-4-12",
+    "cust_name": "Maria Moore",
+    "cust_bdate": "1993-08-17T00:00:00.000+00:00",
+    "cust_address": "7737 Patrick Rapid Apt. 146\nSarahhaven, KY 00837",
+    "cust_email": "jessica99@example.net",
+    "cust_contact": "527.887.5588x6753",
+    "total_services": 9,
+    "total_expenditure": 4520.0
+  },
+  {
+    "cust_id": "CUST-3-3",
+    "cust_name": "Reginald Williams",
+    "cust_bdate": "1995-07-16T00:00:00.000+00:00",
+    "cust_address": "2702 Kane Well Suite 187\nLake Douglasberg, CA 62038",
+    "cust_email": "matthew61@example.com",
+    "cust_contact": "+1-386-357-8091x34316",
+    "total_services": 7,
+    "total_expenditure": 6575.0
+  },
+  {
+    "cust_id": "CUST-4-13",
+    "cust_name": "Michael Berger",
+    "cust_bdate": "1947-12-29T00:00:00.000+00:00",
+    "cust_address": "5562 Amanda Port\nEast Gregory, RI 50641",
+    "cust_email": "tyleraguilar@example.org",
+    "cust_contact": "647.840.7482x175",
+    "total_services": 1,
+    "total_expenditure": 2242.5
+  },
+  {
+    "cust_id": "CUST-3-4",
+    "cust_name": "Joyce Turner",
+    "cust_bdate": "1971-01-15T00:00:00.000+00:00",
+    "cust_address": "69594 Johnson Village\nHillshire, VI 90390",
+    "cust_email": "lozanojulie@example.com",
+    "cust_contact": "001-739-453-3942x10470",
+    "total_services": 4,
+    "total_expenditure": 7832.5
+  },
+  {
+    "cust_id": "CUST-4-14",
+    "cust_name": "Edward Burgess",
+    "cust_bdate": "1956-10-24T00:00:00.000+00:00",
+    "cust_address": "842 Sloan Orchard Suite 517\nEast Karenbury, VI 89148",
+    "cust_email": "zcoffey@example.net",
+    "cust_contact": "(716)304-8175x496",
+    "total_services": 6,
+    "total_expenditure": 5697.5
+  },
+  {
+    "cust_id": "CUST-2-13",
+    "cust_name": "Kaitlyn Harvey",
+    "cust_bdate": "1983-01-24T00:00:00.000+00:00",
+    "cust_address": "174 Wilson Cape\nWest Wendyville, CT 31276",
+    "cust_email": "paulwatson@example.net",
+    "cust_contact": "001-786-592-6179x640",
+    "total_services": 5,
+    "total_expenditure": 6550.0
+  },
+  {
+    "cust_id": "CUST-2-14",
+    "cust_name": "Trevor Foley",
+    "cust_bdate": "1951-08-16T00:00:00.000+00:00",
+    "cust_address": "Unit 5850 Box 6431\nDPO AA 12516",
+    "cust_email": "darleneharper@example.org",
+    "cust_contact": "5535293183",
+    "total_services": 13,
+    "total_expenditure": 16720.0
+  },
+  {
+    "cust_id": "CUST-2-15",
+    "cust_name": "Charles Lester",
+    "cust_bdate": "1945-01-20T00:00:00.000+00:00",
+    "cust_address": "84210 Alexis Turnpike\nNew Mario, HI 35283",
+    "cust_email": "martinezrobert@example.org",
+    "cust_contact": "001-617-975-8917x8390",
+    "total_services": 0,
+    "total_expenditure": 0.0
+  },
+  {
+    "cust_id": "CUST-4-15",
+    "cust_name": "Amanda Lutz",
+    "cust_bdate": "2002-07-09T00:00:00.000+00:00",
+    "cust_address": "7115 Cameron Harbor\nOscarhaven, LA 59970",
+    "cust_email": "sgarcia@example.org",
+    "cust_contact": "+1-883-767-3657x6615",
+    "total_services": 4,
+    "total_expenditure": 4100.0
+  },
+  {
+    "cust_id": "CUST-2-16",
+    "cust_name": "Jacqueline Hernandez",
+    "cust_bdate": "2007-09-02T00:00:00.000+00:00",
+    "cust_address": "16152 Brenda Points\nElizabethchester, MI 87708",
+    "cust_email": "uparrish@example.org",
+    "cust_contact": "794-351-9832x7315",
+    "total_services": 2,
+    "total_expenditure": 3525.0
+  },
+  {
+    "cust_id": "CUST-3-5",
+    "cust_name": "Laura Aguirre",
+    "cust_bdate": "2002-05-17T00:00:00.000+00:00",
+    "cust_address": "402 Park Inlet\nMichaelburgh, VI 19277",
+    "cust_email": "vjones@example.net",
+    "cust_contact": "7186366752",
+    "total_services": 3,
+    "total_expenditure": 2400.0
+  },
+  {
+    "cust_id": "CUST-4-16",
+    "cust_name": "Paula Bradley",
+    "cust_bdate": "1950-08-23T00:00:00.000+00:00",
+    "cust_address": "90147 Tucker Mills\nNelsonhaven, DE 45743",
+    "cust_email": "rrodriguez@example.net",
+    "cust_contact": "001-278-540-3690",
+    "total_services": 4,
+    "total_expenditure": 3882.5
+  },
+  {
+    "cust_id": "CUST-3-6",
+    "cust_name": "Daniel Taylor",
+    "cust_bdate": "1962-04-01T00:00:00.000+00:00",
+    "cust_address": "76226 Vincent Village\nCharleston, NE 02957",
+    "cust_email": "umorse@example.net",
+    "cust_contact": "(896)364-1605x29751",
+    "total_services": 3,
+    "total_expenditure": 2550.0
+  },
+  {
+    "cust_id": "CUST-2-17",
+    "cust_name": "Kevin Warren",
+    "cust_bdate": "1971-10-17T00:00:00.000+00:00",
+    "cust_address": "52181 Rebecca Keys Suite 231\nWest James, PA 20537",
+    "cust_email": "thompsonkendra@example.com",
+    "cust_contact": "999.679.9552x717",
+    "total_services": 10,
+    "total_expenditure": 7575.0
+  },
+  {
+    "cust_id": "CUST-2-18",
+    "cust_name": "Leslie Bell",
+    "cust_bdate": "1949-11-29T00:00:00.000+00:00",
+    "cust_address": "05411 Ford Plaza Apt. 793\nCassidyhaven, FL 08610",
+    "cust_email": "vgarcia@example.net",
+    "cust_contact": "482-703-7788",
+    "total_services": 0,
+    "total_expenditure": 0.0
+  },
+  {
+    "cust_id": "CUST-4-17",
+    "cust_name": "Douglas Ortiz",
+    "cust_bdate": "1967-11-21T00:00:00.000+00:00",
+    "cust_address": "515 Angela Lights\nJohnathanberg, MA 11183",
+    "cust_email": "sabrinacollins@example.net",
+    "cust_contact": "001-862-791-4865x281",
+    "total_services": 0,
+    "total_expenditure": 0.0
+  },
+  {
+    "cust_id": "CUST-4-18",
+    "cust_name": "Eric Bean",
+    "cust_bdate": "1968-02-12T00:00:00.000+00:00",
+    "cust_address": "USCGC Lee\nFPO AE 20809",
+    "cust_email": "phillipskristin@example.net",
+    "cust_contact": "001-988-205-9296x22292",
+    "total_services": 0,
+    "total_expenditure": 0.0
+  },
+  {
+    "cust_id": "CUST-4-19",
+    "cust_name": "Michael Young",
+    "cust_bdate": "1975-02-02T00:00:00.000+00:00",
+    "cust_address": "83473 Gregory Ports Suite 746\nBurchborough, AS 79755",
+    "cust_email": "moniquewilliams@example.com",
+    "cust_contact": "(881)381-4124x782",
+    "total_services": 2,
+    "total_expenditure": 625.0
+  },
+  {
+    "cust_id": "CUST-4-20",
+    "cust_name": "Courtney Hayes",
+    "cust_bdate": "1968-08-25T00:00:00.000+00:00",
+    "cust_address": "USCGC Brown\nFPO AP 49516",
+    "cust_email": "paulmiller@example.org",
+    "cust_contact": "4519522047",
+    "total_services": 3,
+    "total_expenditure": 2575.0
+  },
+  {
+    "cust_id": "CUST-4-21",
+    "cust_name": "Aaron Miller",
+    "cust_bdate": "1962-04-12T00:00:00.000+00:00",
+    "cust_address": "986 Kimberly Freeway\nDavidbury, MT 84249",
+    "cust_email": "fbrown@example.net",
+    "cust_contact": "+1-708-593-2460",
+    "total_services": 3,
+    "total_expenditure": 2925.0
+  },
+  {
+    "cust_id": "CUST-2-19",
+    "cust_name": "Chelsea Barnett",
+    "cust_bdate": "1980-06-26T00:00:00.000+00:00",
+    "cust_address": "Unit 1888 Box 8806\nDPO AA 06207",
+    "cust_email": "qzavala@example.net",
+    "cust_contact": "2517531952",
+    "total_services": 3,
+    "total_expenditure": 5427.5
+  },
+  {
+    "cust_id": "CUST-4-22",
+    "cust_name": "Robin Thompson",
+    "cust_bdate": "1997-11-18T00:00:00.000+00:00",
+    "cust_address": "221 Johnson Flats Apt. 305\nZacharyside, NJ 33703",
+    "cust_email": "mullinsjames@example.com",
+    "cust_contact": "001-705-641-5667x65277",
+    "total_services": 3,
+    "total_expenditure": 1875.0
+  },
+  {
+    "cust_id": "CUST-3-7",
+    "cust_name": "Monica Miller",
+    "cust_bdate": "1985-11-10T00:00:00.000+00:00",
+    "cust_address": "Unit 2845 Box 1154\nDPO AA 58948",
+    "cust_email": "cjackson@example.com",
+    "cust_contact": "205.496.4016x582",
+    "total_services": 4,
+    "total_expenditure": 4450.0
+  },
+  {
+    "cust_id": "CUST-4-23",
+    "cust_name": "Megan Kim",
+    "cust_bdate": "1953-06-14T00:00:00.000+00:00",
+    "cust_address": "6909 Erika Land Suite 719\nNew Michael, MD 85640",
+    "cust_email": "john10@example.net",
+    "cust_contact": "(578)668-1447",
+    "total_services": 3,
+    "total_expenditure": 1962.5
+  },
+  {
+    "cust_id": "CUST-4-24",
+    "cust_name": "Yvonne Gonzalez",
+    "cust_bdate": "1954-02-05T00:00:00.000+00:00",
+    "cust_address": "71551 Vance Vista Apt. 258\nNorth Tracie, WY 18703",
+    "cust_email": "kristyjohnson@example.net",
+    "cust_contact": "001-857-982-9114",
+    "total_services": 5,
+    "total_expenditure": 6900.0
+  },
+  {
+    "cust_id": "CUST-4-25",
+    "cust_name": "Patricia Morrow",
+    "cust_bdate": "1949-11-18T00:00:00.000+00:00",
+    "cust_address": "177 Anderson Village Apt. 268\nPort Davidberg, ME 22082",
+    "cust_email": "marcusfletcher@example.com",
+    "cust_contact": "441.443.8424x98182",
+    "total_services": 0,
+    "total_expenditure": 0.0
+  },
+  {
+    "cust_id": "CUST-4-26",
+    "cust_name": "Michelle Jacobs",
+    "cust_bdate": "2002-03-13T00:00:00.000+00:00",
+    "cust_address": "PSC 0010, Box 9439\nAPO AA 81517",
+    "cust_email": "jimenezcourtney@example.com",
+    "cust_contact": "+1-947-536-4710x2767",
+    "total_services": 0,
+    "total_expenditure": 0.0
+  },
+  {
+    "cust_id": "CUST-4-27",
+    "cust_name": "Charles Hensley",
+    "cust_bdate": "1966-08-04T00:00:00.000+00:00",
+    "cust_address": "2588 Luis Mountain Apt. 473\nNorth Brent, MS 81159",
+    "cust_email": "kwright@example.com",
+    "cust_contact": "001-953-227-8774",
+    "total_services": 3,
+    "total_expenditure": 2892.5
+  },
+  {
+    "cust_id": "CUST-4-28",
+    "cust_name": "James Bryant",
+    "cust_bdate": "1961-03-30T00:00:00.000+00:00",
+    "cust_address": "04797 Herrera Vista Apt. 624\nKathrynstad, AZ 53006",
+    "cust_email": "hudsonjames@example.net",
+    "cust_contact": "716-787-8499x1216",
+    "total_services": 0,
+    "total_expenditure": 0.0
+  },
+  {
+    "cust_id": "CUST-3-8",
+    "cust_name": "Holly Thomas",
+    "cust_bdate": "1985-11-10T00:00:00.000+00:00",
+    "cust_address": "02578 Hernandez Passage\nWest Sarah, MD 21800",
+    "cust_email": "vewing@example.com",
+    "cust_contact": "001-258-788-7947",
+    "total_services": 5,
+    "total_expenditure": 3400.0
+  },
+  {
+    "cust_id": "CUST-4-29",
+    "cust_name": "Brian Butler",
+    "cust_bdate": "1965-10-19T00:00:00.000+00:00",
+    "cust_address": "749 Jennifer Prairie\nJacksonfurt, FL 89725",
+    "cust_email": "anthonyvaughan@example.org",
+    "cust_contact": "907.256.2636",
+    "total_services": 0,
+    "total_expenditure": 0.0
+  },
+  {
+    "cust_id": "CUST-4-30",
+    "cust_name": "Kelly Hoffman",
+    "cust_bdate": "1989-12-04T00:00:00.000+00:00",
+    "cust_address": "2785 Lowe Ways Suite 973\nWest Angela, IN 39509",
+    "cust_email": "janet75@example.com",
+    "cust_contact": "(284)641-9866x524",
+    "total_services": 3,
+    "total_expenditure": 3500.0
+  },
+  {
+    "cust_id": "CUST-2-20",
+    "cust_name": "Angela Bradshaw",
+    "cust_bdate": "1989-07-02T00:00:00.000+00:00",
+    "cust_address": "38484 Daniel Streets Apt. 308\nLake Jesse, CT 54673",
+    "cust_email": "jennifer12@example.org",
+    "cust_contact": "+1-226-377-3454",
+    "total_services": 6,
+    "total_expenditure": 7300.0
+  },
+  {
+    "cust_id": "CUST-2-21",
+    "cust_name": "Crystal Rodgers",
+    "cust_bdate": "2002-09-23T00:00:00.000+00:00",
+    "cust_address": "USNS Butler\nFPO AE 05264",
+    "cust_email": "lfrench@example.net",
+    "cust_contact": "400-949-9154x7887",
+    "total_services": 0,
+    "total_expenditure": 0.0
+  },
+  {
+    "cust_id": "CUST-3-9",
+    "cust_name": "Robert Rivera",
+    "cust_bdate": "1994-08-13T00:00:00.000+00:00",
+    "cust_address": "205 Bradley Throughway Apt. 296\nRobertsonland, MO 88221",
+    "cust_email": "lopezdonald@example.com",
+    "cust_contact": "204.663.7454",
+    "total_services": 1,
+    "total_expenditure": 275.0
+  },
+  {
+    "cust_id": "CUST-4-31",
+    "cust_name": "Melissa Brown",
+    "cust_bdate": "1952-11-27T00:00:00.000+00:00",
+    "cust_address": "8414 Mendez Forges\nSouth Eric, WA 79896",
+    "cust_email": "robert87@example.net",
+    "cust_contact": "+1-533-491-8785x19108",
+    "total_services": 6,
+    "total_expenditure": 11577.5
+  },
+  {
+    "cust_id": "CUST-4-32",
+    "cust_name": "Scott Ramos",
+    "cust_bdate": "1991-02-26T00:00:00.000+00:00",
+    "cust_address": "87072 Bryant Centers Suite 406\nLisaborough, OR 10073",
+    "cust_email": "hendersonisabella@example.net",
+    "cust_contact": "7178046226",
+    "total_services": 4,
+    "total_expenditure": 4475.0
+  },
+  {
+    "cust_id": "CUST-4-33",
+    "cust_name": "Thomas Bennett",
+    "cust_bdate": "1950-04-28T00:00:00.000+00:00",
+    "cust_address": "512 Rice Stream\nPort Adam, AK 39608",
+    "cust_email": "inunez@example.com",
+    "cust_contact": "+1-363-237-5243",
+    "total_services": 3,
+    "total_expenditure": 3217.5
+  },
+  {
+    "cust_id": "CUST-2-22",
+    "cust_name": "Jennifer Miranda",
+    "cust_bdate": "2004-12-31T00:00:00.000+00:00",
+    "cust_address": "11907 John Cape\nGonzalesside, IL 99379",
+    "cust_email": "taylorvictoria@example.org",
+    "cust_contact": "001-695-299-5342x8364",
+    "total_services": 0,
+    "total_expenditure": 0.0
+  },
+  {
+    "cust_id": "CUST-2-23",
+    "cust_name": "Leslie Moss",
+    "cust_bdate": "1956-10-11T00:00:00.000+00:00",
+    "cust_address": "705 Floyd Island Suite 624\nWhiteside, NJ 32085",
+    "cust_email": "kevinzimmerman@example.com",
+    "cust_contact": "6865688263",
+    "total_services": 0,
+    "total_expenditure": 0.0
+  },
+  {
+    "cust_id": "CUST-2-24",
+    "cust_name": "Bob Cole",
+    "cust_bdate": "1970-02-11T00:00:00.000+00:00",
+    "cust_address": "46990 Jacob Trace\nSouth Jason, PW 44143",
+    "cust_email": "susan03@example.org",
+    "cust_contact": "001-717-639-3638x5467",
+    "total_services": 6,
+    "total_expenditure": 4535.0
+  },
+  {
+    "cust_id": "CUST-4-34",
+    "cust_name": "Jose Crawford",
+    "cust_bdate": "1951-07-28T00:00:00.000+00:00",
+    "cust_address": "3556 Anna Forges Apt. 048\nPhillipsborough, MA 30650",
+    "cust_email": "phudson@example.com",
+    "cust_contact": "+1-454-977-7252",
+    "total_services": 2,
+    "total_expenditure": 1950.0
+  },
+  {
+    "cust_id": "CUST-2-25",
+    "cust_name": "Steve Mooney",
+    "cust_bdate": "1948-11-09T00:00:00.000+00:00",
+    "cust_address": "006 Megan Fort\nLake Edwardborough, NY 60271",
+    "cust_email": "bruce97@example.net",
+    "cust_contact": "800.488.6008x4840",
+    "total_services": 8,
+    "total_expenditure": 4755.0
+  },
+  {
+    "cust_id": "CUST-4-35",
+    "cust_name": "Brent Hernandez",
+    "cust_bdate": "1957-12-03T00:00:00.000+00:00",
+    "cust_address": "4615 Stevens Gardens Apt. 410\nSouth Nicholasside, NJ 07856",
+    "cust_email": "warnerchristopher@example.com",
+    "cust_contact": "+1-659-218-0339x7401",
+    "total_services": 0,
+    "total_expenditure": 0.0
+  },
+  {
+    "cust_id": "CUST-4-36",
+    "cust_name": "Samuel Smith",
+    "cust_bdate": "1958-12-16T00:00:00.000+00:00",
+    "cust_address": "42939 Rhodes Plains Suite 621\nBrianchester, IN 10464",
+    "cust_email": "cassie99@example.com",
+    "cust_contact": "001-350-647-7358x66296",
+    "total_services": 0,
+    "total_expenditure": 0.0
+  },
+  {
+    "cust_id": "CUST-3-10",
+    "cust_name": "Michelle Miller",
+    "cust_bdate": "1955-05-11T00:00:00.000+00:00",
+    "cust_address": "655 Christopher Inlet\nWardview, CT 17868",
+    "cust_email": "lopezshane@example.net",
+    "cust_contact": "861.801.5819x95604",
+    "total_services": 2,
+    "total_expenditure": 2925.0
+  },
+  {
+    "cust_id": "CUST-2-26",
+    "cust_name": "Misty Hansen",
+    "cust_bdate": "1961-05-19T00:00:00.000+00:00",
+    "cust_address": "622 Turner Park\nNorth Gary, KY 55695",
+    "cust_email": "todd15@example.com",
+    "cust_contact": "279.893.7124",
+    "total_services": 2,
+    "total_expenditure": 2925.0
+  },
+  {
+    "cust_id": "CUST-2-27",
+    "cust_name": "Manuel Brock",
+    "cust_bdate": "1967-04-15T00:00:00.000+00:00",
+    "cust_address": "924 Morrison Square Apt. 752\nNovakport, WA 91590",
+    "cust_email": "yfaulkner@example.org",
+    "cust_contact": "564-965-1939x82807",
+    "total_services": 6,
+    "total_expenditure": 4300.0
+  },
+  {
+    "cust_id": "CUST-3-11",
+    "cust_name": "Sandra Jones",
+    "cust_bdate": "2002-07-21T00:00:00.000+00:00",
+    "cust_address": "724 Johnny Drives Suite 617\nAguilarside, NY 91164",
+    "cust_email": "ystephens@example.com",
+    "cust_contact": "001-789-811-3529x096",
+    "total_services": 11,
+    "total_expenditure": 17875.0
+  },
+  {
+    "cust_id": "CUST-4-37",
+    "cust_name": "Brett Walker",
+    "cust_bdate": "1995-09-08T00:00:00.000+00:00",
+    "cust_address": "5679 Michael Burg\nGarciachester, PW 11754",
+    "cust_email": "guerrajessica@example.com",
+    "cust_contact": "657-238-7571x7751",
+    "total_services": 5,
+    "total_expenditure": 3057.5
+  },
+  {
+    "cust_id": "CUST-3-12",
+    "cust_name": "Ashley Sweeney",
+    "cust_bdate": "1988-12-15T00:00:00.000+00:00",
+    "cust_address": "382 Mark Meadow\nHallfurt, SC 24677",
+    "cust_email": "daniellereynolds@example.org",
+    "cust_contact": "001-393-479-6603x3419",
+    "total_services": 0,
+    "total_expenditure": 0.0
+  },
+  {
+    "cust_id": "CUST-3-13",
+    "cust_name": "Craig Wilson",
+    "cust_bdate": "1990-07-03T00:00:00.000+00:00",
+    "cust_address": "696 Michael Vista Suite 924\nLake Dennisville, IA 40527",
+    "cust_email": "whiteheather@example.net",
+    "cust_contact": "(969)629-6627x8282",
+    "total_services": 4,
+    "total_expenditure": 4342.5
+  },
+  {
+    "cust_id": "CUST-4-38",
+    "cust_name": "Ernest Hayes",
+    "cust_bdate": "1948-07-05T00:00:00.000+00:00",
+    "cust_address": "2368 Ortiz Overpass\nMckinneymouth, NM 22423",
+    "cust_email": "cunninghamlaura@example.org",
+    "cust_contact": "304-638-4279x7881",
+    "total_services": 9,
+    "total_expenditure": 6500.0
+  },
+  {
+    "cust_id": "CUST-4-39",
+    "cust_name": "Samantha Richardson",
+    "cust_bdate": "2000-11-03T00:00:00.000+00:00",
+    "cust_address": "361 Kenneth Bypass Suite 451\nGrimesville, WI 31557",
+    "cust_email": "lisamatthews@example.com",
+    "cust_contact": "001-696-429-2330x958",
+    "total_services": 3,
+    "total_expenditure": 4875.0
+  },
+  {
+    "cust_id": "CUST-3-14",
+    "cust_name": "Michael Roberts",
+    "cust_bdate": "1963-01-20T00:00:00.000+00:00",
+    "cust_address": "USS Taylor\nFPO AA 08271",
+    "cust_email": "michelle22@example.org",
+    "cust_contact": "(853)967-2946",
+    "total_services": 1,
+    "total_expenditure": 750.0
+  },
+  {
+    "cust_id": "CUST-3-15",
+    "cust_name": "Robert Mack",
+    "cust_bdate": "1972-04-10T00:00:00.000+00:00",
+    "cust_address": "577 Perkins Ways Apt. 751\nRobinsonchester, GU 28268",
+    "cust_email": "sadams@example.com",
+    "cust_contact": "+1-992-297-5001",
+    "total_services": 4,
+    "total_expenditure": 4162.5
+  },
+  {
+    "cust_id": "CUST-2-28",
+    "cust_name": "Scott Alexander",
+    "cust_bdate": "1944-11-27T00:00:00.000+00:00",
+    "cust_address": "Unit 6324 Box 2415\nDPO AA 11304",
+    "cust_email": "elizabeth20@example.com",
+    "cust_contact": "+1-943-261-1037x1293",
+    "total_services": 1,
+    "total_expenditure": 675.0
+  },
+  {
+    "cust_id": "CUST-3-16",
+    "cust_name": "Greg Martinez",
+    "cust_bdate": "2003-05-29T00:00:00.000+00:00",
+    "cust_address": "1361 Dakota Land\nDerrickberg, SD 89254",
+    "cust_email": "caseyelliott@example.net",
+    "cust_contact": "+1-327-853-2697x3112",
+    "total_services": 4,
+    "total_expenditure": 1425.0
+  },
+  {
+    "cust_id": "CUST-2-29",
+    "cust_name": "Jeffrey Moody",
+    "cust_bdate": "1961-09-21T00:00:00.000+00:00",
+    "cust_address": "89994 Melanie Shoals\nJamiehaven, ID 98522",
+    "cust_email": "dphillips@example.org",
+    "cust_contact": "861.737.9180x5526",
+    "total_services": 9,
+    "total_expenditure": 11110.0
+  },
+  {
+    "cust_id": "CUST-2-30",
+    "cust_name": "Thomas Fry",
+    "cust_bdate": "1971-12-11T00:00:00.000+00:00",
+    "cust_address": "6188 Joshua Inlet Apt. 832\nPeterland, ME 92077",
+    "cust_email": "pblair@example.org",
+    "cust_contact": "416.317.9904",
+    "total_services": 3,
+    "total_expenditure": 2975.0
+  },
+  {
+    "cust_id": "CUST-3-17",
+    "cust_name": "Raymond Shannon",
+    "cust_bdate": "1990-09-26T00:00:00.000+00:00",
+    "cust_address": "800 John Mountains\nPatrickberg, HI 05136",
+    "cust_email": "pwalker@example.com",
+    "cust_contact": "001-854-319-5180x2380",
+    "total_services": 9,
+    "total_expenditure": 12685.0
+  },
+  {
+    "cust_id": "CUST-2-31",
+    "cust_name": "Brandon Bryant",
+    "cust_bdate": "1969-12-19T00:00:00.000+00:00",
+    "cust_address": "937 Vargas Park Apt. 832\nSouth Andrewside, MI 83855",
+    "cust_email": "tapiaaaron@example.net",
+    "cust_contact": "(541)838-3670x2410",
+    "total_services": 9,
+    "total_expenditure": 5182.5
+  },
+  {
+    "cust_id": "CUST-3-18",
+    "cust_name": "Benjamin Harris",
+    "cust_bdate": "1997-12-08T00:00:00.000+00:00",
+    "cust_address": "12775 Martinez Knolls\nSouth Kyle, KS 16218",
+    "cust_email": "mooregina@example.net",
+    "cust_contact": "001-690-635-2135x680",
+    "total_services": 1,
+    "total_expenditure": 325.0
+  },
+  {
+    "cust_id": "CUST-2-32",
+    "cust_name": "Brian Leon",
+    "cust_bdate": "1953-02-15T00:00:00.000+00:00",
+    "cust_address": "36519 Lowery Club\nNorth Jamesmouth, AS 17381",
+    "cust_email": "steinmaria@example.com",
+    "cust_contact": "207-802-9667",
+    "total_services": 1,
+    "total_expenditure": 2242.5
+  },
+  {
+    "cust_id": "CUST-4-40",
+    "cust_name": "Douglas Stephenson",
+    "cust_bdate": "1947-03-22T00:00:00.000+00:00",
+    "cust_address": "476 Brown Harbors\nTaylorborough, SD 69420",
+    "cust_email": "crystalpham@example.org",
+    "cust_contact": "(757)587-5985x6420",
+    "total_services": 5,
+    "total_expenditure": 5975.0
+  },
+  {
+    "cust_id": "CUST-2-33",
+    "cust_name": "Kaitlyn Howard",
+    "cust_bdate": "1984-08-08T00:00:00.000+00:00",
+    "cust_address": "Unit 2133 Box 4803\nDPO AP 51412",
+    "cust_email": "savannah22@example.org",
+    "cust_contact": "001-555-990-5992",
+    "total_services": 2,
+    "total_expenditure": 4907.5
+  },
+  {
+    "cust_id": "CUST-4-41",
+    "cust_name": "Gary Mendez",
+    "cust_bdate": "1999-09-28T00:00:00.000+00:00",
+    "cust_address": "0029 Kim Vista\nSusanstad, VT 87288",
+    "cust_email": "vwillis@example.com",
+    "cust_contact": "622-667-5289x53926",
+    "total_services": 4,
+    "total_expenditure": 3275.0
+  },
+  {
+    "cust_id": "CUST-2-34",
+    "cust_name": "Jenna Gamble",
+    "cust_bdate": "1983-06-24T00:00:00.000+00:00",
+    "cust_address": "391 Taylor Summit Apt. 355\nLake Nicole, CO 93426",
+    "cust_email": "sean43@example.org",
+    "cust_contact": "001-915-841-0067x626",
+    "total_services": 9,
+    "total_expenditure": 9312.5
+  },
+  {
+    "cust_id": "CUST-4-42",
+    "cust_name": "Laura Chang",
+    "cust_bdate": "1960-03-18T00:00:00.000+00:00",
+    "cust_address": "40541 Matthew Lane\nLake Charles, MH 12704",
+    "cust_email": "brooke97@example.net",
+    "cust_contact": "5625962015",
+    "total_services": 2,
+    "total_expenditure": 3875.0
+  },
+  {
+    "cust_id": "CUST-2-35",
+    "cust_name": "Anthony Smith Jr.",
+    "cust_bdate": "2000-12-05T00:00:00.000+00:00",
+    "cust_address": "10324 Thomas Crescent Suite 677\nChristopherside, MS 24733",
+    "cust_email": "nicole52@example.com",
+    "cust_contact": "4473743490",
+    "total_services": 9,
+    "total_expenditure": 10352.5
+  },
+  {
+    "cust_id": "CUST-3-19",
+    "cust_name": "Leah Spencer",
+    "cust_bdate": "2002-01-29T00:00:00.000+00:00",
+    "cust_address": "793 Evans Locks Apt. 898\nNorth Stacy, NV 23160",
+    "cust_email": "teresastokes@example.org",
+    "cust_contact": "3613632945",
+    "total_services": 2,
+    "total_expenditure": 2665.0
+  },
+  {
+    "cust_id": "CUST-4-43",
+    "cust_name": "Lisa Mills",
+    "cust_bdate": "1973-06-01T00:00:00.000+00:00",
+    "cust_address": "99911 Kristi Ways\nNatalieview, MS 86325",
+    "cust_email": "earmstrong@example.org",
+    "cust_contact": "(746)529-9606",
+    "total_services": 12,
+    "total_expenditure": 11075.0
+  },
+  {
+    "cust_id": "CUST-3-20",
+    "cust_name": "Patrick Schroeder",
+    "cust_bdate": "1966-09-12T00:00:00.000+00:00",
+    "cust_address": "137 Robin Lodge Suite 850\nNorth Larry, NY 53373",
+    "cust_email": "kimberlywarren@example.net",
+    "cust_contact": "7235303070",
+    "total_services": 7,
+    "total_expenditure": 8422.5
+  },
+  {
+    "cust_id": "CUST-4-44",
+    "cust_name": "Becky Johnson",
+    "cust_bdate": "1970-03-17T00:00:00.000+00:00",
+    "cust_address": "79855 Mary Green Apt. 406\nEast Melissaborough, PR 29513",
+    "cust_email": "ericaadams@example.com",
+    "cust_contact": "800.772.2903x49446",
+    "total_services": 2,
+    "total_expenditure": 5175.0
+  },
+  {
+    "cust_id": "CUST-3-21",
+    "cust_name": "Loretta Silva",
+    "cust_bdate": "1945-05-12T00:00:00.000+00:00",
+    "cust_address": "994 Cohen Orchard Apt. 545\nJoseport, ID 20152",
+    "cust_email": "racheltrujillo@example.net",
+    "cust_contact": "(552)707-4466x6099",
+    "total_services": 1,
+    "total_expenditure": 1150.0
+  },
+  {
+    "cust_id": "CUST-2-36",
+    "cust_name": "Brandon Kelly",
+    "cust_bdate": "1995-07-04T00:00:00.000+00:00",
+    "cust_address": "5494 York Mountains Apt. 999\nSouth Pamelahaven, DE 89721",
+    "cust_email": "amoreno@example.org",
+    "cust_contact": "(423)356-9725",
+    "total_services": 1,
+    "total_expenditure": 1787.5
+  },
+  {
+    "cust_id": "CUST-2-37",
+    "cust_name": "Donald Juarez",
+    "cust_bdate": "1956-05-02T00:00:00.000+00:00",
+    "cust_address": "1296 Powell Neck\nSmithside, ID 96269",
+    "cust_email": "stephanie58@example.org",
+    "cust_contact": "6034354216",
+    "total_services": 12,
+    "total_expenditure": 13605.0
+  },
+  {
+    "cust_id": "CUST-4-45",
+    "cust_name": "Michael Anderson",
+    "cust_bdate": "2006-03-15T00:00:00.000+00:00",
+    "cust_address": "60332 Jessica Radial\nNorth Michael, SD 05398",
+    "cust_email": "qmcdowell@example.net",
+    "cust_contact": "+1-609-901-0016x761",
+    "total_services": 3,
+    "total_expenditure": 3672.5
+  },
+  {
+    "cust_id": "CUST-2-38",
+    "cust_name": "Jason Garcia",
+    "cust_bdate": "1980-04-08T00:00:00.000+00:00",
+    "cust_address": "1891 Wilson Coves\nGonzalezborough, WI 34972",
+    "cust_email": "michaelortiz@example.org",
+    "cust_contact": "3873375300",
+    "total_services": 6,
+    "total_expenditure": 6355.0
+  },
+  {
+    "cust_id": "CUST-2-39",
+    "cust_name": "Andrew Roberts",
+    "cust_bdate": "1999-05-30T00:00:00.000+00:00",
+    "cust_address": "110 Melissa Shore Apt. 557\nNatalieland, MN 45422",
+    "cust_email": "danielross@example.com",
+    "cust_contact": "967-962-1202x169",
+    "total_services": 5,
+    "total_expenditure": 8700.0
+  },
+  {
+    "cust_id": "CUST-4-46",
+    "cust_name": "Ernest Bush",
+    "cust_bdate": "1990-12-30T00:00:00.000+00:00",
+    "cust_address": "588 Ryan Stream\nSouth Michael, TX 84571",
+    "cust_email": "jhernandez@example.net",
+    "cust_contact": "7025877217",
+    "total_services": 3,
+    "total_expenditure": 3555.0
+  },
+  {
+    "cust_id": "CUST-3-22",
+    "cust_name": "Jamie Montoya",
+    "cust_bdate": "1950-03-24T00:00:00.000+00:00",
+    "cust_address": "77517 Curtis Loop Apt. 880\nPort Cassandraport, FM 67129",
+    "cust_email": "diamondbryant@example.com",
+    "cust_contact": "(303)575-8997x571",
+    "total_services": 2,
+    "total_expenditure": 650.0
+  },
+  {
+    "cust_id": "CUST-2-40",
+    "cust_name": "Steven Vasquez",
+    "cust_bdate": "2000-10-14T00:00:00.000+00:00",
+    "cust_address": "49331 Lewis Views Apt. 516\nLake Maryshire, DE 59549",
+    "cust_email": "gbarrett@example.org",
+    "cust_contact": "308.808.6978x2922",
+    "total_services": 3,
+    "total_expenditure": 1600.0
+  },
+  {
+    "cust_id": "CUST-2-41",
+    "cust_name": "Jennifer Lynch",
+    "cust_bdate": "1991-12-27T00:00:00.000+00:00",
+    "cust_address": "5472 Robert Squares Suite 858\nEast Jason, VT 38587",
+    "cust_email": "samantha22@example.net",
+    "cust_contact": "+1-651-858-7996",
+    "total_services": 2,
+    "total_expenditure": 1350.0
+  },
+  {
+    "cust_id": "CUST-3-23",
+    "cust_name": "Candace Mitchell",
+    "cust_bdate": "1961-11-29T00:00:00.000+00:00",
+    "cust_address": "438 Michael Mission\nNew Mirandaside, VI 29901",
+    "cust_email": "yyoung@example.net",
+    "cust_contact": "506-766-5800x4397",
+    "total_services": 3,
+    "total_expenditure": 6475.0
+  },
+  {
+    "cust_id": "CUST-2-42",
+    "cust_name": "Michael Lopez",
+    "cust_bdate": "1956-09-08T00:00:00.000+00:00",
+    "cust_address": "0648 Anderson Prairie\nAdammouth, VT 20791",
+    "cust_email": "hernandezmarcus@example.org",
+    "cust_contact": "001-494-879-8515x83281",
+    "total_services": 4,
+    "total_expenditure": 4287.5
+  },
+  {
+    "cust_id": "CUST-2-43",
+    "cust_name": "Mary Rivera",
+    "cust_bdate": "1964-11-02T00:00:00.000+00:00",
+    "cust_address": "015 Allen Row Apt. 056\nSouth Jonathanport, AK 68247",
+    "cust_email": "willie87@example.com",
+    "cust_contact": "2433581128",
+    "total_services": 7,
+    "total_expenditure": 10500.0
+  },
+  {
+    "cust_id": "CUST-3-24",
+    "cust_name": "Sara Harris",
+    "cust_bdate": "2001-04-04T00:00:00.000+00:00",
+    "cust_address": "120 Love Camp Apt. 102\nAngelashire, GU 30338",
+    "cust_email": "rickey76@example.com",
+    "cust_contact": "606-618-0919x01581",
+    "total_services": 2,
+    "total_expenditure": 2375.0
+  },
+  {
+    "cust_id": "CUST-2-44",
+    "cust_name": "Daniel Francis",
+    "cust_bdate": "1999-01-30T00:00:00.000+00:00",
+    "cust_address": "245 Angela Point Apt. 100\nMedinaland, ME 28033",
+    "cust_email": "jason82@example.org",
+    "cust_contact": "(939)343-1290",
+    "total_services": 9,
+    "total_expenditure": 5882.5
+  },
+  {
+    "cust_id": "CUST-2-45",
+    "cust_name": "Matthew Garcia",
+    "cust_bdate": "1987-01-08T00:00:00.000+00:00",
+    "cust_address": "7759 Steele Drives\nLindseychester, GA 01134",
+    "cust_email": "john36@example.com",
+    "cust_contact": "(325)677-7547x812",
+    "total_services": 4,
+    "total_expenditure": 2762.5
+  },
+  {
+    "cust_id": "CUST-4-47",
+    "cust_name": "Albert Hunter",
+    "cust_bdate": "1946-12-26T00:00:00.000+00:00",
+    "cust_address": "308 Stephens Plains Suite 256\nPort Brittany, PR 38642",
+    "cust_email": "stevendixon@example.com",
+    "cust_contact": "(480)939-2827x229",
+    "total_services": 3,
+    "total_expenditure": 2600.0
+  },
+  {
+    "cust_id": "CUST-3-25",
+    "cust_name": "Dennis Young",
+    "cust_bdate": "1990-05-11T00:00:00.000+00:00",
+    "cust_address": "7700 Garcia Pike Suite 498\nSouth Desiree, MN 77529",
+    "cust_email": "blacknicholas@example.org",
+    "cust_contact": "665.557.7908x27231",
+    "total_services": 3,
+    "total_expenditure": 2875.0
+  },
+  {
+    "cust_id": "CUST-4-48",
+    "cust_name": "Brian Leonard",
+    "cust_bdate": "1977-06-17T00:00:00.000+00:00",
+    "cust_address": "603 David Ramp\nEast Crystal, AZ 75509",
+    "cust_email": "brianscott@example.org",
+    "cust_contact": "869.490.4137x97723",
+    "total_services": 5,
+    "total_expenditure": 3307.5
+  },
+  {
+    "cust_id": "CUST-3-26",
+    "cust_name": "Deborah Ramsey",
+    "cust_bdate": "1968-03-07T00:00:00.000+00:00",
+    "cust_address": "PSC 9913, Box 6621\nAPO AE 27023",
+    "cust_email": "mserrano@example.org",
+    "cust_contact": "(979)490-8811",
+    "total_services": 9,
+    "total_expenditure": 7875.0
+  },
+  {
+    "cust_id": "CUST-2-46",
+    "cust_name": "Meghan Reynolds",
+    "cust_bdate": "1973-06-28T00:00:00.000+00:00",
+    "cust_address": "863 Clarke Light\nBriannashire, CT 56270",
+    "cust_email": "jonathancannon@example.org",
+    "cust_contact": "898-564-3009x8180",
+    "total_services": 3,
+    "total_expenditure": 3217.5
+  },
+  {
+    "cust_id": "CUST-2-47",
+    "cust_name": "Matthew King",
+    "cust_bdate": "2003-01-16T00:00:00.000+00:00",
+    "cust_address": "463 Arnold Point Suite 258\nKingport, OK 45636",
+    "cust_email": "qfitzgerald@example.org",
+    "cust_contact": "001-837-221-3865x8902",
+    "total_services": 7,
+    "total_expenditure": 5430.0
+  },
+  {
+    "cust_id": "CUST-4-49",
+    "cust_name": "Lee Ramsey",
+    "cust_bdate": "1972-02-16T00:00:00.000+00:00",
+    "cust_address": "902 Gonzales Flats Suite 309\nNew Gavin, AZ 47652",
+    "cust_email": "dianacantrell@example.org",
+    "cust_contact": "665-766-9380x118",
+    "total_services": 4,
+    "total_expenditure": 2800.0
+  },
+  {
+    "cust_id": "CUST-4-50",
+    "cust_name": "Rebecca Wright",
+    "cust_bdate": "1974-12-29T00:00:00.000+00:00",
+    "cust_address": "Unit 9735 Box 7790\nDPO AA 15740",
+    "cust_email": "carlos33@example.com",
+    "cust_contact": "(958)780-4341x65182",
+    "total_services": 10,
+    "total_expenditure": 10122.5
+  },
+  {
+    "cust_id": "CUST-4-51",
+    "cust_name": "Mr. Nicolas Salas II",
+    "cust_bdate": "1958-08-29T00:00:00.000+00:00",
+    "cust_address": "11179 Kathryn Plains Apt. 759\nTravisshire, VI 36510",
+    "cust_email": "wwhite@example.net",
+    "cust_contact": "763-892-0867x808",
+    "total_services": 4,
+    "total_expenditure": 4050.0
+  },
+  {
+    "cust_id": "CUST-4-52",
+    "cust_name": "Joseph Stewart",
+    "cust_bdate": "1945-06-08T00:00:00.000+00:00",
+    "cust_address": "9155 Lopez Greens\nWest Thomas, RI 45471",
+    "cust_email": "ivan63@example.com",
+    "cust_contact": "001-655-564-7292x931",
+    "total_services": 5,
+    "total_expenditure": 5565.0
+  },
+  {
+    "cust_id": "CUST-2-48",
+    "cust_name": "Javier Taylor",
+    "cust_bdate": "2005-08-25T00:00:00.000+00:00",
+    "cust_address": "4489 Raymond Spurs Apt. 034\nCombsville, NV 98096",
+    "cust_email": "jordan58@example.net",
+    "cust_contact": "650-761-5939x982",
+    "total_services": 8,
+    "total_expenditure": 8645.0
+  },
+  {
+    "cust_id": "CUST-4-53",
+    "cust_name": "Tyler Oneill",
+    "cust_bdate": "1988-06-14T00:00:00.000+00:00",
+    "cust_address": "9961 Fernando Forks Suite 544\nNelsonmouth, WI 48101",
+    "cust_email": "lgutierrez@example.org",
+    "cust_contact": "(334)913-2611",
+    "total_services": 6,
+    "total_expenditure": 5500.0
+  },
+  {
+    "cust_id": "CUST-4-54",
+    "cust_name": "Angela Baker",
+    "cust_bdate": "1955-06-06T00:00:00.000+00:00",
+    "cust_address": "3347 David Villages Apt. 005\nMichellemouth, VI 71356",
+    "cust_email": "amy28@example.org",
+    "cust_contact": "001-997-596-8845",
+    "total_services": 2,
+    "total_expenditure": 3350.0
+  },
+  {
+    "cust_id": "CUST-4-55",
+    "cust_name": "Sarah Cooper",
+    "cust_bdate": "1976-10-15T00:00:00.000+00:00",
+    "cust_address": "4064 Laura Plaza Suite 368\nFosterburgh, VT 97116",
+    "cust_email": "oclayton@example.com",
+    "cust_contact": "863-589-4484",
+    "total_services": 1,
+    "total_expenditure": 1300.0
+  },
+  {
+    "cust_id": "CUST-4-56",
+    "cust_name": "Derrick Espinoza",
+    "cust_bdate": "1994-05-05T00:00:00.000+00:00",
+    "cust_address": "07356 Floyd Parks\nSteventon, MA 11016",
+    "cust_email": "brianrowe@example.org",
+    "cust_contact": "+1-872-934-6013",
+    "total_services": 6,
+    "total_expenditure": 3825.0
+  },
+  {
+    "cust_id": "CUST-3-27",
+    "cust_name": "Anna Wade",
+    "cust_bdate": "1959-01-17T00:00:00.000+00:00",
+    "cust_address": "2088 Jon Route Suite 350\nNorth Joel, NE 43035",
+    "cust_email": "jacksonjoshua@example.org",
+    "cust_contact": "(330)709-7925x1327",
+    "total_services": 4,
+    "total_expenditure": 4450.0
+  },
+  {
+    "cust_id": "CUST-3-28",
+    "cust_name": "Matthew Miles",
+    "cust_bdate": "1998-09-21T00:00:00.000+00:00",
+    "cust_address": "58573 Hannah Knolls Apt. 407\nHansenside, UT 64738",
+    "cust_email": "ashleystephens@example.com",
+    "cust_contact": "001-774-998-2182x7448",
+    "total_services": 3,
+    "total_expenditure": 2350.0
+  },
+  {
+    "cust_id": "CUST-2-49",
+    "cust_name": "Kathleen Arnold",
+    "cust_bdate": "1986-07-31T00:00:00.000+00:00",
+    "cust_address": "511 Bradley Curve Apt. 031\nLeeton, OK 84616",
+    "cust_email": "hbarrett@example.net",
+    "cust_contact": "001-994-205-3910x371",
+    "total_services": 7,
+    "total_expenditure": 8375.0
+  },
+  {
+    "cust_id": "CUST-3-29",
+    "cust_name": "Rebecca Brown",
+    "cust_bdate": "1986-11-04T00:00:00.000+00:00",
+    "cust_address": "141 Susan Court\nLake Jerryfurt, ID 25813",
+    "cust_email": "ashleymeza@example.net",
+    "cust_contact": "001-786-419-5761x2286",
+    "total_services": 4,
+    "total_expenditure": 5297.5
+  },
+  {
+    "cust_id": "CUST-4-57",
+    "cust_name": "Krista Shea",
+    "cust_bdate": "2002-05-09T00:00:00.000+00:00",
+    "cust_address": "593 Nicholas Plaza Suite 577\nSmithton, LA 78588",
+    "cust_email": "holmesvictoria@example.com",
+    "cust_contact": "4433350488",
+    "total_services": 2,
+    "total_expenditure": 2125.0
+  },
+  {
+    "cust_id": "CUST-2-50",
+    "cust_name": "Kevin Hall",
+    "cust_bdate": "2000-01-21T00:00:00.000+00:00",
+    "cust_address": "315 Thompson Views Apt. 940\nMillerton, PW 44330",
+    "cust_email": "nichole66@example.org",
+    "cust_contact": "001-539-406-0480x58925",
+    "total_services": 3,
+    "total_expenditure": 2300.0
+  },
+  {
+    "cust_id": "CUST-3-30",
+    "cust_name": "Bradley Duncan",
+    "cust_bdate": "1948-03-20T00:00:00.000+00:00",
+    "cust_address": "68622 Hansen Oval Suite 938\nEast Charles, WI 56870",
+    "cust_email": "gail91@example.org",
+    "cust_contact": "+1-966-455-3559x04259",
+    "total_services": 1,
+    "total_expenditure": 422.5
+  },
+  {
+    "cust_id": "CUST-2-51",
+    "cust_name": "Brittney Chandler",
+    "cust_bdate": "1950-09-13T00:00:00.000+00:00",
+    "cust_address": "92405 Kevin Mountains\nWest Jasonside, IL 27213",
+    "cust_email": "ana92@example.net",
+    "cust_contact": "001-606-298-0420x439",
+    "total_services": 5,
+    "total_expenditure": 1875.0
+  },
+  {
+    "cust_id": "CUST-2-52",
+    "cust_name": "Mary Durham",
+    "cust_bdate": "1969-05-17T00:00:00.000+00:00",
+    "cust_address": "6368 Rebecca Oval\nEast Jamesmouth, OH 93885",
+    "cust_email": "williamssandra@example.com",
+    "cust_contact": "876-220-5554x38404",
+    "total_services": 6,
+    "total_expenditure": 7975.0
+  },
+  {
+    "cust_id": "CUST-4-58",
+    "cust_name": "Kelly Gregory",
+    "cust_bdate": "2004-04-01T00:00:00.000+00:00",
+    "cust_address": "3926 Browning Isle\nDanielsborough, SD 18664",
+    "cust_email": "michelleparker@example.net",
+    "cust_contact": "226.729.2518x81252",
+    "total_services": 3,
+    "total_expenditure": 1025.0
+  },
+  {
+    "cust_id": "CUST-3-31",
+    "cust_name": "Cody Farmer",
+    "cust_bdate": "1986-07-04T00:00:00.000+00:00",
+    "cust_address": "330 Miller Tunnel\nAndersonfort, VT 85641",
+    "cust_email": "jack67@example.com",
+    "cust_contact": "(523)530-6046",
+    "total_services": 6,
+    "total_expenditure": 8475.0
+  },
+  {
+    "cust_id": "CUST-3-32",
+    "cust_name": "David Sullivan",
+    "cust_bdate": "1947-09-16T00:00:00.000+00:00",
+    "cust_address": "569 Abigail Mission Suite 038\nTerrellton, OH 51278",
+    "cust_email": "leescott@example.com",
+    "cust_contact": "001-347-426-4908x27718",
+    "total_services": 7,
+    "total_expenditure": 3770.0
+  },
+  {
+    "cust_id": "CUST-2-53",
+    "cust_name": "Becky Wilson",
+    "cust_bdate": "1975-06-11T00:00:00.000+00:00",
+    "cust_address": "689 Nicholas Light\nPort Georgemouth, OK 86946",
+    "cust_email": "fernandothomas@example.net",
+    "cust_contact": "5642474212",
+    "total_services": 3,
+    "total_expenditure": 1475.0
+  },
+  {
+    "cust_id": "CUST-2-54",
+    "cust_name": "Kimberly Smith",
+    "cust_bdate": "2004-12-05T00:00:00.000+00:00",
+    "cust_address": "776 Miller Rapid\nEast Nicoleview, RI 82897",
+    "cust_email": "brandonhernandez@example.net",
+    "cust_contact": "(402)409-9451x016",
+    "total_services": 3,
+    "total_expenditure": 4625.0
+  },
+  {
+    "cust_id": "CUST-3-33",
+    "cust_name": "Rachel Thompson",
+    "cust_bdate": "1975-11-06T00:00:00.000+00:00",
+    "cust_address": "14556 Katherine Ville Apt. 472\nLake Michelemouth, NC 54733",
+    "cust_email": "heathersalazar@example.org",
+    "cust_contact": "001-681-779-4695",
+    "total_services": 4,
+    "total_expenditure": 5362.5
+  },
+  {
+    "cust_id": "CUST-4-59",
+    "cust_name": "Kathleen Morton",
+    "cust_bdate": "2004-12-29T00:00:00.000+00:00",
+    "cust_address": "01071 Lauren Mall Suite 055\nNorth Danielle, UT 37414",
+    "cust_email": "kristy44@example.net",
+    "cust_contact": "+1-250-415-5699",
+    "total_services": 7,
+    "total_expenditure": 7325.0
+  },
+  {
+    "cust_id": "CUST-4-60",
+    "cust_name": "Stephanie Ford",
+    "cust_bdate": "2000-04-07T00:00:00.000+00:00",
+    "cust_address": "495 Jared Spur\nLaurenstad, CA 20070",
+    "cust_email": "mary56@example.net",
+    "cust_contact": "+1-729-296-2914",
+    "total_services": 1,
+    "total_expenditure": 2250.0
+  },
+  {
+    "cust_id": "CUST-2-55",
+    "cust_name": "Rebecca Stein",
+    "cust_bdate": "1955-05-07T00:00:00.000+00:00",
+    "cust_address": "845 Kayla Courts Apt. 307\nReeveshaven, DE 01039",
+    "cust_email": "sarah91@example.com",
+    "cust_contact": "601.684.0943x533",
+    "total_services": 5,
+    "total_expenditure": 2595.0
+  },
+  {
+    "cust_id": "CUST-4-61",
+    "cust_name": "Regina Andrews",
+    "cust_bdate": "1956-07-08T00:00:00.000+00:00",
+    "cust_address": "702 Thomas Spring Apt. 160\nSouth Philipshire, SC 90957",
+    "cust_email": "tjensen@example.com",
+    "cust_contact": "981.679.2171",
+    "total_services": 1,
+    "total_expenditure": 900.0
+  },
+  {
+    "cust_id": "CUST-3-34",
+    "cust_name": "Susan Myers",
+    "cust_bdate": "1992-06-21T00:00:00.000+00:00",
+    "cust_address": "PSC 5577, Box 0171\nAPO AA 63238",
+    "cust_email": "ssingleton@example.com",
+    "cust_contact": "+1-992-881-6158x148",
+    "total_services": 5,
+    "total_expenditure": 5675.0
+  },
+  {
+    "cust_id": "CUST-4-62",
+    "cust_name": "Michael Reynolds",
+    "cust_bdate": "1974-06-27T00:00:00.000+00:00",
+    "cust_address": "321 Wilson Ranch Suite 581\nThompsonfurt, CA 78916",
+    "cust_email": "jenningscandace@example.com",
+    "cust_contact": "970-513-2902x27846",
+    "total_services": 6,
+    "total_expenditure": 6150.0
+  },
+  {
+    "cust_id": "CUST-2-56",
+    "cust_name": "Michelle Herman",
+    "cust_bdate": "1950-12-09T00:00:00.000+00:00",
+    "cust_address": "40580 Jacqueline View Suite 140\nSouth Jacqueline, MO 82449",
+    "cust_email": "jennifer66@example.com",
+    "cust_contact": "+1-832-472-3865",
+    "total_services": 1,
+    "total_expenditure": 375.0
+  },
+  {
+    "cust_id": "CUST-2-57",
+    "cust_name": "Matthew Thomas",
+    "cust_bdate": "2005-01-29T00:00:00.000+00:00",
+    "cust_address": "12679 Hanson Motorway Suite 876\nJeremiahchester, PA 01474",
+    "cust_email": "pbradford@example.net",
+    "cust_contact": "346.489.5009x75197",
+    "total_services": 2,
+    "total_expenditure": 2325.0
+  },
+  {
+    "cust_id": "CUST-4-63",
+    "cust_name": "Diana Black",
+    "cust_bdate": "1980-06-23T00:00:00.000+00:00",
+    "cust_address": "71894 Rebecca Place\nSouth Shawnfort, OK 96683",
+    "cust_email": "robert44@example.org",
+    "cust_contact": "2946940792",
+    "total_services": 10,
+    "total_expenditure": 12555.0
+  },
+  {
+    "cust_id": "CUST-3-35",
+    "cust_name": "Jonathan York",
+    "cust_bdate": "1963-10-08T00:00:00.000+00:00",
+    "cust_address": "4019 Renee Streets Apt. 752\nKimberlybury, NM 24200",
+    "cust_email": "cooperchristopher@example.org",
+    "cust_contact": "+1-627-366-3723x950",
+    "total_services": 2,
+    "total_expenditure": 2375.0
+  },
+  {
+    "cust_id": "CUST-2-58",
+    "cust_name": "Michael Price",
+    "cust_bdate": "1962-09-25T00:00:00.000+00:00",
+    "cust_address": "47658 Connor Place Suite 694\nJosephville, KS 86267",
+    "cust_email": "rmurray@example.net",
+    "cust_contact": "293.385.2580",
+    "total_services": 4,
+    "total_expenditure": 4270.0
+  },
+  {
+    "cust_id": "CUST-3-36",
+    "cust_name": "Daniel Campbell",
+    "cust_bdate": "1958-01-01T00:00:00.000+00:00",
+    "cust_address": "93911 Melissa Curve\nDouglasshire, AS 24718",
+    "cust_email": "dominguezjon@example.com",
+    "cust_contact": "+1-217-646-5421x40665",
+    "total_services": 3,
+    "total_expenditure": 3275.0
+  },
+  {
+    "cust_id": "CUST-3-37",
+    "cust_name": "Timothy Bishop Jr.",
+    "cust_bdate": "1978-05-07T00:00:00.000+00:00",
+    "cust_address": "91741 Charles Ports Suite 707\nLake Danielle, AZ 87612",
+    "cust_email": "gandrews@example.net",
+    "cust_contact": "001-777-766-1830x67198",
+    "total_services": 1,
+    "total_expenditure": 625.0
+  },
+  {
+    "cust_id": "CUST-4-64",
+    "cust_name": "Angela Stevens",
+    "cust_bdate": "1997-01-08T00:00:00.000+00:00",
+    "cust_address": "80634 Mosley Roads\nTommouth, WA 25334",
+    "cust_email": "austinjohnson@example.net",
+    "cust_contact": "276.218.4787",
+    "total_services": 8,
+    "total_expenditure": 9415.0
+  },
+  {
+    "cust_id": "CUST-2-59",
+    "cust_name": "Natalie Hall",
+    "cust_bdate": "1949-10-06T00:00:00.000+00:00",
+    "cust_address": "0790 Jacqueline Curve\nEast Cynthiaport, GU 13253",
+    "cust_email": "lcarr@example.org",
+    "cust_contact": "717-899-3136",
+    "total_services": 3,
+    "total_expenditure": 1150.0
+  },
+  {
+    "cust_id": "CUST-4-65",
+    "cust_name": "Leslie Rogers",
+    "cust_bdate": "1953-01-29T00:00:00.000+00:00",
+    "cust_address": "58273 Dennis Turnpike Suite 207\nNorth Adrianland, VT 85927",
+    "cust_email": "robert72@example.org",
+    "cust_contact": "(448)976-3290",
+    "total_services": 5,
+    "total_expenditure": 8150.0
+  },
+  {
+    "cust_id": "CUST-3-38",
+    "cust_name": "Jason Grant",
+    "cust_bdate": "1957-12-02T00:00:00.000+00:00",
+    "cust_address": "588 Steven Road\nWest Brian, DE 20059",
+    "cust_email": "kjimenez@example.net",
+    "cust_contact": "9052436459",
+    "total_services": 9,
+    "total_expenditure": 4575.0
+  },
+  {
+    "cust_id": "CUST-4-66",
+    "cust_name": "Jennifer Burgess",
+    "cust_bdate": "2005-12-30T00:00:00.000+00:00",
+    "cust_address": "3136 Nicholas Forges\nSouth Brendaton, FM 57630",
+    "cust_email": "javierlynch@example.org",
+    "cust_contact": "(652)473-5435x2090",
+    "total_services": 5,
+    "total_expenditure": 6512.5
+  },
+  {
+    "cust_id": "CUST-3-39",
+    "cust_name": "Robert Cisneros",
+    "cust_bdate": "2006-06-27T00:00:00.000+00:00",
+    "cust_address": "68739 Hood Harbors\nLake Ronniebury, IA 43400",
+    "cust_email": "lriley@example.org",
+    "cust_contact": "001-806-900-7806",
+    "total_services": 5,
+    "total_expenditure": 3862.5
+  },
+  {
+    "cust_id": "CUST-4-67",
+    "cust_name": "Bradley Mullins DDS",
+    "cust_bdate": "1972-07-13T00:00:00.000+00:00",
+    "cust_address": "USNS Howard\nFPO AE 85388",
+    "cust_email": "smithelizabeth@example.org",
+    "cust_contact": "001-279-390-7726x257",
+    "total_services": 2,
+    "total_expenditure": 1950.0
+  },
+  {
+    "cust_id": "CUST-3-40",
+    "cust_name": "Laura Clark",
+    "cust_bdate": "1991-06-15T00:00:00.000+00:00",
+    "cust_address": "085 Daniel Lakes Suite 905\nGregoryside, VT 09283",
+    "cust_email": "devonrogers@example.net",
+    "cust_contact": "879-633-5548",
+    "total_services": 1,
+    "total_expenditure": 1125.0
+  },
+  {
+    "cust_id": "CUST-4-68",
+    "cust_name": "Stephen Miller",
+    "cust_bdate": "1971-06-13T00:00:00.000+00:00",
+    "cust_address": "PSC 4112, Box 4127\nAPO AE 27273",
+    "cust_email": "cartertara@example.net",
+    "cust_contact": "(275)567-0431",
+    "total_services": 4,
+    "total_expenditure": 4745.0
+  },
+  {
+    "cust_id": "CUST-2-60",
+    "cust_name": "Mary Buchanan",
+    "cust_bdate": "1977-12-11T00:00:00.000+00:00",
+    "cust_address": "4924 Kristina Forks Suite 540\nWest Justin, GA 81586",
+    "cust_email": "jennifermitchell@example.org",
+    "cust_contact": "001-422-531-0592x745",
+    "total_services": 1,
+    "total_expenditure": 600.0
+  },
+  {
+    "cust_id": "CUST-4-69",
+    "cust_name": "Jake Fernandez",
+    "cust_bdate": "1955-12-05T00:00:00.000+00:00",
+    "cust_address": "67275 Adam Streets\nDeborahport, NJ 38489",
+    "cust_email": "laurenchandler@example.com",
+    "cust_contact": "317-702-8140x69375",
+    "total_services": 2,
+    "total_expenditure": 2275.0
+  },
+  {
+    "cust_id": "CUST-3-41",
+    "cust_name": "Timothy Ramirez",
+    "cust_bdate": "1946-05-25T00:00:00.000+00:00",
+    "cust_address": "186 Tracy Rapids Apt. 562\nWoodstad, AL 37810",
+    "cust_email": "michael78@example.org",
+    "cust_contact": "376.474.2662",
+    "total_services": 8,
+    "total_expenditure": 6632.5
+  },
+  {
+    "cust_id": "CUST-4-70",
+    "cust_name": "Mrs. Toni Avila",
+    "cust_bdate": "1950-11-18T00:00:00.000+00:00",
+    "cust_address": "2879 James Village Suite 487\nPort Margaretshire, ME 65263",
+    "cust_email": "ywalker@example.org",
+    "cust_contact": "(544)271-4627",
+    "total_services": 2,
+    "total_expenditure": 2535.0
+  },
+  {
+    "cust_id": "CUST-3-42",
+    "cust_name": "Sheena Burton",
+    "cust_bdate": "1977-04-04T00:00:00.000+00:00",
+    "cust_address": "Unit 1589 Box 0429\nDPO AE 19655",
+    "cust_email": "steven25@example.org",
+    "cust_contact": "3455650448",
+    "total_services": 4,
+    "total_expenditure": 3450.0
+  },
+  {
+    "cust_id": "CUST-2-61",
+    "cust_name": "Melissa Davis",
+    "cust_bdate": "1984-05-02T00:00:00.000+00:00",
+    "cust_address": "28457 Peterson Estates\nEast Ericbury, MP 25197",
+    "cust_email": "butlersabrina@example.org",
+    "cust_contact": "(707)454-5279",
+    "total_services": 3,
+    "total_expenditure": 4017.5
+  },
+  {
+    "cust_id": "CUST-2-62",
+    "cust_name": "Michael Bowers",
+    "cust_bdate": "1950-02-25T00:00:00.000+00:00",
+    "cust_address": "0310 Taylor Glen Apt. 140\nPort Davidborough, OR 26718",
+    "cust_email": "ellenjohnson@example.org",
+    "cust_contact": "001-249-555-2893x8911",
+    "total_services": 1,
+    "total_expenditure": 1125.0
+  },
+  {
+    "cust_id": "CUST-4-71",
+    "cust_name": "Michael Lopez",
+    "cust_bdate": "1990-09-11T00:00:00.000+00:00",
+    "cust_address": "USNS Davenport\nFPO AA 56087",
+    "cust_email": "willierussell@example.com",
+    "cust_contact": "271-382-7548",
+    "total_services": 4,
+    "total_expenditure": 3175.0
+  },
+  {
+    "cust_id": "CUST-3-43",
+    "cust_name": "Julian Roberts",
+    "cust_bdate": "2003-01-26T00:00:00.000+00:00",
+    "cust_address": "5207 Randy Pike\nNorth Douglasfurt, UT 77906",
+    "cust_email": "figueroapatricia@example.org",
+    "cust_contact": "853-953-9613",
+    "total_services": 5,
+    "total_expenditure": 5350.0
+  },
+  {
+    "cust_id": "CUST-4-72",
+    "cust_name": "Ashley King",
+    "cust_bdate": "1978-09-13T00:00:00.000+00:00",
+    "cust_address": "10170 Patrick Springs\nEricville, WV 10530",
+    "cust_email": "msparks@example.com",
+    "cust_contact": "+1-977-784-8588x00616",
+    "total_services": 5,
+    "total_expenditure": 3427.5
+  },
+  {
+    "cust_id": "CUST-2-63",
+    "cust_name": "Matthew Chan",
+    "cust_bdate": "2005-01-24T00:00:00.000+00:00",
+    "cust_address": "2467 Ashley Overpass Suite 782\nSouth Joseshire, MS 81364",
+    "cust_email": "katie45@example.org",
+    "cust_contact": "8903255905",
+    "total_services": 1,
+    "total_expenditure": 250.0
+  },
+  {
+    "cust_id": "CUST-4-73",
+    "cust_name": "David Young",
+    "cust_bdate": "1966-02-06T00:00:00.000+00:00",
+    "cust_address": "1520 Johnson Shoals\nBradleychester, KY 03175",
+    "cust_email": "uchapman@example.com",
+    "cust_contact": "001-965-791-7135",
+    "total_services": 2,
+    "total_expenditure": 1397.5
+  },
+  {
+    "cust_id": "CUST-4-74",
+    "cust_name": "Samuel Lewis",
+    "cust_bdate": "1962-11-27T00:00:00.000+00:00",
+    "cust_address": "91919 Nelson Port Suite 635\nLake Madisonhaven, AS 39810",
+    "cust_email": "ualvarado@example.org",
+    "cust_contact": "(964)698-7820x82973",
+    "total_services": 7,
+    "total_expenditure": 7937.5
+  },
+  {
+    "cust_id": "CUST-2-64",
+    "cust_name": "Kelly Diaz",
+    "cust_bdate": "1954-12-01T00:00:00.000+00:00",
+    "cust_address": "6513 Adams Heights Apt. 493\nAllenberg, ID 04132",
+    "cust_email": "lauracollins@example.com",
+    "cust_contact": "+1-666-603-2420",
+    "total_services": 4,
+    "total_expenditure": 2850.0
+  },
+  {
+    "cust_id": "CUST-3-44",
+    "cust_name": "Matthew Davis",
+    "cust_bdate": "2002-01-04T00:00:00.000+00:00",
+    "cust_address": "19818 Crawford Course\nNew David, AS 41580",
+    "cust_email": "marisa63@example.com",
+    "cust_contact": "221.923.4764",
+    "total_services": 4,
+    "total_expenditure": 4647.5
+  },
+  {
+    "cust_id": "CUST-4-75",
+    "cust_name": "Richard Thomas",
+    "cust_bdate": "1977-03-14T00:00:00.000+00:00",
+    "cust_address": "90034 Parker Squares Suite 183\nPricefurt, PW 33994",
+    "cust_email": "christopher34@example.org",
+    "cust_contact": "(875)760-4177",
+    "total_services": 3,
+    "total_expenditure": 3867.5
+  },
+  {
+    "cust_id": "CUST-3-45",
+    "cust_name": "Melissa Hunter",
+    "cust_bdate": "1968-10-21T00:00:00.000+00:00",
+    "cust_address": "0027 Aaron Flats Suite 591\nEast Johnberg, PR 78359",
+    "cust_email": "usparks@example.com",
+    "cust_contact": "824.529.5431x6526",
+    "total_services": 4,
+    "total_expenditure": 2990.0
+  },
+  {
+    "cust_id": "CUST-3-46",
+    "cust_name": "Dennis Christian",
+    "cust_bdate": "1948-04-01T00:00:00.000+00:00",
+    "cust_address": "421 Jackson Port Apt. 086\nWilcoxfort, DE 29924",
+    "cust_email": "jamesatkins@example.com",
+    "cust_contact": "476-226-3934x3626",
+    "total_services": 5,
+    "total_expenditure": 2632.5
+  },
+  {
+    "cust_id": "CUST-4-76",
+    "cust_name": "Michelle Fitzgerald",
+    "cust_bdate": "1962-04-19T00:00:00.000+00:00",
+    "cust_address": "53759 Adam Parkways\nTurnerfurt, TN 49115",
+    "cust_email": "tammyhansen@example.net",
+    "cust_contact": "(742)887-5721",
+    "total_services": 3,
+    "total_expenditure": 6110.0
+  },
+  {
+    "cust_id": "CUST-4-77",
+    "cust_name": "Zachary Gallagher",
+    "cust_bdate": "1955-02-26T00:00:00.000+00:00",
+    "cust_address": "32032 Thomas Estates Suite 617\nSouth Michaelside, NM 60500",
+    "cust_email": "urodriguez@example.org",
+    "cust_contact": "551-234-2284",
+    "total_services": 4,
+    "total_expenditure": 5895.0
+  },
+  {
+    "cust_id": "CUST-3-47",
+    "cust_name": "Randy Rhodes",
+    "cust_bdate": "2005-03-31T00:00:00.000+00:00",
+    "cust_address": "165 Mary Drives Apt. 177\nFullerview, PA 86747",
+    "cust_email": "riverabradley@example.net",
+    "cust_contact": "859.323.0450x189",
+    "total_services": 2,
+    "total_expenditure": 2050.0
+  },
+  {
+    "cust_id": "CUST-3-48",
+    "cust_name": "Richard Mitchell",
+    "cust_bdate": "1996-01-27T00:00:00.000+00:00",
+    "cust_address": "USNS Martinez\nFPO AA 57171",
+    "cust_email": "rebecca92@example.com",
+    "cust_contact": "+1-815-783-7767x49961",
+    "total_services": 1,
+    "total_expenditure": 375.0
+  },
+  {
+    "cust_id": "CUST-3-49",
+    "cust_name": "Glenn Ford",
+    "cust_bdate": "1960-02-14T00:00:00.000+00:00",
+    "cust_address": "8814 Kim Unions\nEvansberg, TX 39876",
+    "cust_email": "alexandraphillips@example.org",
+    "cust_contact": "+1-910-681-8661",
+    "total_services": 7,
+    "total_expenditure": 6950.0
+  },
+  {
+    "cust_id": "CUST-4-78",
+    "cust_name": "Patrick Ford",
+    "cust_bdate": "1998-05-12T00:00:00.000+00:00",
+    "cust_address": "16459 Todd Mission Suite 523\nNorth Julie, PA 34490",
+    "cust_email": "hamiltonandrew@example.com",
+    "cust_contact": "702-877-6974",
+    "total_services": 5,
+    "total_expenditure": 7125.0
+  },
+  {
+    "cust_id": "CUST-4-79",
+    "cust_name": "Alexander Castillo",
+    "cust_bdate": "1954-09-27T00:00:00.000+00:00",
+    "cust_address": "831 Carrillo Drive Suite 601\nEast Joanne, NV 64077",
+    "cust_email": "csmith@example.net",
+    "cust_contact": "834.896.0501",
+    "total_services": 2,
+    "total_expenditure": 625.0
+  },
+  {
+    "cust_id": "CUST-4-80",
+    "cust_name": "Donna Freeman",
+    "cust_bdate": "1977-12-10T00:00:00.000+00:00",
+    "cust_address": "08069 Tran Grove Suite 717\nShanechester, AK 21647",
+    "cust_email": "jessica75@example.com",
+    "cust_contact": "883.895.9724",
+    "total_services": 4,
+    "total_expenditure": 3300.0
+  },
+  {
+    "cust_id": "CUST-3-50",
+    "cust_name": "Rebecca Richard",
+    "cust_bdate": "1987-03-06T00:00:00.000+00:00",
+    "cust_address": "722 Eric Overpass\nPort Robertfort, ME 31266",
+    "cust_email": "angelakidd@example.com",
+    "cust_contact": "352-528-0156x193",
+    "total_services": 3,
+    "total_expenditure": 2500.0
+  },
+  {
+    "cust_id": "CUST-4-81",
+    "cust_name": "Shelly Munoz",
+    "cust_bdate": "1951-12-13T00:00:00.000+00:00",
+    "cust_address": "1199 Madison Canyon Apt. 213\nEricport, VT 58371",
+    "cust_email": "goconnor@example.org",
+    "cust_contact": "+1-455-321-3760x3754",
+    "total_services": 3,
+    "total_expenditure": 2250.0
+  },
+  {
+    "cust_id": "CUST-2-65",
+    "cust_name": "Rachel Taylor",
+    "cust_bdate": "1974-01-16T00:00:00.000+00:00",
+    "cust_address": "8507 Kayla Stravenue Apt. 155\nHoldenburgh, NE 08557",
+    "cust_email": "qmalone@example.net",
+    "cust_contact": "(790)784-6684",
+    "total_services": 9,
+    "total_expenditure": 10897.5
+  },
+  {
+    "cust_id": "CUST-2-66",
+    "cust_name": "Joshua Kramer",
+    "cust_bdate": "1989-03-26T00:00:00.000+00:00",
+    "cust_address": "634 Benjamin Isle Suite 288\nJasonhaven, OH 41428",
+    "cust_email": "katherine20@example.org",
+    "cust_contact": "+1-794-634-6810",
+    "total_services": 5,
+    "total_expenditure": 2950.0
+  },
+  {
+    "cust_id": "CUST-2-67",
+    "cust_name": "Jody Bird",
+    "cust_bdate": "1999-09-02T00:00:00.000+00:00",
+    "cust_address": "4492 Stone Gateway\nWest Zacharyborough, GU 47853",
+    "cust_email": "tgarcia@example.com",
+    "cust_contact": "(811)606-2737x15869",
+    "total_services": 1,
+    "total_expenditure": 625.0
+  },
+  {
+    "cust_id": "CUST-2-68",
+    "cust_name": "Melissa Gibson",
+    "cust_bdate": "1947-01-30T00:00:00.000+00:00",
+    "cust_address": "96115 Williams Drives Apt. 545\nKellytown, WY 19227",
+    "cust_email": "kristenfisher@example.com",
+    "cust_contact": "632-970-1851x0679",
+    "total_services": 4,
+    "total_expenditure": 2500.0
+  },
+  {
+    "cust_id": "CUST-3-51",
+    "cust_name": "Lisa Gill",
+    "cust_bdate": "1979-03-18T00:00:00.000+00:00",
+    "cust_address": "725 Lauren Shores Suite 636\nAmbermouth, WA 36857",
+    "cust_email": "clinejasmine@example.net",
+    "cust_contact": "+1-548-918-1398x9098",
+    "total_services": 3,
+    "total_expenditure": 3575.0
+  },
+  {
+    "cust_id": "CUST-3-52",
+    "cust_name": "Tonya Hill",
+    "cust_bdate": "1958-11-13T00:00:00.000+00:00",
+    "cust_address": "89569 Travis Brooks Suite 626\nPort Allisonfurt, KS 12431",
+    "cust_email": "pettyamber@example.com",
+    "cust_contact": "(724)412-4620",
+    "total_services": 1,
+    "total_expenditure": 750.0
+  },
+  {
+    "cust_id": "CUST-2-69",
+    "cust_name": "Jason Nguyen",
+    "cust_bdate": "1970-06-01T00:00:00.000+00:00",
+    "cust_address": "USS Williams\nFPO AE 99084",
+    "cust_email": "trevorgoodwin@example.com",
+    "cust_contact": "240-857-8617",
+    "total_services": 1,
+    "total_expenditure": 650.0
+  },
+  {
+    "cust_id": "CUST-4-82",
+    "cust_name": "Laurie Garcia",
+    "cust_bdate": "1996-10-12T00:00:00.000+00:00",
+    "cust_address": "9671 Krista Divide\nAmberburgh, WY 32634",
+    "cust_email": "jali@example.com",
+    "cust_contact": "6076942007",
+    "total_services": 5,
+    "total_expenditure": 2300.0
+  },
+  {
+    "cust_id": "CUST-3-53",
+    "cust_name": "Patrick Hart",
+    "cust_bdate": "1965-04-27T00:00:00.000+00:00",
+    "cust_address": "84639 Henson Junctions\nTiffanymouth, KY 32735",
+    "cust_email": "matthew79@example.com",
+    "cust_contact": "9208970026",
+    "total_services": 2,
+    "total_expenditure": 1175.0
+  },
+  {
+    "cust_id": "CUST-4-83",
+    "cust_name": "Andre Collier",
+    "cust_bdate": "1990-07-26T00:00:00.000+00:00",
+    "cust_address": "6956 Mary Valleys\nNorth Stevenborough, NV 01728",
+    "cust_email": "juliachang@example.net",
+    "cust_contact": "001-953-519-4337x504",
+    "total_services": 3,
+    "total_expenditure": 4575.0
+  },
+  {
+    "cust_id": "CUST-2-70",
+    "cust_name": "Lindsey Thompson",
+    "cust_bdate": "1984-11-19T00:00:00.000+00:00",
+    "cust_address": "49384 Melanie Brooks\nErinmouth, AL 56483",
+    "cust_email": "nashmarcus@example.com",
+    "cust_contact": "918-777-5803x046",
+    "total_services": 1,
+    "total_expenditure": 1350.0
+  },
+  {
+    "cust_id": "CUST-2-71",
+    "cust_name": "Allison Mclaughlin",
+    "cust_bdate": "1991-10-14T00:00:00.000+00:00",
+    "cust_address": "32541 Anthony Meadows\nNew Lauramouth, MP 33322",
+    "cust_email": "danielallen@example.com",
+    "cust_contact": "9583319971",
+    "total_services": 3,
+    "total_expenditure": 4367.5
+  },
+  {
+    "cust_id": "CUST-2-72",
+    "cust_name": "Ryan Brown",
+    "cust_bdate": "1953-07-16T00:00:00.000+00:00",
+    "cust_address": "49611 Anita Hill Suite 619\nHalltown, NH 50822",
+    "cust_email": "npope@example.net",
+    "cust_contact": "350-278-5931",
+    "total_services": 2,
+    "total_expenditure": 800.0
+  },
+  {
+    "cust_id": "CUST-2-73",
+    "cust_name": "Kenneth Walsh",
+    "cust_bdate": "1962-04-21T00:00:00.000+00:00",
+    "cust_address": "972 Devin Cape Apt. 249\nPalmerstad, ME 77003",
+    "cust_email": "dylanparker@example.com",
+    "cust_contact": "550-589-2038x8065",
+    "total_services": 5,
+    "total_expenditure": 5717.5
+  },
+  {
+    "cust_id": "CUST-3-54",
+    "cust_name": "Gabriela Evans",
+    "cust_bdate": "1967-03-23T00:00:00.000+00:00",
+    "cust_address": "73033 Hanson Garden Suite 563\nLopeztown, MN 01797",
+    "cust_email": "howardangela@example.org",
+    "cust_contact": "473-795-0033x4234",
+    "total_services": 2,
+    "total_expenditure": 1075.0
+  },
+  {
+    "cust_id": "CUST-3-55",
+    "cust_name": "Dennis Garcia",
+    "cust_bdate": "2001-06-10T00:00:00.000+00:00",
+    "cust_address": "153 Bryant Land Suite 289\nJohnsland, DE 19432",
+    "cust_email": "lauralee@example.com",
+    "cust_contact": "001-455-796-3099x384",
+    "total_services": 2,
+    "total_expenditure": 2500.0
+  },
+  {
+    "cust_id": "CUST-2-74",
+    "cust_name": "Jordan Silva",
+    "cust_bdate": "1978-02-19T00:00:00.000+00:00",
+    "cust_address": "9128 Potter Rue\nVictormouth, HI 42683",
+    "cust_email": "alicia77@example.com",
+    "cust_contact": "696-890-3337x363",
+    "total_services": 5,
+    "total_expenditure": 6650.0
+  },
+  {
+    "cust_id": "CUST-3-56",
+    "cust_name": "Joshua Taylor",
+    "cust_bdate": "1950-07-31T00:00:00.000+00:00",
+    "cust_address": "90789 Simmons Mountain Suite 657\nJoshuatown, HI 58393",
+    "cust_email": "josephjones@example.org",
+    "cust_contact": "588-781-4311x1508",
+    "total_services": 6,
+    "total_expenditure": 4747.5
+  },
+  {
+    "cust_id": "CUST-3-57",
+    "cust_name": "Yolanda Murillo",
+    "cust_bdate": "1996-01-23T00:00:00.000+00:00",
+    "cust_address": "44566 Thomas Passage Apt. 633\nSouth Jesus, OR 72933",
+    "cust_email": "dsharp@example.com",
+    "cust_contact": "253-766-3778",
+    "total_services": 1,
+    "total_expenditure": 2875.0
+  },
+  {
+    "cust_id": "CUST-2-75",
+    "cust_name": "Charles Rowland",
+    "cust_bdate": "1967-05-03T00:00:00.000+00:00",
+    "cust_address": "3618 Lopez Coves Suite 974\nEast Damonside, HI 04703",
+    "cust_email": "mjohnson@example.org",
+    "cust_contact": "(743)834-8170x5802",
+    "total_services": 6,
+    "total_expenditure": 6355.0
+  },
+  {
+    "cust_id": "CUST-3-58",
+    "cust_name": "Patrick Price",
+    "cust_bdate": "2006-05-08T00:00:00.000+00:00",
+    "cust_address": "46729 Matthews Parkway\nHilltown, FL 58923",
+    "cust_email": "summerscassidy@example.org",
+    "cust_contact": "459.877.7901x47546",
+    "total_services": 3,
+    "total_expenditure": 2225.0
+  },
+  {
+    "cust_id": "CUST-3-59",
+    "cust_name": "Thomas White",
+    "cust_bdate": "1983-07-23T00:00:00.000+00:00",
+    "cust_address": "24841 Regina Loop\nWest Charlesville, NY 43232",
+    "cust_email": "qhayes@example.org",
+    "cust_contact": "307.401.7656x36004",
+    "total_services": 6,
+    "total_expenditure": 3802.5
+  },
+  {
+    "cust_id": "CUST-3-60",
+    "cust_name": "Brenda Hoover",
+    "cust_bdate": "2002-02-17T00:00:00.000+00:00",
+    "cust_address": "124 Amanda Lock\nNorth Emily, AL 89286",
+    "cust_email": "eric52@example.org",
+    "cust_contact": "001-208-237-0816x470",
+    "total_services": 7,
+    "total_expenditure": 8225.0
+  },
+  {
+    "cust_id": "CUST-2-76",
+    "cust_name": "David Davis",
+    "cust_bdate": "1973-07-22T00:00:00.000+00:00",
+    "cust_address": "3131 Jennifer Cape\nHuntmouth, MD 74170",
+    "cust_email": "colleenvilla@example.com",
+    "cust_contact": "(913)531-5520x65063",
+    "total_services": 4,
+    "total_expenditure": 3225.0
+  },
+  {
+    "cust_id": "CUST-2-77",
+    "cust_name": "Joshua Mooney",
+    "cust_bdate": "2002-09-26T00:00:00.000+00:00",
+    "cust_address": "95625 Cynthia Spurs Suite 715\nNew Rhondamouth, MS 67482",
+    "cust_email": "wesleybush@example.org",
+    "cust_contact": "309.214.3639",
+    "total_services": 2,
+    "total_expenditure": 1975.0
+  },
+  {
+    "cust_id": "CUST-3-61",
+    "cust_name": "Martin Young",
+    "cust_bdate": "1994-03-21T00:00:00.000+00:00",
+    "cust_address": "524 Schneider Trace Apt. 864\nEast Melaniemouth, MA 32253",
+    "cust_email": "amberknox@example.net",
+    "cust_contact": "339.968.5270",
+    "total_services": 1,
+    "total_expenditure": 650.0
+  },
+  {
+    "cust_id": "CUST-4-84",
+    "cust_name": "Dan Davis",
+    "cust_bdate": "1985-03-10T00:00:00.000+00:00",
+    "cust_address": "81674 Jennifer Gardens\nThompsonbury, ME 37902",
+    "cust_email": "mfaulkner@example.com",
+    "cust_contact": "915.266.2776x8962",
+    "total_services": 2,
+    "total_expenditure": 2475.0
+  },
+  {
+    "cust_id": "CUST-4-85",
+    "cust_name": "Elizabeth Medina",
+    "cust_bdate": "1982-06-26T00:00:00.000+00:00",
+    "cust_address": "7474 Hart Orchard Apt. 527\nEast Sabrina, AL 02183",
+    "cust_email": "travis66@example.net",
+    "cust_contact": "(567)849-1601x692",
+    "total_services": 3,
+    "total_expenditure": 3675.0
+  },
+  {
+    "cust_id": "CUST-4-86",
+    "cust_name": "Anthony Cruz",
+    "cust_bdate": "1973-09-19T00:00:00.000+00:00",
+    "cust_address": "0502 Jacobs Springs\nWest John, OR 87349",
+    "cust_email": "alexanderwise@example.net",
+    "cust_contact": "001-866-691-8362x644",
+    "total_services": 1,
+    "total_expenditure": 300.0
+  },
+  {
+    "cust_id": "CUST-3-62",
+    "cust_name": "Robin Adams",
+    "cust_bdate": "1959-02-13T00:00:00.000+00:00",
+    "cust_address": "USCGC Hale\nFPO AE 22573",
+    "cust_email": "esmith@example.net",
+    "cust_contact": "(386)946-2252x23728",
+    "total_services": 6,
+    "total_expenditure": 6142.5
+  },
+  {
+    "cust_id": "CUST-3-63",
+    "cust_name": "Mark Miller",
+    "cust_bdate": "1950-09-11T00:00:00.000+00:00",
+    "cust_address": "50937 Chambers Courts Apt. 040\nNorth Jasontown, MS 79535",
+    "cust_email": "sarah75@example.net",
+    "cust_contact": "(255)955-3566x90551",
+    "total_services": 3,
+    "total_expenditure": 1690.0
+  },
+  {
+    "cust_id": "CUST-4-87",
+    "cust_name": "Allison Martinez",
+    "cust_bdate": "1980-12-20T00:00:00.000+00:00",
+    "cust_address": "7978 Keller Alley\nAllenstad, VI 06498",
+    "cust_email": "erica39@example.com",
+    "cust_contact": "(291)456-7164x9328",
+    "total_services": 5,
+    "total_expenditure": 3650.0
+  },
+  {
+    "cust_id": "CUST-3-64",
+    "cust_name": "Alyssa Hickman MD",
+    "cust_bdate": "1970-12-16T00:00:00.000+00:00",
+    "cust_address": "471 Sandra Roads\nDavismouth, VI 29835",
+    "cust_email": "schneidernicholas@example.net",
+    "cust_contact": "001-568-363-3414x1115",
+    "total_services": 1,
+    "total_expenditure": 390.0
+  },
+  {
+    "cust_id": "CUST-4-88",
+    "cust_name": "Norman Collins",
+    "cust_bdate": "1985-01-06T00:00:00.000+00:00",
+    "cust_address": "5528 Daniel Branch Suite 524\nSouth Erin, FL 79336",
+    "cust_email": "dustin09@example.com",
+    "cust_contact": "581-549-7374x6052",
+    "total_services": 3,
+    "total_expenditure": 1825.0
+  },
+  {
+    "cust_id": "CUST-2-78",
+    "cust_name": "John Myers",
+    "cust_bdate": "2000-04-28T00:00:00.000+00:00",
+    "cust_address": "86567 Todd Lock\nNew Jessicaport, UT 26072",
+    "cust_email": "udavis@example.net",
+    "cust_contact": "4475292774",
+    "total_services": 6,
+    "total_expenditure": 5475.0
+  },
+  {
+    "cust_id": "CUST-2-79",
+    "cust_name": "Jessica Skinner",
+    "cust_bdate": "1948-09-11T00:00:00.000+00:00",
+    "cust_address": "01859 Booker Road Suite 301\nSouth Tracy, UT 78640",
+    "cust_email": "denisebennett@example.net",
+    "cust_contact": "+1-517-264-7501x11178",
+    "total_services": 4,
+    "total_expenditure": 3125.0
+  },
+  {
+    "cust_id": "CUST-4-89",
+    "cust_name": "Melissa Smith",
+    "cust_bdate": "1975-04-19T00:00:00.000+00:00",
+    "cust_address": "29321 York Bypass\nNorth Williamstad, ND 22993",
+    "cust_email": "qrowland@example.org",
+    "cust_contact": "940.784.8729",
+    "total_services": 2,
+    "total_expenditure": 600.0
+  },
+  {
+    "cust_id": "CUST-3-65",
+    "cust_name": "Christine Garcia",
+    "cust_bdate": "2000-08-24T00:00:00.000+00:00",
+    "cust_address": "24329 Brittany Harbors\nLake Cindy, CA 72570",
+    "cust_email": "jorge26@example.com",
+    "cust_contact": "746-428-3143",
+    "total_services": 2,
+    "total_expenditure": 1072.5
+  },
+  {
+    "cust_id": "CUST-4-90",
+    "cust_name": "Alexander Munoz",
+    "cust_bdate": "1950-02-19T00:00:00.000+00:00",
+    "cust_address": "861 Bowman Lake\nKimberlyberg, VI 30092",
+    "cust_email": "alejandro63@example.com",
+    "cust_contact": "712-684-9718",
+    "total_services": 2,
+    "total_expenditure": 1975.0
+  },
+  {
+    "cust_id": "CUST-3-66",
+    "cust_name": "Travis Price",
+    "cust_bdate": "1968-05-08T00:00:00.000+00:00",
+    "cust_address": "9240 Diane Divide Suite 940\nJasminebury, TX 80284",
+    "cust_email": "lmann@example.com",
+    "cust_contact": "(778)344-6834x146",
+    "total_services": 4,
+    "total_expenditure": 2975.0
+  },
+  {
+    "cust_id": "CUST-2-80",
+    "cust_name": "Travis Rhodes",
+    "cust_bdate": "1994-08-05T00:00:00.000+00:00",
+    "cust_address": "816 Christina Village Apt. 685\nLake Donna, PW 69721",
+    "cust_email": "lawsontami@example.net",
+    "cust_contact": "001-783-321-5285x06762",
+    "total_services": 3,
+    "total_expenditure": 2450.0
+  },
+  {
+    "cust_id": "CUST-3-67",
+    "cust_name": "Mr. Aaron Welch",
+    "cust_bdate": "1971-08-25T00:00:00.000+00:00",
+    "cust_address": "807 Brown Avenue Suite 545\nNorth Michaelburgh, MO 46970",
+    "cust_email": "garciatravis@example.org",
+    "cust_contact": "782.861.7024x37654",
+    "total_services": 3,
+    "total_expenditure": 2400.0
+  },
+  {
+    "cust_id": "CUST-3-68",
+    "cust_name": "Ashley Mitchell",
+    "cust_bdate": "1953-12-16T00:00:00.000+00:00",
+    "cust_address": "23741 Burns Park Apt. 568\nAndersonville, WY 03273",
+    "cust_email": "ericporter@example.net",
+    "cust_contact": "605.969.0674",
+    "total_services": 5,
+    "total_expenditure": 4025.0
+  },
+  {
+    "cust_id": "CUST-3-69",
+    "cust_name": "Jessica Wells",
+    "cust_bdate": "1998-02-15T00:00:00.000+00:00",
+    "cust_address": "92312 Johnson Fields\nSouth Andres, ID 12420",
+    "cust_email": "jamesalicia@example.net",
+    "cust_contact": "+1-733-656-7086x0414",
+    "total_services": 1,
+    "total_expenditure": 1800.0
+  },
+  {
+    "cust_id": "CUST-4-91",
+    "cust_name": "Erica Mitchell",
+    "cust_bdate": "1963-12-05T00:00:00.000+00:00",
+    "cust_address": "PSC 1624, Box 7554\nAPO AE 13200",
+    "cust_email": "vegakaylee@example.org",
+    "cust_contact": "455-398-9534x39611",
+    "total_services": 2,
+    "total_expenditure": 2242.5
+  },
+  {
+    "cust_id": "CUST-3-70",
+    "cust_name": "Tom Montgomery",
+    "cust_bdate": "1965-05-18T00:00:00.000+00:00",
+    "cust_address": "202 Robert Station\nPatriciaside, MI 48474",
+    "cust_email": "hsoto@example.com",
+    "cust_contact": "476-688-0294",
+    "total_services": 2,
+    "total_expenditure": 2650.0
+  },
+  {
+    "cust_id": "CUST-3-71",
+    "cust_name": "Natalie Sanders",
+    "cust_bdate": "1991-06-16T00:00:00.000+00:00",
+    "cust_address": "78686 Lawson Ford\nNorth Ernest, IL 78110",
+    "cust_email": "suarezkrystal@example.com",
+    "cust_contact": "684.243.4481x23083",
+    "total_services": 3,
+    "total_expenditure": 2225.0
+  },
+  {
+    "cust_id": "CUST-3-72",
+    "cust_name": "Shane Williams",
+    "cust_bdate": "1961-10-22T00:00:00.000+00:00",
+    "cust_address": "Unit 3810 Box 5955\nDPO AE 92967",
+    "cust_email": "jennifer69@example.com",
+    "cust_contact": "500-953-4240x89164",
+    "total_services": 1,
+    "total_expenditure": 1350.0
+  },
+  {
+    "cust_id": "CUST-2-81",
+    "cust_name": "Nicholas Holland Jr.",
+    "cust_bdate": "1955-12-13T00:00:00.000+00:00",
+    "cust_address": "931 Charles Gardens Suite 618\nLake Karen, AL 79575",
+    "cust_email": "grayandrew@example.org",
+    "cust_contact": "001-502-431-4290x01851",
+    "total_services": 4,
+    "total_expenditure": 4000.0
+  },
+  {
+    "cust_id": "CUST-4-92",
+    "cust_name": "Christopher Brown",
+    "cust_bdate": "1991-12-15T00:00:00.000+00:00",
+    "cust_address": "01841 Thomas Fork\nEast Ronaldberg, MI 86400",
+    "cust_email": "jeremiah61@example.com",
+    "cust_contact": "(313)714-5195",
+    "total_services": 1,
+    "total_expenditure": 487.5
+  },
+  {
+    "cust_id": "CUST-4-93",
+    "cust_name": "Meghan Hernandez",
+    "cust_bdate": "1990-04-09T00:00:00.000+00:00",
+    "cust_address": "1475 Cochran Station Apt. 022\nDylanmouth, VA 63210",
+    "cust_email": "wilsonronald@example.net",
+    "cust_contact": "821-752-2655x767",
+    "total_services": 3,
+    "total_expenditure": 2925.0
+  },
+  {
+    "cust_id": "CUST-2-82",
+    "cust_name": "Joshua Hall Jr.",
+    "cust_bdate": "1993-07-06T00:00:00.000+00:00",
+    "cust_address": "135 James Vista\nWest Angelaberg, PW 14939",
+    "cust_email": "pruittmichael@example.org",
+    "cust_contact": "272-886-3330x2126",
+    "total_services": 1,
+    "total_expenditure": 550.0
+  },
+  {
+    "cust_id": "CUST-3-73",
+    "cust_name": "Jacob Miller",
+    "cust_bdate": "1950-02-08T00:00:00.000+00:00",
+    "cust_address": "27284 Jenkins Junction Suite 041\nNorth Nicole, AZ 79691",
+    "cust_email": "wesleysmith@example.com",
+    "cust_contact": "+1-478-549-8436x24186",
+    "total_services": 2,
+    "total_expenditure": 1600.0
+  },
+  {
+    "cust_id": "CUST-2-83",
+    "cust_name": "Michael Woods",
+    "cust_bdate": "1989-04-11T00:00:00.000+00:00",
+    "cust_address": "05634 Dan Lake Suite 034\nNew Daniel, IL 78765",
+    "cust_email": "avilakyle@example.net",
+    "cust_contact": "903.241.9909",
+    "total_services": 3,
+    "total_expenditure": 3150.0
+  },
+  {
+    "cust_id": "CUST-2-84",
+    "cust_name": "Dr. Tina Porter",
+    "cust_bdate": "1966-04-06T00:00:00.000+00:00",
+    "cust_address": "15681 Andrew Underpass Suite 790\nEvanmouth, CO 82545",
+    "cust_email": "cisnerosjesse@example.org",
+    "cust_contact": "+1-822-288-9857x25459",
+    "total_services": 2,
+    "total_expenditure": 1200.0
+  },
+  {
+    "cust_id": "CUST-4-94",
+    "cust_name": "Leroy Jones",
+    "cust_bdate": "1955-03-26T00:00:00.000+00:00",
+    "cust_address": "02481 Davis Island Apt. 421\nBarbarastad, CO 09824",
+    "cust_email": "jennifermurray@example.com",
+    "cust_contact": "472-919-7054x669",
+    "total_services": 3,
+    "total_expenditure": 7410.0
+  },
+  {
+    "cust_id": "CUST-3-74",
+    "cust_name": "Michael Hunter",
+    "cust_bdate": "1962-09-30T00:00:00.000+00:00",
+    "cust_address": "038 Eric Cove\nNicholasshire, MO 10066",
+    "cust_email": "paulford@example.org",
+    "cust_contact": "(877)787-1121x663",
+    "total_services": 3,
+    "total_expenditure": 4425.0
+  },
+  {
+    "cust_id": "CUST-4-95",
+    "cust_name": "Joshua Fry",
+    "cust_bdate": "1954-10-06T00:00:00.000+00:00",
+    "cust_address": "096 Sharon Lake Suite 730\nPort Andrew, WV 90111",
+    "cust_email": "onelson@example.org",
+    "cust_contact": "521-646-1476",
+    "total_services": 5,
+    "total_expenditure": 1975.0
+  },
+  {
+    "cust_id": "CUST-2-85",
+    "cust_name": "Rachel Sheppard",
+    "cust_bdate": "1974-08-02T00:00:00.000+00:00",
+    "cust_address": "89319 Mario View Suite 027\nSouth Michelle, DE 88836",
+    "cust_email": "ubaker@example.org",
+    "cust_contact": "827.591.0336x829",
+    "total_services": 1,
+    "total_expenditure": 450.0
+  },
+  {
+    "cust_id": "CUST-2-86",
+    "cust_name": "Alexis Cervantes",
+    "cust_bdate": "1945-12-18T00:00:00.000+00:00",
+    "cust_address": "177 Jenkins Knoll Suite 851\nSouth Ross, HI 72951",
+    "cust_email": "amyjames@example.net",
+    "cust_contact": "001-964-391-1110x961",
+    "total_services": 2,
+    "total_expenditure": 1875.0
+  },
+  {
+    "cust_id": "CUST-3-75",
+    "cust_name": "Kristen Wilson",
+    "cust_bdate": "2003-02-19T00:00:00.000+00:00",
+    "cust_address": "7660 Casey Parkways\nJosephview, ME 54858",
+    "cust_email": "adamstout@example.org",
+    "cust_contact": "8025589552",
+    "total_services": 1,
+    "total_expenditure": 750.0
+  },
+  {
+    "cust_id": "CUST-3-76",
+    "cust_name": "Jennifer Flores",
+    "cust_bdate": "1955-08-24T00:00:00.000+00:00",
+    "cust_address": "281 Cameron Road\nMaryburgh, MD 27208",
+    "cust_email": "davissamuel@example.net",
+    "cust_contact": "001-592-509-8196x02752",
+    "total_services": 3,
+    "total_expenditure": 3150.0
+  },
+  {
+    "cust_id": "CUST-4-96",
+    "cust_name": "Rachel Townsend",
+    "cust_bdate": "1989-09-21T00:00:00.000+00:00",
+    "cust_address": "09117 Daniel Haven\nPatricialand, CA 65282",
+    "cust_email": "roberta36@example.org",
+    "cust_contact": "606.217.1366x5722",
+    "total_services": 2,
+    "total_expenditure": 1100.0
+  },
+  {
+    "cust_id": "CUST-3-77",
+    "cust_name": "Autumn Cooper",
+    "cust_bdate": "1968-06-17T00:00:00.000+00:00",
+    "cust_address": "84139 Amanda Path\nEast Michelle, DE 28938",
+    "cust_email": "murphyjeffrey@example.net",
+    "cust_contact": "001-824-847-3158x477",
+    "total_services": 3,
+    "total_expenditure": 2100.0
+  },
+  {
+    "cust_id": "CUST-4-97",
+    "cust_name": "Ricky Matthews",
+    "cust_bdate": "1956-02-19T00:00:00.000+00:00",
+    "cust_address": "7694 Dean Rest Suite 639\nNathanielland, NV 22422",
+    "cust_email": "rubiojohnny@example.com",
+    "cust_contact": "398-556-0125x6253",
+    "total_services": 6,
+    "total_expenditure": 7025.0
+  },
+  {
+    "cust_id": "CUST-2-87",
+    "cust_name": "Angela Stafford",
+    "cust_bdate": "1973-07-24T00:00:00.000+00:00",
+    "cust_address": "5330 Jimenez Harbor Suite 117\nNew Mark, MS 31489",
+    "cust_email": "mitchelldawn@example.net",
+    "cust_contact": "7742260880",
+    "total_services": 3,
+    "total_expenditure": 3650.0
+  },
+  {
+    "cust_id": "CUST-3-78",
+    "cust_name": "Denise Molina",
+    "cust_bdate": "1972-02-08T00:00:00.000+00:00",
+    "cust_address": "9064 Snyder Row Apt. 591\nEast Brandontown, DC 14281",
+    "cust_email": "michelle63@example.org",
+    "cust_contact": "235-680-0401",
+    "total_services": 4,
+    "total_expenditure": 4250.0
+  },
+  {
+    "cust_id": "CUST-4-98",
+    "cust_name": "Debra Jackson",
+    "cust_bdate": "1954-03-28T00:00:00.000+00:00",
+    "cust_address": "52967 Aimee Garden\nStanleyview, MD 96296",
+    "cust_email": "qperez@example.com",
+    "cust_contact": "001-515-983-3117x030",
+    "total_services": 2,
+    "total_expenditure": 1600.0
+  },
+  {
+    "cust_id": "CUST-2-88",
+    "cust_name": "Paige Collins",
+    "cust_bdate": "1975-10-04T00:00:00.000+00:00",
+    "cust_address": "35679 Kimberly Field\nWest Rodneyport, VI 76161",
+    "cust_email": "thomasnancy@example.net",
+    "cust_contact": "930-772-4078",
+    "total_services": 5,
+    "total_expenditure": 4325.0
+  },
+  {
+    "cust_id": "CUST-4-99",
+    "cust_name": "Chris Shaw",
+    "cust_bdate": "1979-06-05T00:00:00.000+00:00",
+    "cust_address": "5106 Lee Field Suite 294\nStoneville, TX 07037",
+    "cust_email": "susanrobinson@example.org",
+    "cust_contact": "8948318143",
+    "total_services": 1,
+    "total_expenditure": 375.0
+  },
+  {
+    "cust_id": "CUST-2-89",
+    "cust_name": "Aaron Lopez",
+    "cust_bdate": "2006-08-21T00:00:00.000+00:00",
+    "cust_address": "432 Maldonado Expressway Apt. 572\nLake Thomasmouth, AK 23768",
+    "cust_email": "nicole20@example.net",
+    "cust_contact": "(579)407-3710x094",
+    "total_services": 3,
+    "total_expenditure": 1900.0
+  },
+  {
+    "cust_id": "CUST-4-100",
+    "cust_name": "Gabriela Henry",
+    "cust_bdate": "1968-09-24T00:00:00.000+00:00",
+    "cust_address": "Unit 4745 Box 7054\nDPO AP 44244",
+    "cust_email": "hernandezrobert@example.org",
+    "cust_contact": "+1-625-970-3965x31361",
+    "total_services": 6,
+    "total_expenditure": 5262.5
+  },
+  {
+    "cust_id": "CUST-3-79",
+    "cust_name": "Gary Lawrence",
+    "cust_bdate": "1963-08-30T00:00:00.000+00:00",
+    "cust_address": "859 Ryan Motorway\nKeithtown, NM 90354",
+    "cust_email": "stevenhernandez@example.com",
+    "cust_contact": "+1-682-347-4140x703",
+    "total_services": 1,
+    "total_expenditure": 625.0
+  },
+  {
+    "cust_id": "CUST-3-80",
+    "cust_name": "Mandy Henderson",
+    "cust_bdate": "2006-05-23T00:00:00.000+00:00",
+    "cust_address": "9429 Shelton Islands Apt. 342\nSpencerport, ME 11720",
+    "cust_email": "ashley78@example.org",
+    "cust_contact": "(861)828-7585x7567",
+    "total_services": 2,
+    "total_expenditure": 1175.0
+  },
+  {
+    "cust_id": "CUST-4-101",
+    "cust_name": "Marc Yoder",
+    "cust_bdate": "2004-08-05T00:00:00.000+00:00",
+    "cust_address": "60787 Christopher Groves Apt. 591\nArianamouth, VI 08478",
+    "cust_email": "yangemily@example.net",
+    "cust_contact": "001-203-982-8723x244",
+    "total_services": 3,
+    "total_expenditure": 2225.0
+  },
+  {
+    "cust_id": "CUST-3-81",
+    "cust_name": "Brian Johnson",
+    "cust_bdate": "1979-04-13T00:00:00.000+00:00",
+    "cust_address": "46723 Underwood Springs\nVillarrealville, NE 19669",
+    "cust_email": "lopezlori@example.net",
+    "cust_contact": "328.983.7744",
+    "total_services": 1,
+    "total_expenditure": 450.0
+  },
+  {
+    "cust_id": "CUST-2-90",
+    "cust_name": "Julie Li",
+    "cust_bdate": "1954-12-11T00:00:00.000+00:00",
+    "cust_address": "96094 Deanna Shoals Suite 052\nKhanmouth, KY 01696",
+    "cust_email": "michaelfoley@example.net",
+    "cust_contact": "758.968.1225",
+    "total_services": 2,
+    "total_expenditure": 910.0
+  },
+  {
+    "cust_id": "CUST-2-91",
+    "cust_name": "Patricia Fox",
+    "cust_bdate": "1953-09-01T00:00:00.000+00:00",
+    "cust_address": "961 Anthony Street Apt. 311\nVillafort, MD 30848",
+    "cust_email": "danielgilmore@example.net",
+    "cust_contact": "(461)709-4101x7590",
+    "total_services": 2,
+    "total_expenditure": 1852.5
+  },
+  {
+    "cust_id": "CUST-3-82",
+    "cust_name": "Kristie Gonzalez",
+    "cust_bdate": "1978-04-13T00:00:00.000+00:00",
+    "cust_address": "32683 Brandi Roads Apt. 302\nWest Kimshire, ND 09933",
+    "cust_email": "jacob87@example.org",
+    "cust_contact": "397.985.5982",
+    "total_services": 4,
+    "total_expenditure": 5425.0
+  },
+  {
+    "cust_id": "CUST-2-92",
+    "cust_name": "David Guzman",
+    "cust_bdate": "1967-05-20T00:00:00.000+00:00",
+    "cust_address": "6512 Jones Ports Apt. 898\nReginaldton, ND 91926",
+    "cust_email": "aguilarsharon@example.com",
+    "cust_contact": "+1-200-556-4350x2385",
+    "total_services": 1,
+    "total_expenditure": 162.5
+  },
+  {
+    "cust_id": "CUST-4-102",
+    "cust_name": "Rhonda Reed",
+    "cust_bdate": "1949-09-04T00:00:00.000+00:00",
+    "cust_address": "USS Clay\nFPO AA 17470",
+    "cust_email": "jennifer10@example.com",
+    "cust_contact": "235.967.4300x03896",
+    "total_services": 2,
+    "total_expenditure": 750.0
+  },
+  {
+    "cust_id": "CUST-4-103",
+    "cust_name": "Steven Haas",
+    "cust_bdate": "1969-11-19T00:00:00.000+00:00",
+    "cust_address": "0331 Jeremy Summit Apt. 030\nNorth Davidburgh, LA 06231",
+    "cust_email": "michael34@example.org",
+    "cust_contact": "+1-967-611-1483x753",
+    "total_services": 1,
+    "total_expenditure": 1125.0
+  },
+  {
+    "cust_id": "CUST-4-104",
+    "cust_name": "Kelsey Adams",
+    "cust_bdate": "1992-05-06T00:00:00.000+00:00",
+    "cust_address": "56974 James Dam\nWest Judy, IL 16589",
+    "cust_email": "jenny20@example.org",
+    "cust_contact": "001-377-210-7044x964",
+    "total_services": 2,
+    "total_expenditure": 3000.0
+  },
+  {
+    "cust_id": "CUST-3-83",
+    "cust_name": "Janice Williams",
+    "cust_bdate": "1958-11-11T00:00:00.000+00:00",
+    "cust_address": "040 Pineda Rest Suite 493\nWest Jessicachester, VI 56540",
+    "cust_email": "aguirreangela@example.net",
+    "cust_contact": "+1-248-676-9984x26732",
+    "total_services": 3,
+    "total_expenditure": 1900.0
+  },
+  {
+    "cust_id": "CUST-2-93",
+    "cust_name": "Joshua Morgan",
+    "cust_bdate": "1971-09-18T00:00:00.000+00:00",
+    "cust_address": "4490 Kurt Shore Suite 427\nSmithtown, NH 05351",
+    "cust_email": "timothy83@example.com",
+    "cust_contact": "4916498517",
+    "total_services": 3,
+    "total_expenditure": 1525.0
+  },
+  {
+    "cust_id": "CUST-2-94",
+    "cust_name": "Mark Thomas",
+    "cust_bdate": "1986-11-30T00:00:00.000+00:00",
+    "cust_address": "02879 Williams Stravenue\nNorth Stephanie, KS 34244",
+    "cust_email": "gregorymeredith@example.com",
+    "cust_contact": "+1-309-335-1187",
+    "total_services": 1,
+    "total_expenditure": 450.0
+  },
+  {
+    "cust_id": "CUST-3-84",
+    "cust_name": "Jennifer May",
+    "cust_bdate": "2004-06-18T00:00:00.000+00:00",
+    "cust_address": "9556 Ruiz Hill\nEast Michealport, FL 77994",
+    "cust_email": "rodriguezjason@example.com",
+    "cust_contact": "889.353.6902x61139",
+    "total_services": 2,
+    "total_expenditure": 875.0
+  },
+  {
+    "cust_id": "CUST-4-105",
+    "cust_name": "Joseph Alexander",
+    "cust_bdate": "1963-03-07T00:00:00.000+00:00",
+    "cust_address": "53537 Goodman Crescent Apt. 765\nWest Annland, PW 47987",
+    "cust_email": "cjacobs@example.com",
+    "cust_contact": "692.683.6929",
+    "total_services": 3,
+    "total_expenditure": 3477.5
+  },
+  {
+    "cust_id": "CUST-2-95",
+    "cust_name": "Brittany Snyder",
+    "cust_bdate": "2004-11-04T00:00:00.000+00:00",
+    "cust_address": "0216 Cannon Station\nNewtonberg, VI 04967",
+    "cust_email": "kjohnson@example.org",
+    "cust_contact": "(588)666-5268",
+    "total_services": 3,
+    "total_expenditure": 4775.0
+  },
+  {
+    "cust_id": "CUST-4-106",
+    "cust_name": "Donna Woods",
+    "cust_bdate": "1954-01-08T00:00:00.000+00:00",
+    "cust_address": "09957 Flores Fall\nShirleyville, IN 39475",
+    "cust_email": "kpeterson@example.net",
+    "cust_contact": "698.764.5652x20368",
+    "total_services": 4,
+    "total_expenditure": 3835.0
+  },
+  {
+    "cust_id": "CUST-2-96",
+    "cust_name": "Jeffrey Mcclure",
+    "cust_bdate": "1964-06-29T00:00:00.000+00:00",
+    "cust_address": "USNV Zhang\nFPO AE 30867",
+    "cust_email": "donald38@example.net",
+    "cust_contact": "001-820-990-8830x70534",
+    "total_services": 2,
+    "total_expenditure": 1350.0
+  },
+  {
+    "cust_id": "CUST-3-85",
+    "cust_name": "Wendy Dennis",
+    "cust_bdate": "1952-10-14T00:00:00.000+00:00",
+    "cust_address": "Unit 1315 Box 2854\nDPO AA 83158",
+    "cust_email": "mannleroy@example.org",
+    "cust_contact": "(618)953-8003x29633",
+    "total_services": 2,
+    "total_expenditure": 1950.0
+  },
+  {
+    "cust_id": "CUST-4-107",
+    "cust_name": "Craig Liu",
+    "cust_bdate": "1979-12-30T00:00:00.000+00:00",
+    "cust_address": "61789 Jennifer Camp\nWattsfurt, SC 77033",
+    "cust_email": "danawashington@example.net",
+    "cust_contact": "(943)647-7695",
+    "total_services": 2,
+    "total_expenditure": 2210.0
+  },
+  {
+    "cust_id": "CUST-2-97",
+    "cust_name": "Matthew Wilson",
+    "cust_bdate": "1976-06-27T00:00:00.000+00:00",
+    "cust_address": "USS Bailey\nFPO AA 92883",
+    "cust_email": "kimwebb@example.com",
+    "cust_contact": "+1-663-704-4836x085",
+    "total_services": 1,
+    "total_expenditure": 1300.0
+  },
+  {
+    "cust_id": "CUST-3-86",
+    "cust_name": "Ralph Brown",
+    "cust_bdate": "1948-03-18T00:00:00.000+00:00",
+    "cust_address": "328 Heath Forks Suite 255\nLewisbury, AL 05229",
+    "cust_email": "fischeralisha@example.net",
+    "cust_contact": "(870)424-4033x0416",
+    "total_services": 3,
+    "total_expenditure": 2950.0
+  },
+  {
+    "cust_id": "CUST-3-87",
+    "cust_name": "Jonathan Warner",
+    "cust_bdate": "1994-09-19T00:00:00.000+00:00",
+    "cust_address": "892 Jill Turnpike\nLeeport, WY 42932",
+    "cust_email": "bhunt@example.com",
+    "cust_contact": "873-614-9764x613",
+    "total_services": 3,
+    "total_expenditure": 3425.0
+  },
+  {
+    "cust_id": "CUST-2-98",
+    "cust_name": "Jonathan Long",
+    "cust_bdate": "1970-03-24T00:00:00.000+00:00",
+    "cust_address": "3906 Sergio Neck\nLake Lanceberg, AS 83065",
+    "cust_email": "davisgary@example.com",
+    "cust_contact": "001-531-226-9789",
+    "total_services": 2,
+    "total_expenditure": 1050.0
+  },
+  {
+    "cust_id": "CUST-4-108",
+    "cust_name": "Chris Morris",
+    "cust_bdate": "1983-05-01T00:00:00.000+00:00",
+    "cust_address": "3878 Edwards Run\nWest Steven, NJ 67928",
+    "cust_email": "morseronald@example.org",
+    "cust_contact": "(420)928-1237x1067",
+    "total_services": 3,
+    "total_expenditure": 2875.0
+  },
+  {
+    "cust_id": "CUST-3-88",
+    "cust_name": "Shirley Nelson",
+    "cust_bdate": "1966-10-19T00:00:00.000+00:00",
+    "cust_address": "224 Leah Station Suite 894\nFordmouth, WA 94889",
+    "cust_email": "frankespinoza@example.com",
+    "cust_contact": "5565227104",
+    "total_services": 3,
+    "total_expenditure": 1925.0
+  },
+  {
+    "cust_id": "CUST-4-109",
+    "cust_name": "Justin Perez",
+    "cust_bdate": "1987-08-27T00:00:00.000+00:00",
+    "cust_address": "4694 Weber Lodge\nAnnborough, CA 78179",
+    "cust_email": "dakotarobinson@example.org",
+    "cust_contact": "991-528-9659x994",
+    "total_services": 2,
+    "total_expenditure": 1075.0
+  },
+  {
+    "cust_id": "CUST-4-110",
+    "cust_name": "Autumn Castro",
+    "cust_bdate": "1970-07-16T00:00:00.000+00:00",
+    "cust_address": "4858 Nicole Ville Apt. 242\nCastrofort, UT 33339",
+    "cust_email": "grantryan@example.com",
+    "cust_contact": "(505)875-6398",
+    "total_services": 2,
+    "total_expenditure": 825.0
+  },
+  {
+    "cust_id": "CUST-4-111",
+    "cust_name": "Kathryn Smith",
+    "cust_bdate": "1963-06-11T00:00:00.000+00:00",
+    "cust_address": "760 Hill Centers Apt. 797\nThompsonside, AS 14117",
+    "cust_email": "woodchloe@example.net",
+    "cust_contact": "(722)316-1070",
+    "total_services": 3,
+    "total_expenditure": 675.0
+  },
+  {
+    "cust_id": "CUST-2-99",
+    "cust_name": "William Bowen",
+    "cust_bdate": "1969-10-14T00:00:00.000+00:00",
+    "cust_address": "0138 Jessica Corner Apt. 704\nLake William, HI 83771",
+    "cust_email": "collinsann@example.org",
+    "cust_contact": "279-419-7111x21259",
+    "total_services": 3,
+    "total_expenditure": 1900.0
+  },
+  {
+    "cust_id": "CUST-3-89",
+    "cust_name": "Nathaniel Wright",
+    "cust_bdate": "2001-11-03T00:00:00.000+00:00",
+    "cust_address": "240 Mccarthy Fall\nDonaldmouth, MT 30118",
+    "cust_email": "joshuagonzalez@example.com",
+    "cust_contact": "274-817-5955x872",
+    "total_services": 2,
+    "total_expenditure": 1775.0
+  },
+  {
+    "cust_id": "CUST-2-100",
+    "cust_name": "Gordon Schmitt",
+    "cust_bdate": "1982-05-26T00:00:00.000+00:00",
+    "cust_address": "83437 Johnson Crescent Apt. 727\nNathanfurt, TN 77622",
+    "cust_email": "morrisdaniel@example.com",
+    "cust_contact": "6264755125",
+    "total_services": 4,
+    "total_expenditure": 3375.0
+  },
+  {
+    "cust_id": "CUST-2-101",
+    "cust_name": "Joyce Johnston",
+    "cust_bdate": "1974-06-18T00:00:00.000+00:00",
+    "cust_address": "45957 Evans Wells Apt. 816\nSchroedershire, MO 78236",
+    "cust_email": "martingarrett@example.com",
+    "cust_contact": "+1-983-892-2501x425",
+    "total_services": 1,
+    "total_expenditure": 1875.0
+  },
+  {
+    "cust_id": "CUST-2-102",
+    "cust_name": "Elizabeth Miller",
+    "cust_bdate": "1960-12-07T00:00:00.000+00:00",
+    "cust_address": "32850 Moore Courts Suite 863\nBarnettmouth, VT 32317",
+    "cust_email": "hugheslucas@example.org",
+    "cust_contact": "(454)569-6815x7903",
+    "total_services": 2,
+    "total_expenditure": 1900.0
+  },
+  {
+    "cust_id": "CUST-3-90",
+    "cust_name": "Nicole Melendez",
+    "cust_bdate": "1988-10-16T00:00:00.000+00:00",
+    "cust_address": "03461 Cruz Falls Suite 244\nLeonardfort, AZ 34713",
+    "cust_email": "zwhite@example.net",
+    "cust_contact": "917.215.1602x52986",
+    "total_services": 2,
+    "total_expenditure": 650.0
+  },
+  {
+    "cust_id": "CUST-4-112",
+    "cust_name": "Rebekah Cole",
+    "cust_bdate": "1970-03-26T00:00:00.000+00:00",
+    "cust_address": "512 Schmidt Lights Apt. 205\nJamesmouth, NE 06863",
+    "cust_email": "hcampbell@example.com",
+    "cust_contact": "450.695.4654x084",
+    "total_services": 1,
+    "total_expenditure": 575.0
+  },
+  {
+    "cust_id": "CUST-4-113",
+    "cust_name": "Jessica Hill",
+    "cust_bdate": "1976-01-12T00:00:00.000+00:00",
+    "cust_address": "897 Charles Landing\nEast Chelseaville, MS 67692",
+    "cust_email": "morgandana@example.com",
+    "cust_contact": "(560)224-1613x94498",
+    "total_services": 3,
+    "total_expenditure": 2075.0
+  },
+  {
+    "cust_id": "CUST-2-103",
+    "cust_name": "Michael Jacobs",
+    "cust_bdate": "2006-10-08T00:00:00.000+00:00",
+    "cust_address": "0630 Sandoval Harbor Suite 795\nEast Jeffreymouth, IN 08853",
+    "cust_email": "jessica97@example.net",
+    "cust_contact": "(995)986-7805x55572",
+    "total_services": 3,
+    "total_expenditure": 1675.0
+  },
+  {
+    "cust_id": "CUST-3-91",
+    "cust_name": "Andrew Phelps",
+    "cust_bdate": "1950-03-18T00:00:00.000+00:00",
+    "cust_address": "38544 Hayes Mountain Apt. 299\nNew Michael, NE 54947",
+    "cust_email": "potterjustin@example.net",
+    "cust_contact": "636.482.6911x6331",
+    "total_services": 1,
+    "total_expenditure": 300.0
+  },
+  {
+    "cust_id": "CUST-3-92",
+    "cust_name": "Krista Bell",
+    "cust_bdate": "1959-09-06T00:00:00.000+00:00",
+    "cust_address": "5158 Perez Lodge Suite 747\nPort Gregory, LA 00938",
+    "cust_email": "kathryn21@example.com",
+    "cust_contact": "001-366-863-0932",
+    "total_services": 3,
+    "total_expenditure": 2725.0
+  },
+  {
+    "cust_id": "CUST-3-93",
+    "cust_name": "Kaitlyn Davis",
+    "cust_bdate": "1970-01-22T00:00:00.000+00:00",
+    "cust_address": "832 Wood Well Apt. 273\nDavidland, MH 04549",
+    "cust_email": "beckystevens@example.net",
+    "cust_contact": "+1-373-227-8195x237",
+    "total_services": 2,
+    "total_expenditure": 2500.0
+  },
+  {
+    "cust_id": "CUST-3-94",
+    "cust_name": "Julie Cruz",
+    "cust_bdate": "1998-02-23T00:00:00.000+00:00",
+    "cust_address": "819 Samuel Views Apt. 460\nReginaldhaven, SC 85649",
+    "cust_email": "hpatterson@example.org",
+    "cust_contact": "(549)912-5652",
+    "total_services": 3,
+    "total_expenditure": 3575.0
+  },
+  {
+    "cust_id": "CUST-4-114",
+    "cust_name": "Linda Juarez",
+    "cust_bdate": "1954-12-08T00:00:00.000+00:00",
+    "cust_address": "59544 Ashley Inlet\nMarquezport, FL 97983",
+    "cust_email": "dwaynecarter@example.com",
+    "cust_contact": "830-939-4290x458",
+    "total_services": 1,
+    "total_expenditure": 1150.0
+  },
+  {
+    "cust_id": "CUST-3-95",
+    "cust_name": "Sean Washington",
+    "cust_bdate": "1956-05-15T00:00:00.000+00:00",
+    "cust_address": "76015 Kyle Fork Apt. 491\nWest Victor, OK 84208",
+    "cust_email": "larsenmegan@example.net",
+    "cust_contact": "635.306.1581",
+    "total_services": 2,
+    "total_expenditure": 675.0
+  },
+  {
+    "cust_id": "CUST-2-104",
+    "cust_name": "Joy Williams",
+    "cust_bdate": "1986-04-25T00:00:00.000+00:00",
+    "cust_address": "31284 Jared Gardens Suite 718\nWest Kristyland, ID 63192",
+    "cust_email": "ramosthomas@example.org",
+    "cust_contact": "+1-893-397-4909",
+    "total_services": 2,
+    "total_expenditure": 1550.0
+  },
+  {
+    "cust_id": "CUST-3-96",
+    "cust_name": "Madison Campos",
+    "cust_bdate": "1944-11-23T00:00:00.000+00:00",
+    "cust_address": "472 Hunter Passage Suite 448\nWest Joshua, OH 66438",
+    "cust_email": "connie12@example.com",
+    "cust_contact": "6583772216",
+    "total_services": 3,
+    "total_expenditure": 1775.0
+  },
+  {
+    "cust_id": "CUST-2-105",
+    "cust_name": "Cindy Shaw",
+    "cust_bdate": "1966-08-22T00:00:00.000+00:00",
+    "cust_address": "49392 Moore Trafficway Suite 229\nWest Sue, NJ 86155",
+    "cust_email": "rchan@example.org",
+    "cust_contact": "874-852-4555x746",
+    "total_services": 3,
+    "total_expenditure": 3275.0
+  },
+  {
+    "cust_id": "CUST-2-106",
+    "cust_name": "Matthew Taylor",
+    "cust_bdate": "1975-12-15T00:00:00.000+00:00",
+    "cust_address": "334 Wall Burg\nRonaldfurt, MD 73648",
+    "cust_email": "laurenwilliamson@example.com",
+    "cust_contact": "511-632-5797x067",
+    "total_services": 4,
+    "total_expenditure": 2125.0
+  },
+  {
+    "cust_id": "CUST-4-115",
+    "cust_name": "John Gilmore",
+    "cust_bdate": "1949-11-24T00:00:00.000+00:00",
+    "cust_address": "29493 Samuel Islands Suite 884\nEast Kelseyland, VI 92153",
+    "cust_email": "susan57@example.net",
+    "cust_contact": "625.673.7553",
+    "total_services": 3,
+    "total_expenditure": 3000.0
+  },
+  {
+    "cust_id": "CUST-4-116",
+    "cust_name": "Sandra Brown",
+    "cust_bdate": "1979-09-21T00:00:00.000+00:00",
+    "cust_address": "85874 Walters Street Apt. 918\nNew Erichaven, PR 11999",
+    "cust_email": "mbishop@example.org",
+    "cust_contact": "001-264-877-2512x95786",
+    "total_services": 3,
+    "total_expenditure": 3425.0
+  },
+  {
+    "cust_id": "CUST-3-97",
+    "cust_name": "Danny Simmons",
+    "cust_bdate": "1962-06-23T00:00:00.000+00:00",
+    "cust_address": "739 Barry Stravenue Apt. 323\nHuntertown, ND 79396",
+    "cust_email": "chanamber@example.org",
+    "cust_contact": "953-333-4264x33502",
+    "total_services": 3,
+    "total_expenditure": 1600.0
+  },
+  {
+    "cust_id": "CUST-2-107",
+    "cust_name": "James Harris",
+    "cust_bdate": "1970-10-03T00:00:00.000+00:00",
+    "cust_address": "28981 Katherine Crest\nYangstad, WA 42035",
+    "cust_email": "flee@example.net",
+    "cust_contact": "(774)781-7006x661",
+    "total_services": 2,
+    "total_expenditure": 1475.0
+  },
+  {
+    "cust_id": "CUST-3-98",
+    "cust_name": "Trevor Hill",
+    "cust_bdate": "1988-11-30T00:00:00.000+00:00",
+    "cust_address": "PSC 0232, Box 9028\nAPO AE 18879",
+    "cust_email": "dfarmer@example.net",
+    "cust_contact": "445.496.2622",
+    "total_services": 2,
+    "total_expenditure": 1250.0
+  },
+  {
+    "cust_id": "CUST-3-99",
+    "cust_name": "Damon Powell",
+    "cust_bdate": "1970-04-04T00:00:00.000+00:00",
+    "cust_address": "PSC 4950, Box 0507\nAPO AE 96832",
+    "cust_email": "robinwilliams@example.com",
+    "cust_contact": "001-998-822-1053x16117",
+    "total_services": 1,
+    "total_expenditure": 325.0
+  },
+  {
+    "cust_id": "CUST-3-100",
+    "cust_name": "Steven Anderson",
+    "cust_bdate": "1989-07-12T00:00:00.000+00:00",
+    "cust_address": "7932 Zachary Valley\nEast Donna, WA 12925",
+    "cust_email": "ncampbell@example.org",
+    "cust_contact": "634.424.5798",
+    "total_services": 3,
+    "total_expenditure": 2325.0
+  },
+  {
+    "cust_id": "CUST-2-108",
+    "cust_name": "Alexis Walters",
+    "cust_bdate": "2001-09-16T00:00:00.000+00:00",
+    "cust_address": "5097 Mathews Field\nHayesborough, NH 81937",
+    "cust_email": "amy14@example.net",
+    "cust_contact": "001-385-752-4578x71584",
+    "total_services": 1,
+    "total_expenditure": 275.0
+  },
+  {
+    "cust_id": "CUST-4-117",
+    "cust_name": "William Greer",
+    "cust_bdate": "1953-01-17T00:00:00.000+00:00",
+    "cust_address": "54768 Tammy Parkways Apt. 683\nPort Erin, WI 02692",
+    "cust_email": "jessicagomez@example.net",
+    "cust_contact": "001-329-488-0858x38252",
+    "total_services": 1,
+    "total_expenditure": 600.0
+  },
+  {
+    "cust_id": "CUST-4-118",
+    "cust_name": "Michelle Fernandez",
+    "cust_bdate": "1986-05-08T00:00:00.000+00:00",
+    "cust_address": "0646 English Mountain\nDerekport, AL 10314",
+    "cust_email": "jeanette43@example.net",
+    "cust_contact": "+1-891-806-2272x362",
+    "total_services": 4,
+    "total_expenditure": 3275.0
+  },
+  {
+    "cust_id": "CUST-4-119",
+    "cust_name": "Nicholas Willis",
+    "cust_bdate": "1990-08-12T00:00:00.000+00:00",
+    "cust_address": "45018 Warren Trail Suite 374\nNew Juliamouth, FL 09728",
+    "cust_email": "nancy06@example.com",
+    "cust_contact": "376-392-7438",
+    "total_services": 3,
+    "total_expenditure": 6325.0
+  }
+]

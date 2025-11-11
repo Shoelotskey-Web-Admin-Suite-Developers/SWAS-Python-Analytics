@@ -1,0 +1,13 @@
+name: swas-forecast-server
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - statsmodels
+  - prophet
+  - pymongo
+  - pip
+  # pip extras left intentionally empty to avoid building binary packages on Windows

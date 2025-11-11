@@ -1,0 +1,2851 @@
+[
+  {
+    "payment_id": "PAY-1-SMVAL",
+    "transaction_id": "2025-08-00001-SMVAL",
+    "payment_amount": 695.43,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-12T13:11:23.000+00:00"
+  },
+  {
+    "payment_id": "PAY-2-SMVAL",
+    "transaction_id": "2025-08-00002-SMVAL",
+    "payment_amount": 2975.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-12T13:30:06.000+00:00"
+  },
+  {
+    "payment_id": "PAY-1-SMGRA",
+    "transaction_id": "2025-08-00002-SMGRA",
+    "payment_amount": 629.09,
+    "payment_mode": "Other",
+    "payment_date": "2025-08-12T14:42:27.000+00:00"
+  },
+  {
+    "payment_id": "PAY-2-SMGRA",
+    "transaction_id": "2025-08-00003-SMGRA",
+    "payment_amount": 153.41,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-12T18:48:19.000+00:00"
+  },
+  {
+    "payment_id": "PAY-3-SMVAL",
+    "transaction_id": "2025-08-00003-SMVAL",
+    "payment_amount": 1850.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-12T07:31:42.000+00:00"
+  },
+  {
+    "payment_id": "PAY-1-SMBAL",
+    "transaction_id": "2025-08-00001-SMBAL",
+    "payment_amount": 6727.5,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-13T19:58:21.000+00:00"
+  },
+  {
+    "payment_id": "PAY-2-SMBAL",
+    "transaction_id": "2025-08-00003-SMBAL",
+    "payment_amount": 4875.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-13T23:19:22.000+00:00"
+  },
+  {
+    "payment_id": "PAY-4-SMVAL",
+    "transaction_id": "2025-08-00004-SMVAL",
+    "payment_amount": 1425.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-13T22:48:34.000+00:00"
+  },
+  {
+    "payment_id": "PAY-5-SMVAL",
+    "transaction_id": "2025-08-00005-SMVAL",
+    "payment_amount": 2875.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-13T09:48:03.000+00:00"
+  },
+  {
+    "payment_id": "PAY-6-SMVAL",
+    "transaction_id": "2025-08-00006-SMVAL",
+    "payment_amount": 830.82,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-14T14:24:39.000+00:00"
+  },
+  {
+    "payment_id": "PAY-7-SMVAL",
+    "transaction_id": "2025-08-00007-SMVAL",
+    "payment_amount": 3650.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-08-14T19:20:17.000+00:00"
+  },
+  {
+    "payment_id": "PAY-3-SMGRA",
+    "transaction_id": "2025-08-00004-SMGRA",
+    "payment_amount": 663.64,
+    "payment_mode": "Other",
+    "payment_date": "2025-08-14T07:35:59.000+00:00"
+  },
+  {
+    "payment_id": "PAY-8-SMVAL",
+    "transaction_id": "2025-08-00008-SMVAL",
+    "payment_amount": 2050.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-14T15:32:57.000+00:00"
+  },
+  {
+    "payment_id": "PAY-3-SMBAL",
+    "transaction_id": "2025-08-00005-SMBAL",
+    "payment_amount": 153.54,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-14T05:02:21.000+00:00"
+  },
+  {
+    "payment_id": "PAY-4-SMBAL",
+    "transaction_id": "2025-08-00006-SMBAL",
+    "payment_amount": 325.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-08-14T01:29:57.000+00:00"
+  },
+  {
+    "payment_id": "PAY-9-SMVAL",
+    "transaction_id": "2025-08-00009-SMVAL",
+    "payment_amount": 1690.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-15T04:44:48.000+00:00"
+  },
+  {
+    "payment_id": "PAY-10-SMVAL",
+    "transaction_id": "2025-08-00010-SMVAL",
+    "payment_amount": 2242.5,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-15T03:07:27.000+00:00"
+  },
+  {
+    "payment_id": "PAY-4-SMGRA",
+    "transaction_id": "2025-08-00005-SMGRA",
+    "payment_amount": 3050.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-08-15T13:42:42.000+00:00"
+  },
+  {
+    "payment_id": "PAY-11-SMVAL",
+    "transaction_id": "2025-08-00011-SMVAL",
+    "payment_amount": 4907.5,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-15T15:11:40.000+00:00"
+  },
+  {
+    "payment_id": "PAY-12-SMVAL",
+    "transaction_id": "2025-08-00012-SMVAL",
+    "payment_amount": 3477.5,
+    "payment_mode": "Other",
+    "payment_date": "2025-08-15T06:50:32.000+00:00"
+  },
+  {
+    "payment_id": "PAY-5-SMGRA",
+    "transaction_id": "2025-08-00006-SMGRA",
+    "payment_amount": 2447.58,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-15T08:56:47.000+00:00"
+  },
+  {
+    "payment_id": "PAY-6-SMGRA",
+    "transaction_id": "2025-08-00007-SMGRA",
+    "payment_amount": 1612.44,
+    "payment_mode": "Cash",
+    "payment_date": "2025-08-16T07:53:46.000+00:00"
+  },
+  {
+    "payment_id": "PAY-5-SMBAL",
+    "transaction_id": "2025-08-00007-SMBAL",
+    "payment_amount": 274.4,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-16T10:53:49.000+00:00"
+  },
+  {
+    "payment_id": "PAY-13-SMVAL",
+    "transaction_id": "2025-08-00014-SMVAL",
+    "payment_amount": 3152.5,
+    "payment_mode": "Cash",
+    "payment_date": "2025-08-17T17:16:33.000+00:00"
+  },
+  {
+    "payment_id": "PAY-6-SMBAL",
+    "transaction_id": "2025-08-00009-SMBAL",
+    "payment_amount": 2665.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-17T03:22:17.000+00:00"
+  },
+  {
+    "payment_id": "PAY-7-SMBAL",
+    "transaction_id": "2025-08-00010-SMBAL",
+    "payment_amount": 1332.5,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-17T07:38:24.000+00:00"
+  },
+  {
+    "payment_id": "PAY-7-SMGRA",
+    "transaction_id": "2025-08-00008-SMGRA",
+    "payment_amount": 2600.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-08-17T21:42:14.000+00:00"
+  },
+  {
+    "payment_id": "PAY-8-SMGRA",
+    "transaction_id": "2025-08-00009-SMGRA",
+    "payment_amount": 2800.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-17T20:14:55.000+00:00"
+  },
+  {
+    "payment_id": "PAY-8-SMBAL",
+    "transaction_id": "2025-08-00011-SMBAL",
+    "payment_amount": 3120.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-08-17T19:20:32.000+00:00"
+  },
+  {
+    "payment_id": "PAY-14-SMVAL",
+    "transaction_id": "2025-08-00015-SMVAL",
+    "payment_amount": 2184.23,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-17T23:36:25.000+00:00"
+  },
+  {
+    "payment_id": "PAY-9-SMBAL",
+    "transaction_id": "2025-08-00012-SMBAL",
+    "payment_amount": 820.33,
+    "payment_mode": "Cash",
+    "payment_date": "2025-08-18T01:55:17.000+00:00"
+  },
+  {
+    "payment_id": "PAY-9-SMGRA",
+    "transaction_id": "2025-08-00010-SMGRA",
+    "payment_amount": 5175.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-18T10:37:20.000+00:00"
+  },
+  {
+    "payment_id": "PAY-10-SMBAL",
+    "transaction_id": "2025-08-00013-SMBAL",
+    "payment_amount": 499.15,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-18T18:03:24.000+00:00"
+  },
+  {
+    "payment_id": "PAY-11-SMBAL",
+    "transaction_id": "2025-08-00014-SMBAL",
+    "payment_amount": 975.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-08-18T19:18:46.000+00:00"
+  },
+  {
+    "payment_id": "PAY-15-SMVAL",
+    "transaction_id": "2025-08-00016-SMVAL",
+    "payment_amount": 2372.5,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-19T06:53:53.000+00:00"
+  },
+  {
+    "payment_id": "PAY-12-SMBAL",
+    "transaction_id": "2025-08-00015-SMBAL",
+    "payment_amount": 3825.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-08-19T07:22:40.000+00:00"
+  },
+  {
+    "payment_id": "PAY-16-SMVAL",
+    "transaction_id": "2025-08-00017-SMVAL",
+    "payment_amount": 1064.63,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-19T08:42:39.000+00:00"
+  },
+  {
+    "payment_id": "PAY-17-SMVAL",
+    "transaction_id": "2025-08-00018-SMVAL",
+    "payment_amount": 5037.5,
+    "payment_mode": "Other",
+    "payment_date": "2025-08-19T07:03:11.000+00:00"
+  },
+  {
+    "payment_id": "PAY-10-SMGRA",
+    "transaction_id": "2025-08-00013-SMGRA",
+    "payment_amount": 2624.93,
+    "payment_mode": "Cash",
+    "payment_date": "2025-08-20T23:13:43.000+00:00"
+  },
+  {
+    "payment_id": "PAY-18-SMVAL",
+    "transaction_id": "2025-08-00019-SMVAL",
+    "payment_amount": 4420.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-20T16:53:06.000+00:00"
+  },
+  {
+    "payment_id": "PAY-13-SMBAL",
+    "transaction_id": "2025-08-00017-SMBAL",
+    "payment_amount": 3675.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-20T15:23:54.000+00:00"
+  },
+  {
+    "payment_id": "PAY-14-SMBAL",
+    "transaction_id": "2025-08-00018-SMBAL",
+    "payment_amount": 450.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-20T12:37:22.000+00:00"
+  },
+  {
+    "payment_id": "PAY-15-SMBAL",
+    "transaction_id": "2025-08-00019-SMBAL",
+    "payment_amount": 775.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-21T06:15:09.000+00:00"
+  },
+  {
+    "payment_id": "PAY-19-SMVAL",
+    "transaction_id": "2025-08-00020-SMVAL",
+    "payment_amount": 3125.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-21T10:58:46.000+00:00"
+  },
+  {
+    "payment_id": "PAY-11-SMGRA",
+    "transaction_id": "2025-08-00014-SMGRA",
+    "payment_amount": 325.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-08-21T22:08:31.000+00:00"
+  },
+  {
+    "payment_id": "PAY-16-SMBAL",
+    "transaction_id": "2025-08-00020-SMBAL",
+    "payment_amount": 2275.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-08-21T14:03:28.000+00:00"
+  },
+  {
+    "payment_id": "PAY-20-SMVAL",
+    "transaction_id": "2025-08-00021-SMVAL",
+    "payment_amount": 1475.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-22T04:59:07.000+00:00"
+  },
+  {
+    "payment_id": "PAY-12-SMGRA",
+    "transaction_id": "2025-08-00015-SMGRA",
+    "payment_amount": 1075.83,
+    "payment_mode": "Cash",
+    "payment_date": "2025-08-22T17:19:55.000+00:00"
+  },
+  {
+    "payment_id": "PAY-17-SMBAL",
+    "transaction_id": "2025-08-00021-SMBAL",
+    "payment_amount": 141.22,
+    "payment_mode": "Cash",
+    "payment_date": "2025-08-22T21:07:07.000+00:00"
+  },
+  {
+    "payment_id": "PAY-21-SMVAL",
+    "transaction_id": "2025-08-00023-SMVAL",
+    "payment_amount": 890.44,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-22T06:52:24.000+00:00"
+  },
+  {
+    "payment_id": "PAY-18-SMBAL",
+    "transaction_id": "2025-08-00022-SMBAL",
+    "payment_amount": 1400.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-08-23T14:34:19.000+00:00"
+  },
+  {
+    "payment_id": "PAY-19-SMBAL",
+    "transaction_id": "2025-08-00024-SMBAL",
+    "payment_amount": 2075.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-08-23T22:45:40.000+00:00"
+  },
+  {
+    "payment_id": "PAY-22-SMVAL",
+    "transaction_id": "2025-08-00024-SMVAL",
+    "payment_amount": 1462.5,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-24T17:46:50.000+00:00"
+  },
+  {
+    "payment_id": "PAY-23-SMVAL",
+    "transaction_id": "2025-08-00025-SMVAL",
+    "payment_amount": 2925.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-24T14:38:14.000+00:00"
+  },
+  {
+    "payment_id": "PAY-20-SMBAL",
+    "transaction_id": "2025-08-00025-SMBAL",
+    "payment_amount": 1680.5,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-24T14:38:50.000+00:00"
+  },
+  {
+    "payment_id": "PAY-24-SMVAL",
+    "transaction_id": "2025-08-00026-SMVAL",
+    "payment_amount": 1170.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-24T23:31:18.000+00:00"
+  },
+  {
+    "payment_id": "PAY-25-SMVAL",
+    "transaction_id": "2025-08-00027-SMVAL",
+    "payment_amount": 357.5,
+    "payment_mode": "Cash",
+    "payment_date": "2025-08-24T20:03:02.000+00:00"
+  },
+  {
+    "payment_id": "PAY-13-SMGRA",
+    "transaction_id": "2025-08-00017-SMGRA",
+    "payment_amount": 2650.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-25T21:07:56.000+00:00"
+  },
+  {
+    "payment_id": "PAY-26-SMVAL",
+    "transaction_id": "2025-08-00028-SMVAL",
+    "payment_amount": 1866.3,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-25T11:13:12.000+00:00"
+  },
+  {
+    "payment_id": "PAY-14-SMGRA",
+    "transaction_id": "2025-08-00018-SMGRA",
+    "payment_amount": 1250.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-25T17:25:00.000+00:00"
+  },
+  {
+    "payment_id": "PAY-15-SMGRA",
+    "transaction_id": "2025-08-00019-SMGRA",
+    "payment_amount": 2600.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-25T10:18:09.000+00:00"
+  },
+  {
+    "payment_id": "PAY-21-SMBAL",
+    "transaction_id": "2025-08-00026-SMBAL",
+    "payment_amount": 2125.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-08-25T17:56:37.000+00:00"
+  },
+  {
+    "payment_id": "PAY-27-SMVAL",
+    "transaction_id": "2025-08-00029-SMVAL",
+    "payment_amount": 2056.55,
+    "payment_mode": "Cash",
+    "payment_date": "2025-08-25T06:40:04.000+00:00"
+  },
+  {
+    "payment_id": "PAY-16-SMGRA",
+    "transaction_id": "2025-08-00020-SMGRA",
+    "payment_amount": 1242.48,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-26T01:35:47.000+00:00"
+  },
+  {
+    "payment_id": "PAY-28-SMVAL",
+    "transaction_id": "2025-08-00030-SMVAL",
+    "payment_amount": 3217.5,
+    "payment_mode": "Other",
+    "payment_date": "2025-08-26T10:56:13.000+00:00"
+  },
+  {
+    "payment_id": "PAY-29-SMVAL",
+    "transaction_id": "2025-08-00031-SMVAL",
+    "payment_amount": 1340.66,
+    "payment_mode": "Other",
+    "payment_date": "2025-08-26T00:29:03.000+00:00"
+  },
+  {
+    "payment_id": "PAY-17-SMGRA",
+    "transaction_id": "2025-08-00022-SMGRA",
+    "payment_amount": 600.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-08-27T21:55:18.000+00:00"
+  },
+  {
+    "payment_id": "PAY-22-SMBAL",
+    "transaction_id": "2025-08-00028-SMBAL",
+    "payment_amount": 3925.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-27T15:08:43.000+00:00"
+  },
+  {
+    "payment_id": "PAY-30-SMVAL",
+    "transaction_id": "2025-08-00033-SMVAL",
+    "payment_amount": 3800.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-27T15:48:14.000+00:00"
+  },
+  {
+    "payment_id": "PAY-31-SMVAL",
+    "transaction_id": "2025-08-00034-SMVAL",
+    "payment_amount": 1800.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-08-27T23:08:40.000+00:00"
+  },
+  {
+    "payment_id": "PAY-18-SMGRA",
+    "transaction_id": "2025-08-00023-SMGRA",
+    "payment_amount": 1150.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-08-27T13:26:44.000+00:00"
+  },
+  {
+    "payment_id": "PAY-23-SMBAL",
+    "transaction_id": "2025-08-00029-SMBAL",
+    "payment_amount": 3268.89,
+    "payment_mode": "Cash",
+    "payment_date": "2025-08-28T11:06:38.000+00:00"
+  },
+  {
+    "payment_id": "PAY-19-SMGRA",
+    "transaction_id": "2025-08-00025-SMGRA",
+    "payment_amount": 1425.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-28T03:04:54.000+00:00"
+  },
+  {
+    "payment_id": "PAY-24-SMBAL",
+    "transaction_id": "2025-08-00030-SMBAL",
+    "payment_amount": 750.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-28T15:01:49.000+00:00"
+  },
+  {
+    "payment_id": "PAY-32-SMVAL",
+    "transaction_id": "2025-08-00035-SMVAL",
+    "payment_amount": 2750.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-29T19:40:36.000+00:00"
+  },
+  {
+    "payment_id": "PAY-25-SMBAL",
+    "transaction_id": "2025-08-00031-SMBAL",
+    "payment_amount": 3350.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-08-29T22:09:54.000+00:00"
+  },
+  {
+    "payment_id": "PAY-20-SMGRA",
+    "transaction_id": "2025-08-00026-SMGRA",
+    "payment_amount": 1525.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-08-29T09:27:09.000+00:00"
+  },
+  {
+    "payment_id": "PAY-21-SMGRA",
+    "transaction_id": "2025-08-00027-SMGRA",
+    "payment_amount": 929.08,
+    "payment_mode": "Cash",
+    "payment_date": "2025-08-29T02:17:17.000+00:00"
+  },
+  {
+    "payment_id": "PAY-22-SMGRA",
+    "transaction_id": "2025-08-00028-SMGRA",
+    "payment_amount": 1300.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-08-30T03:29:20.000+00:00"
+  },
+  {
+    "payment_id": "PAY-23-SMGRA",
+    "transaction_id": "2025-08-00029-SMGRA",
+    "payment_amount": 1375.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-30T07:02:57.000+00:00"
+  },
+  {
+    "payment_id": "PAY-26-SMBAL",
+    "transaction_id": "2025-08-00033-SMBAL",
+    "payment_amount": 1436.55,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-30T07:12:09.000+00:00"
+  },
+  {
+    "payment_id": "PAY-24-SMGRA",
+    "transaction_id": "2025-08-00030-SMGRA",
+    "payment_amount": 800.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-30T14:07:51.000+00:00"
+  },
+  {
+    "payment_id": "PAY-27-SMBAL",
+    "transaction_id": "2025-08-00034-SMBAL",
+    "payment_amount": 1375.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-08-31T10:44:32.000+00:00"
+  },
+  {
+    "payment_id": "PAY-28-SMBAL",
+    "transaction_id": "2025-08-00035-SMBAL",
+    "payment_amount": 2350.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-31T03:00:02.000+00:00"
+  },
+  {
+    "payment_id": "PAY-33-SMVAL",
+    "transaction_id": "2025-08-00037-SMVAL",
+    "payment_amount": 756.36,
+    "payment_mode": "GCash",
+    "payment_date": "2025-08-31T15:12:27.000+00:00"
+  },
+  {
+    "payment_id": "PAY-25-SMGRA",
+    "transaction_id": "2025-08-00031-SMGRA",
+    "payment_amount": 2625.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-08-31T16:50:46.000+00:00"
+  },
+  {
+    "payment_id": "PAY-26-SMGRA",
+    "transaction_id": "2025-09-00001-SMGRA",
+    "payment_amount": 500.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-01T23:20:18.000+00:00"
+  },
+  {
+    "payment_id": "PAY-34-SMVAL",
+    "transaction_id": "2025-09-00001-SMVAL",
+    "payment_amount": 660.73,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-01T12:16:26.000+00:00"
+  },
+  {
+    "payment_id": "PAY-35-SMVAL",
+    "transaction_id": "2025-09-00002-SMVAL",
+    "payment_amount": 1725.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-01T02:27:05.000+00:00"
+  },
+  {
+    "payment_id": "PAY-29-SMBAL",
+    "transaction_id": "2025-09-00002-SMBAL",
+    "payment_amount": 422.5,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-01T22:08:20.000+00:00"
+  },
+  {
+    "payment_id": "PAY-36-SMVAL",
+    "transaction_id": "2025-09-00003-SMVAL",
+    "payment_amount": 375.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-01T11:20:24.000+00:00"
+  },
+  {
+    "payment_id": "PAY-30-SMBAL",
+    "transaction_id": "2025-09-00003-SMBAL",
+    "payment_amount": 3089.23,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-02T13:58:56.000+00:00"
+  },
+  {
+    "payment_id": "PAY-27-SMGRA",
+    "transaction_id": "2025-09-00003-SMGRA",
+    "payment_amount": 1025.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-02T09:00:29.000+00:00"
+  },
+  {
+    "payment_id": "PAY-31-SMBAL",
+    "transaction_id": "2025-09-00004-SMBAL",
+    "payment_amount": 1463.7,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-03T02:54:20.000+00:00"
+  },
+  {
+    "payment_id": "PAY-32-SMBAL",
+    "transaction_id": "2025-09-00005-SMBAL",
+    "payment_amount": 2338.13,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-03T23:59:20.000+00:00"
+  },
+  {
+    "payment_id": "PAY-33-SMBAL",
+    "transaction_id": "2025-09-00006-SMBAL",
+    "payment_amount": 1803.48,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-03T23:26:48.000+00:00"
+  },
+  {
+    "payment_id": "PAY-28-SMGRA",
+    "transaction_id": "2025-09-00005-SMGRA",
+    "payment_amount": 300.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-04T18:45:59.000+00:00"
+  },
+  {
+    "payment_id": "PAY-29-SMGRA",
+    "transaction_id": "2025-09-00006-SMGRA",
+    "payment_amount": 2375.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-04T23:01:21.000+00:00"
+  },
+  {
+    "payment_id": "PAY-30-SMGRA",
+    "transaction_id": "2025-09-00007-SMGRA",
+    "payment_amount": 1125.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-04T15:24:10.000+00:00"
+  },
+  {
+    "payment_id": "PAY-37-SMVAL",
+    "transaction_id": "2025-09-00006-SMVAL",
+    "payment_amount": 250.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-04T07:50:08.000+00:00"
+  },
+  {
+    "payment_id": "PAY-38-SMVAL",
+    "transaction_id": "2025-09-00007-SMVAL",
+    "payment_amount": 4625.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-04T23:30:16.000+00:00"
+  },
+  {
+    "payment_id": "PAY-39-SMVAL",
+    "transaction_id": "2025-09-00008-SMVAL",
+    "payment_amount": 2625.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-05T09:40:38.000+00:00"
+  },
+  {
+    "payment_id": "PAY-31-SMGRA",
+    "transaction_id": "2025-09-00009-SMGRA",
+    "payment_amount": 2250.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-05T09:00:21.000+00:00"
+  },
+  {
+    "payment_id": "PAY-32-SMGRA",
+    "transaction_id": "2025-09-00010-SMGRA",
+    "payment_amount": 275.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-05T14:49:45.000+00:00"
+  },
+  {
+    "payment_id": "PAY-34-SMBAL",
+    "transaction_id": "2025-09-00011-SMBAL",
+    "payment_amount": 4227.88,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-06T12:38:46.000+00:00"
+  },
+  {
+    "payment_id": "PAY-40-SMVAL",
+    "transaction_id": "2025-09-00009-SMVAL",
+    "payment_amount": 625.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-06T09:50:46.000+00:00"
+  },
+  {
+    "payment_id": "PAY-35-SMBAL",
+    "transaction_id": "2025-09-00012-SMBAL",
+    "payment_amount": 2925.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-06T00:22:44.000+00:00"
+  },
+  {
+    "payment_id": "PAY-33-SMGRA",
+    "transaction_id": "2025-09-00011-SMGRA",
+    "payment_amount": 155.3,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-06T06:34:06.000+00:00"
+  },
+  {
+    "payment_id": "PAY-34-SMGRA",
+    "transaction_id": "2025-09-00012-SMGRA",
+    "payment_amount": 900.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-06T14:00:29.000+00:00"
+  },
+  {
+    "payment_id": "PAY-35-SMGRA",
+    "transaction_id": "2025-09-00013-SMGRA",
+    "payment_amount": 2400.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-07T06:36:11.000+00:00"
+  },
+  {
+    "payment_id": "PAY-36-SMBAL",
+    "transaction_id": "2025-09-00013-SMBAL",
+    "payment_amount": 975.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-07T19:26:02.000+00:00"
+  },
+  {
+    "payment_id": "PAY-37-SMBAL",
+    "transaction_id": "2025-09-00014-SMBAL",
+    "payment_amount": 2372.5,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-07T05:04:24.000+00:00"
+  },
+  {
+    "payment_id": "PAY-36-SMGRA",
+    "transaction_id": "2025-09-00014-SMGRA",
+    "payment_amount": 1425.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-07T16:32:25.000+00:00"
+  },
+  {
+    "payment_id": "PAY-41-SMVAL",
+    "transaction_id": "2025-09-00011-SMVAL",
+    "payment_amount": 5125.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-07T03:48:03.000+00:00"
+  },
+  {
+    "payment_id": "PAY-42-SMVAL",
+    "transaction_id": "2025-09-00012-SMVAL",
+    "payment_amount": 375.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-08T12:57:20.000+00:00"
+  },
+  {
+    "payment_id": "PAY-43-SMVAL",
+    "transaction_id": "2025-09-00013-SMVAL",
+    "payment_amount": 1875.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-08T23:49:09.000+00:00"
+  },
+  {
+    "payment_id": "PAY-37-SMGRA",
+    "transaction_id": "2025-09-00015-SMGRA",
+    "payment_amount": 2242.5,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-08T20:38:24.000+00:00"
+  },
+  {
+    "payment_id": "PAY-38-SMBAL",
+    "transaction_id": "2025-09-00015-SMBAL",
+    "payment_amount": 2375.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-08T17:13:51.000+00:00"
+  },
+  {
+    "payment_id": "PAY-44-SMVAL",
+    "transaction_id": "2025-09-00014-SMVAL",
+    "payment_amount": 3275.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-08T02:39:25.000+00:00"
+  },
+  {
+    "payment_id": "PAY-45-SMVAL",
+    "transaction_id": "2025-09-00015-SMVAL",
+    "payment_amount": 2125.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-08T01:57:24.000+00:00"
+  },
+  {
+    "payment_id": "PAY-39-SMBAL",
+    "transaction_id": "2025-09-00018-SMBAL",
+    "payment_amount": 340.35,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-09T15:35:49.000+00:00"
+  },
+  {
+    "payment_id": "PAY-38-SMGRA",
+    "transaction_id": "2025-09-00016-SMGRA",
+    "payment_amount": 251.43,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-09T16:10:09.000+00:00"
+  },
+  {
+    "payment_id": "PAY-39-SMGRA",
+    "transaction_id": "2025-09-00017-SMGRA",
+    "payment_amount": 780.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-09T08:09:11.000+00:00"
+  },
+  {
+    "payment_id": "PAY-40-SMGRA",
+    "transaction_id": "2025-09-00018-SMGRA",
+    "payment_amount": 1170.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-09T04:35:58.000+00:00"
+  },
+  {
+    "payment_id": "PAY-46-SMVAL",
+    "transaction_id": "2025-09-00016-SMVAL",
+    "payment_amount": 1150.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-09T03:01:14.000+00:00"
+  },
+  {
+    "payment_id": "PAY-41-SMGRA",
+    "transaction_id": "2025-09-00019-SMGRA",
+    "payment_amount": 562.5,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-10T18:59:46.000+00:00"
+  },
+  {
+    "payment_id": "PAY-42-SMGRA",
+    "transaction_id": "2025-09-00020-SMGRA",
+    "payment_amount": 3300.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-10T12:41:25.000+00:00"
+  },
+  {
+    "payment_id": "PAY-40-SMBAL",
+    "transaction_id": "2025-09-00019-SMBAL",
+    "payment_amount": 1975.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-10T14:55:14.000+00:00"
+  },
+  {
+    "payment_id": "PAY-41-SMBAL",
+    "transaction_id": "2025-09-00020-SMBAL",
+    "payment_amount": 5250.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-10T01:42:13.000+00:00"
+  },
+  {
+    "payment_id": "PAY-47-SMVAL",
+    "transaction_id": "2025-09-00017-SMVAL",
+    "payment_amount": 975.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-10T00:22:42.000+00:00"
+  },
+  {
+    "payment_id": "PAY-43-SMGRA",
+    "transaction_id": "2025-09-00021-SMGRA",
+    "payment_amount": 5137.5,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-10T23:33:41.000+00:00"
+  },
+  {
+    "payment_id": "PAY-48-SMVAL",
+    "transaction_id": "2025-09-00018-SMVAL",
+    "payment_amount": 650.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-11T13:27:47.000+00:00"
+  },
+  {
+    "payment_id": "PAY-44-SMGRA",
+    "transaction_id": "2025-09-00022-SMGRA",
+    "payment_amount": 795.99,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-11T08:01:09.000+00:00"
+  },
+  {
+    "payment_id": "PAY-45-SMGRA",
+    "transaction_id": "2025-09-00023-SMGRA",
+    "payment_amount": 2175.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-11T18:09:55.000+00:00"
+  },
+  {
+    "payment_id": "PAY-42-SMBAL",
+    "transaction_id": "2025-09-00022-SMBAL",
+    "payment_amount": 1125.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-12T09:30:43.000+00:00"
+  },
+  {
+    "payment_id": "PAY-46-SMGRA",
+    "transaction_id": "2025-09-00024-SMGRA",
+    "payment_amount": 3787.5,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-12T05:02:47.000+00:00"
+  },
+  {
+    "payment_id": "PAY-49-SMVAL",
+    "transaction_id": "2025-09-00019-SMVAL",
+    "payment_amount": 125.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-12T18:02:00.000+00:00"
+  },
+  {
+    "payment_id": "PAY-50-SMVAL",
+    "transaction_id": "2025-09-00020-SMVAL",
+    "payment_amount": 1125.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-12T02:01:34.000+00:00"
+  },
+  {
+    "payment_id": "PAY-47-SMGRA",
+    "transaction_id": "2025-09-00025-SMGRA",
+    "payment_amount": 2925.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-13T03:38:29.000+00:00"
+  },
+  {
+    "payment_id": "PAY-48-SMGRA",
+    "transaction_id": "2025-09-00026-SMGRA",
+    "payment_amount": 3705.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-13T23:52:54.000+00:00"
+  },
+  {
+    "payment_id": "PAY-51-SMVAL",
+    "transaction_id": "2025-09-00021-SMVAL",
+    "payment_amount": 600.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-13T08:36:53.000+00:00"
+  },
+  {
+    "payment_id": "PAY-43-SMBAL",
+    "transaction_id": "2025-09-00023-SMBAL",
+    "payment_amount": 3150.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-13T12:49:11.000+00:00"
+  },
+  {
+    "payment_id": "PAY-49-SMGRA",
+    "transaction_id": "2025-09-00028-SMGRA",
+    "payment_amount": 1084.05,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-13T07:26:09.000+00:00"
+  },
+  {
+    "payment_id": "PAY-52-SMVAL",
+    "transaction_id": "2025-09-00022-SMVAL",
+    "payment_amount": 1875.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-14T17:33:19.000+00:00"
+  },
+  {
+    "payment_id": "PAY-44-SMBAL",
+    "transaction_id": "2025-09-00024-SMBAL",
+    "payment_amount": 2612.13,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-14T09:44:26.000+00:00"
+  },
+  {
+    "payment_id": "PAY-50-SMGRA",
+    "transaction_id": "2025-09-00029-SMGRA",
+    "payment_amount": 4355.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-14T03:58:34.000+00:00"
+  },
+  {
+    "payment_id": "PAY-53-SMVAL",
+    "transaction_id": "2025-09-00024-SMVAL",
+    "payment_amount": 1775.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-14T09:22:23.000+00:00"
+  },
+  {
+    "payment_id": "PAY-54-SMVAL",
+    "transaction_id": "2025-09-00025-SMVAL",
+    "payment_amount": 2600.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-14T13:24:34.000+00:00"
+  },
+  {
+    "payment_id": "PAY-51-SMGRA",
+    "transaction_id": "2025-09-00030-SMGRA",
+    "payment_amount": 1950.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-15T21:17:25.000+00:00"
+  },
+  {
+    "payment_id": "PAY-55-SMVAL",
+    "transaction_id": "2025-09-00026-SMVAL",
+    "payment_amount": 697.58,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-15T20:16:39.000+00:00"
+  },
+  {
+    "payment_id": "PAY-52-SMGRA",
+    "transaction_id": "2025-09-00031-SMGRA",
+    "payment_amount": 910.73,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-15T21:27:54.000+00:00"
+  },
+  {
+    "payment_id": "PAY-56-SMVAL",
+    "transaction_id": "2025-09-00027-SMVAL",
+    "payment_amount": 375.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-15T18:31:16.000+00:00"
+  },
+  {
+    "payment_id": "PAY-53-SMGRA",
+    "transaction_id": "2025-09-00032-SMGRA",
+    "payment_amount": 3175.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-15T20:19:20.000+00:00"
+  },
+  {
+    "payment_id": "PAY-45-SMBAL",
+    "transaction_id": "2025-09-00025-SMBAL",
+    "payment_amount": 975.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-15T08:20:59.000+00:00"
+  },
+  {
+    "payment_id": "PAY-46-SMBAL",
+    "transaction_id": "2025-09-00026-SMBAL",
+    "payment_amount": 2145.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-16T21:24:55.000+00:00"
+  },
+  {
+    "payment_id": "PAY-47-SMBAL",
+    "transaction_id": "2025-09-00027-SMBAL",
+    "payment_amount": 315.89,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-16T08:27:03.000+00:00"
+  },
+  {
+    "payment_id": "PAY-54-SMGRA",
+    "transaction_id": "2025-09-00034-SMGRA",
+    "payment_amount": 1250.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-16T05:05:32.000+00:00"
+  },
+  {
+    "payment_id": "PAY-57-SMVAL",
+    "transaction_id": "2025-09-00028-SMVAL",
+    "payment_amount": 189.18,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-16T17:07:48.000+00:00"
+  },
+  {
+    "payment_id": "PAY-55-SMGRA",
+    "transaction_id": "2025-09-00035-SMGRA",
+    "payment_amount": 1397.5,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-17T15:30:58.000+00:00"
+  },
+  {
+    "payment_id": "PAY-48-SMBAL",
+    "transaction_id": "2025-09-00029-SMBAL",
+    "payment_amount": 2957.5,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-17T18:37:50.000+00:00"
+  },
+  {
+    "payment_id": "PAY-56-SMGRA",
+    "transaction_id": "2025-09-00036-SMGRA",
+    "payment_amount": 6337.5,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-17T09:14:20.000+00:00"
+  },
+  {
+    "payment_id": "PAY-49-SMBAL",
+    "transaction_id": "2025-09-00030-SMBAL",
+    "payment_amount": 1392.91,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-17T00:07:02.000+00:00"
+  },
+  {
+    "payment_id": "PAY-58-SMVAL",
+    "transaction_id": "2025-09-00029-SMVAL",
+    "payment_amount": 2850.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-17T23:23:09.000+00:00"
+  },
+  {
+    "payment_id": "PAY-59-SMVAL",
+    "transaction_id": "2025-09-00030-SMVAL",
+    "payment_amount": 736.53,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-17T21:25:21.000+00:00"
+  },
+  {
+    "payment_id": "PAY-60-SMVAL",
+    "transaction_id": "2025-09-00031-SMVAL",
+    "payment_amount": 2550.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-18T01:57:31.000+00:00"
+  },
+  {
+    "payment_id": "PAY-61-SMVAL",
+    "transaction_id": "2025-09-00032-SMVAL",
+    "payment_amount": 675.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-18T08:50:16.000+00:00"
+  },
+  {
+    "payment_id": "PAY-50-SMBAL",
+    "transaction_id": "2025-09-00031-SMBAL",
+    "payment_amount": 4647.5,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-18T21:48:54.000+00:00"
+  },
+  {
+    "payment_id": "PAY-51-SMBAL",
+    "transaction_id": "2025-09-00032-SMBAL",
+    "payment_amount": 2990.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-18T01:46:02.000+00:00"
+  },
+  {
+    "payment_id": "PAY-57-SMGRA",
+    "transaction_id": "2025-09-00037-SMGRA",
+    "payment_amount": 1406.25,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-18T16:40:35.000+00:00"
+  },
+  {
+    "payment_id": "PAY-52-SMBAL",
+    "transaction_id": "2025-09-00033-SMBAL",
+    "payment_amount": 509.51,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-18T00:40:53.000+00:00"
+  },
+  {
+    "payment_id": "PAY-58-SMGRA",
+    "transaction_id": "2025-09-00038-SMGRA",
+    "payment_amount": 1690.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-18T12:48:08.000+00:00"
+  },
+  {
+    "payment_id": "PAY-53-SMBAL",
+    "transaction_id": "2025-09-00034-SMBAL",
+    "payment_amount": 448.31,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-19T14:42:28.000+00:00"
+  },
+  {
+    "payment_id": "PAY-54-SMBAL",
+    "transaction_id": "2025-09-00035-SMBAL",
+    "payment_amount": 2437.5,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-19T03:18:43.000+00:00"
+  },
+  {
+    "payment_id": "PAY-59-SMGRA",
+    "transaction_id": "2025-09-00040-SMGRA",
+    "payment_amount": 650.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-19T13:12:22.000+00:00"
+  },
+  {
+    "payment_id": "PAY-60-SMGRA",
+    "transaction_id": "2025-09-00041-SMGRA",
+    "payment_amount": 6110.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-19T13:15:31.000+00:00"
+  },
+  {
+    "payment_id": "PAY-61-SMGRA",
+    "transaction_id": "2025-09-00042-SMGRA",
+    "payment_amount": 1040.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-20T09:19:23.000+00:00"
+  },
+  {
+    "payment_id": "PAY-62-SMGRA",
+    "transaction_id": "2025-09-00043-SMGRA",
+    "payment_amount": 2340.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-20T19:44:49.000+00:00"
+  },
+  {
+    "payment_id": "PAY-62-SMVAL",
+    "transaction_id": "2025-09-00033-SMVAL",
+    "payment_amount": 1327.25,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-20T05:56:21.000+00:00"
+  },
+  {
+    "payment_id": "PAY-55-SMBAL",
+    "transaction_id": "2025-09-00036-SMBAL",
+    "payment_amount": 585.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-20T14:19:42.000+00:00"
+  },
+  {
+    "payment_id": "PAY-63-SMGRA",
+    "transaction_id": "2025-09-00044-SMGRA",
+    "payment_amount": 5395.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-20T07:49:37.000+00:00"
+  },
+  {
+    "payment_id": "PAY-56-SMBAL",
+    "transaction_id": "2025-09-00038-SMBAL",
+    "payment_amount": 5350.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-21T19:37:02.000+00:00"
+  },
+  {
+    "payment_id": "PAY-57-SMBAL",
+    "transaction_id": "2025-09-00040-SMBAL",
+    "payment_amount": 2333.67,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-21T00:55:32.000+00:00"
+  },
+  {
+    "payment_id": "PAY-64-SMGRA",
+    "transaction_id": "2025-09-00045-SMGRA",
+    "payment_amount": 2975.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-21T07:38:22.000+00:00"
+  },
+  {
+    "payment_id": "PAY-63-SMVAL",
+    "transaction_id": "2025-09-00034-SMVAL",
+    "payment_amount": 450.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-21T03:38:42.000+00:00"
+  },
+  {
+    "payment_id": "PAY-65-SMGRA",
+    "transaction_id": "2025-09-00046-SMGRA",
+    "payment_amount": 625.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-22T22:20:27.000+00:00"
+  },
+  {
+    "payment_id": "PAY-66-SMGRA",
+    "transaction_id": "2025-09-00047-SMGRA",
+    "payment_amount": 850.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-22T01:14:45.000+00:00"
+  },
+  {
+    "payment_id": "PAY-58-SMBAL",
+    "transaction_id": "2025-09-00041-SMBAL",
+    "payment_amount": 2500.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-22T19:59:05.000+00:00"
+  },
+  {
+    "payment_id": "PAY-64-SMVAL",
+    "transaction_id": "2025-09-00035-SMVAL",
+    "payment_amount": 518.87,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-22T19:19:42.000+00:00"
+  },
+  {
+    "payment_id": "PAY-67-SMGRA",
+    "transaction_id": "2025-09-00048-SMGRA",
+    "payment_amount": 2250.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-22T04:32:46.000+00:00"
+  },
+  {
+    "payment_id": "PAY-68-SMGRA",
+    "transaction_id": "2025-09-00049-SMGRA",
+    "payment_amount": 3850.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-23T22:05:13.000+00:00"
+  },
+  {
+    "payment_id": "PAY-65-SMVAL",
+    "transaction_id": "2025-09-00036-SMVAL",
+    "payment_amount": 834.91,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-23T05:50:49.000+00:00"
+  },
+  {
+    "payment_id": "PAY-69-SMGRA",
+    "transaction_id": "2025-09-00050-SMGRA",
+    "payment_amount": 1125.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-23T21:46:17.000+00:00"
+  },
+  {
+    "payment_id": "PAY-66-SMVAL",
+    "transaction_id": "2025-09-00037-SMVAL",
+    "payment_amount": 1450.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-23T19:57:05.000+00:00"
+  },
+  {
+    "payment_id": "PAY-70-SMGRA",
+    "transaction_id": "2025-09-00051-SMGRA",
+    "payment_amount": 276.56,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-24T18:28:32.000+00:00"
+  },
+  {
+    "payment_id": "PAY-67-SMVAL",
+    "transaction_id": "2025-09-00038-SMVAL",
+    "payment_amount": 239.25,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-24T05:23:02.000+00:00"
+  },
+  {
+    "payment_id": "PAY-59-SMBAL",
+    "transaction_id": "2025-09-00042-SMBAL",
+    "payment_amount": 3325.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-24T18:29:38.000+00:00"
+  },
+  {
+    "payment_id": "PAY-68-SMVAL",
+    "transaction_id": "2025-09-00039-SMVAL",
+    "payment_amount": 1625.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-24T23:02:49.000+00:00"
+  },
+  {
+    "payment_id": "PAY-69-SMVAL",
+    "transaction_id": "2025-09-00040-SMVAL",
+    "payment_amount": 4875.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-24T02:31:34.000+00:00"
+  },
+  {
+    "payment_id": "PAY-70-SMVAL",
+    "transaction_id": "2025-09-00041-SMVAL",
+    "payment_amount": 1375.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-25T17:52:05.000+00:00"
+  },
+  {
+    "payment_id": "PAY-60-SMBAL",
+    "transaction_id": "2025-09-00043-SMBAL",
+    "payment_amount": 1775.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-25T07:12:37.000+00:00"
+  },
+  {
+    "payment_id": "PAY-61-SMBAL",
+    "transaction_id": "2025-09-00044-SMBAL",
+    "payment_amount": 372.87,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-25T06:51:12.000+00:00"
+  },
+  {
+    "payment_id": "PAY-71-SMVAL",
+    "transaction_id": "2025-09-00042-SMVAL",
+    "payment_amount": 406.97,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-25T13:53:22.000+00:00"
+  },
+  {
+    "payment_id": "PAY-71-SMGRA",
+    "transaction_id": "2025-09-00052-SMGRA",
+    "payment_amount": 725.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-25T23:47:14.000+00:00"
+  },
+  {
+    "payment_id": "PAY-62-SMBAL",
+    "transaction_id": "2025-09-00045-SMBAL",
+    "payment_amount": 1025.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-25T20:45:25.000+00:00"
+  },
+  {
+    "payment_id": "PAY-63-SMBAL",
+    "transaction_id": "2025-09-00046-SMBAL",
+    "payment_amount": 1175.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-25T05:33:36.000+00:00"
+  },
+  {
+    "payment_id": "PAY-72-SMGRA",
+    "transaction_id": "2025-09-00053-SMGRA",
+    "payment_amount": 4575.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-26T06:11:11.000+00:00"
+  },
+  {
+    "payment_id": "PAY-64-SMBAL",
+    "transaction_id": "2025-09-00047-SMBAL",
+    "payment_amount": 482.77,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-26T01:32:57.000+00:00"
+  },
+  {
+    "payment_id": "PAY-73-SMGRA",
+    "transaction_id": "2025-09-00054-SMGRA",
+    "payment_amount": 4325.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-26T07:53:57.000+00:00"
+  },
+  {
+    "payment_id": "PAY-72-SMVAL",
+    "transaction_id": "2025-09-00043-SMVAL",
+    "payment_amount": 1350.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-26T00:46:53.000+00:00"
+  },
+  {
+    "payment_id": "PAY-73-SMVAL",
+    "transaction_id": "2025-09-00044-SMVAL",
+    "payment_amount": 1150.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-27T11:02:26.000+00:00"
+  },
+  {
+    "payment_id": "PAY-74-SMVAL",
+    "transaction_id": "2025-09-00045-SMVAL",
+    "payment_amount": 537.56,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-27T01:26:01.000+00:00"
+  },
+  {
+    "payment_id": "PAY-75-SMVAL",
+    "transaction_id": "2025-09-00046-SMVAL",
+    "payment_amount": 3800.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-27T18:00:47.000+00:00"
+  },
+  {
+    "payment_id": "PAY-74-SMGRA",
+    "transaction_id": "2025-09-00055-SMGRA",
+    "payment_amount": 625.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-27T09:31:26.000+00:00"
+  },
+  {
+    "payment_id": "PAY-65-SMBAL",
+    "transaction_id": "2025-09-00048-SMBAL",
+    "payment_amount": 500.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-28T02:53:28.000+00:00"
+  },
+  {
+    "payment_id": "PAY-66-SMBAL",
+    "transaction_id": "2025-09-00050-SMBAL",
+    "payment_amount": 2500.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-28T03:12:44.000+00:00"
+  },
+  {
+    "payment_id": "PAY-76-SMVAL",
+    "transaction_id": "2025-09-00047-SMVAL",
+    "payment_amount": 2750.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-28T00:53:28.000+00:00"
+  },
+  {
+    "payment_id": "PAY-67-SMBAL",
+    "transaction_id": "2025-09-00051-SMBAL",
+    "payment_amount": 1375.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-28T02:10:32.000+00:00"
+  },
+  {
+    "payment_id": "PAY-75-SMGRA",
+    "transaction_id": "2025-09-00056-SMGRA",
+    "payment_amount": 2550.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-28T04:26:10.000+00:00"
+  },
+  {
+    "payment_id": "PAY-68-SMBAL",
+    "transaction_id": "2025-09-00052-SMBAL",
+    "payment_amount": 2875.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-29T00:42:22.000+00:00"
+  },
+  {
+    "payment_id": "PAY-69-SMBAL",
+    "transaction_id": "2025-09-00053-SMBAL",
+    "payment_amount": 518.89,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-29T02:08:56.000+00:00"
+  },
+  {
+    "payment_id": "PAY-70-SMBAL",
+    "transaction_id": "2025-09-00054-SMBAL",
+    "payment_amount": 1725.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-29T18:21:17.000+00:00"
+  },
+  {
+    "payment_id": "PAY-77-SMVAL",
+    "transaction_id": "2025-09-00048-SMVAL",
+    "payment_amount": 4025.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-29T00:37:02.000+00:00"
+  },
+  {
+    "payment_id": "PAY-71-SMBAL",
+    "transaction_id": "2025-09-00055-SMBAL",
+    "payment_amount": 1051.22,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-29T07:32:45.000+00:00"
+  },
+  {
+    "payment_id": "PAY-78-SMVAL",
+    "transaction_id": "2025-09-00049-SMVAL",
+    "payment_amount": 1325.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-09-29T14:08:30.000+00:00"
+  },
+  {
+    "payment_id": "PAY-72-SMBAL",
+    "transaction_id": "2025-09-00056-SMBAL",
+    "payment_amount": 2225.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-30T11:55:07.000+00:00"
+  },
+  {
+    "payment_id": "PAY-73-SMBAL",
+    "transaction_id": "2025-09-00058-SMBAL",
+    "payment_amount": 740.98,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-30T10:25:54.000+00:00"
+  },
+  {
+    "payment_id": "PAY-74-SMBAL",
+    "transaction_id": "2025-09-00059-SMBAL",
+    "payment_amount": 4500.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-09-30T01:33:24.000+00:00"
+  },
+  {
+    "payment_id": "PAY-79-SMVAL",
+    "transaction_id": "2025-09-00050-SMVAL",
+    "payment_amount": 1793.29,
+    "payment_mode": "Cash",
+    "payment_date": "2025-09-30T07:32:23.000+00:00"
+  },
+  {
+    "payment_id": "PAY-75-SMBAL",
+    "transaction_id": "2025-09-00060-SMBAL",
+    "payment_amount": 1650.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-30T18:26:01.000+00:00"
+  },
+  {
+    "payment_id": "PAY-76-SMBAL",
+    "transaction_id": "2025-09-00061-SMBAL",
+    "payment_amount": 1075.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-09-30T21:14:49.000+00:00"
+  },
+  {
+    "payment_id": "PAY-80-SMVAL",
+    "transaction_id": "2025-10-00001-SMVAL",
+    "payment_amount": 1411.55,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-01T15:02:46.000+00:00"
+  },
+  {
+    "payment_id": "PAY-77-SMBAL",
+    "transaction_id": "2025-10-00001-SMBAL",
+    "payment_amount": 275.74,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-01T02:28:32.000+00:00"
+  },
+  {
+    "payment_id": "PAY-76-SMGRA",
+    "transaction_id": "2025-10-00001-SMGRA",
+    "payment_amount": 2475.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-01T08:10:54.000+00:00"
+  },
+  {
+    "payment_id": "PAY-77-SMGRA",
+    "transaction_id": "2025-10-00002-SMGRA",
+    "payment_amount": 3675.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-01T21:27:54.000+00:00"
+  },
+  {
+    "payment_id": "PAY-78-SMGRA",
+    "transaction_id": "2025-10-00004-SMGRA",
+    "payment_amount": 195.31,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-01T03:54:45.000+00:00"
+  },
+  {
+    "payment_id": "PAY-81-SMVAL",
+    "transaction_id": "2025-10-00002-SMVAL",
+    "payment_amount": 2600.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-01T08:36:20.000+00:00"
+  },
+  {
+    "payment_id": "PAY-78-SMBAL",
+    "transaction_id": "2025-10-00002-SMBAL",
+    "payment_amount": 2080.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-02T02:59:07.000+00:00"
+  },
+  {
+    "payment_id": "PAY-79-SMBAL",
+    "transaction_id": "2025-10-00003-SMBAL",
+    "payment_amount": 609.49,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-02T16:12:49.000+00:00"
+  },
+  {
+    "payment_id": "PAY-79-SMGRA",
+    "transaction_id": "2025-10-00005-SMGRA",
+    "payment_amount": 2875.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-02T06:30:26.000+00:00"
+  },
+  {
+    "payment_id": "PAY-80-SMBAL",
+    "transaction_id": "2025-10-00004-SMBAL",
+    "payment_amount": 1690.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-02T19:06:59.000+00:00"
+  },
+  {
+    "payment_id": "PAY-80-SMGRA",
+    "transaction_id": "2025-10-00006-SMGRA",
+    "payment_amount": 1275.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-02T05:17:55.000+00:00"
+  },
+  {
+    "payment_id": "PAY-81-SMBAL",
+    "transaction_id": "2025-10-00005-SMBAL",
+    "payment_amount": 3510.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-02T22:18:57.000+00:00"
+  },
+  {
+    "payment_id": "PAY-82-SMVAL",
+    "transaction_id": "2025-10-00003-SMVAL",
+    "payment_amount": 1328.77,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-02T04:50:24.000+00:00"
+  },
+  {
+    "payment_id": "PAY-83-SMVAL",
+    "transaction_id": "2025-10-00004-SMVAL",
+    "payment_amount": 1625.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-03T21:37:17.000+00:00"
+  },
+  {
+    "payment_id": "PAY-82-SMBAL",
+    "transaction_id": "2025-10-00006-SMBAL",
+    "payment_amount": 390.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-03T02:24:52.000+00:00"
+  },
+  {
+    "payment_id": "PAY-81-SMGRA",
+    "transaction_id": "2025-10-00007-SMGRA",
+    "payment_amount": 1825.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-03T08:51:21.000+00:00"
+  },
+  {
+    "payment_id": "PAY-84-SMVAL",
+    "transaction_id": "2025-10-00005-SMVAL",
+    "payment_amount": 2975.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-03T19:09:15.000+00:00"
+  },
+  {
+    "payment_id": "PAY-85-SMVAL",
+    "transaction_id": "2025-10-00006-SMVAL",
+    "payment_amount": 3125.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-04T20:49:19.000+00:00"
+  },
+  {
+    "payment_id": "PAY-86-SMVAL",
+    "transaction_id": "2025-10-00007-SMVAL",
+    "payment_amount": 3000.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-04T14:39:11.000+00:00"
+  },
+  {
+    "payment_id": "PAY-82-SMGRA",
+    "transaction_id": "2025-10-00010-SMGRA",
+    "payment_amount": 2400.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-05T06:43:38.000+00:00"
+  },
+  {
+    "payment_id": "PAY-87-SMVAL",
+    "transaction_id": "2025-10-00008-SMVAL",
+    "payment_amount": 299.59,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-05T20:25:56.000+00:00"
+  },
+  {
+    "payment_id": "PAY-88-SMVAL",
+    "transaction_id": "2025-10-00009-SMVAL",
+    "payment_amount": 1325.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-05T19:56:10.000+00:00"
+  },
+  {
+    "payment_id": "PAY-83-SMBAL",
+    "transaction_id": "2025-10-00010-SMBAL",
+    "payment_amount": 2892.5,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-05T00:30:03.000+00:00"
+  },
+  {
+    "payment_id": "PAY-84-SMBAL",
+    "transaction_id": "2025-10-00011-SMBAL",
+    "payment_amount": 747.5,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-05T17:21:39.000+00:00"
+  },
+  {
+    "payment_id": "PAY-83-SMGRA",
+    "transaction_id": "2025-10-00011-SMGRA",
+    "payment_amount": 600.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-06T02:17:33.000+00:00"
+  },
+  {
+    "payment_id": "PAY-85-SMBAL",
+    "transaction_id": "2025-10-00012-SMBAL",
+    "payment_amount": 1072.5,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-06T13:49:57.000+00:00"
+  },
+  {
+    "payment_id": "PAY-84-SMGRA",
+    "transaction_id": "2025-10-00012-SMGRA",
+    "payment_amount": 1975.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-06T10:12:34.000+00:00"
+  },
+  {
+    "payment_id": "PAY-86-SMBAL",
+    "transaction_id": "2025-10-00013-SMBAL",
+    "payment_amount": 2350.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-07T12:42:18.000+00:00"
+  },
+  {
+    "payment_id": "PAY-89-SMVAL",
+    "transaction_id": "2025-10-00010-SMVAL",
+    "payment_amount": 1725.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-07T02:39:56.000+00:00"
+  },
+  {
+    "payment_id": "PAY-90-SMVAL",
+    "transaction_id": "2025-10-00012-SMVAL",
+    "payment_amount": 2450.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-07T23:09:54.000+00:00"
+  },
+  {
+    "payment_id": "PAY-85-SMGRA",
+    "transaction_id": "2025-10-00013-SMGRA",
+    "payment_amount": 2470.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-08T20:59:07.000+00:00"
+  },
+  {
+    "payment_id": "PAY-87-SMBAL",
+    "transaction_id": "2025-10-00014-SMBAL",
+    "payment_amount": 2400.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-08T08:45:08.000+00:00"
+  },
+  {
+    "payment_id": "PAY-88-SMBAL",
+    "transaction_id": "2025-10-00016-SMBAL",
+    "payment_amount": 1575.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-08T07:46:50.000+00:00"
+  },
+  {
+    "payment_id": "PAY-89-SMBAL",
+    "transaction_id": "2025-10-00019-SMBAL",
+    "payment_amount": 3125.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-09T07:03:57.000+00:00"
+  },
+  {
+    "payment_id": "PAY-86-SMGRA",
+    "transaction_id": "2025-10-00016-SMGRA",
+    "payment_amount": 864.93,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-09T13:59:04.000+00:00"
+  },
+  {
+    "payment_id": "PAY-91-SMVAL",
+    "transaction_id": "2025-10-00013-SMVAL",
+    "payment_amount": 1825.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-09T22:05:25.000+00:00"
+  },
+  {
+    "payment_id": "PAY-90-SMBAL",
+    "transaction_id": "2025-10-00020-SMBAL",
+    "payment_amount": 1839.46,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-10T04:22:33.000+00:00"
+  },
+  {
+    "payment_id": "PAY-91-SMBAL",
+    "transaction_id": "2025-10-00022-SMBAL",
+    "payment_amount": 408.71,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-10T22:46:11.000+00:00"
+  },
+  {
+    "payment_id": "PAY-92-SMVAL",
+    "transaction_id": "2025-10-00014-SMVAL",
+    "payment_amount": 250.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-10T14:36:40.000+00:00"
+  },
+  {
+    "payment_id": "PAY-93-SMVAL",
+    "transaction_id": "2025-10-00015-SMVAL",
+    "payment_amount": 668.74,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-10T04:24:54.000+00:00"
+  },
+  {
+    "payment_id": "PAY-87-SMGRA",
+    "transaction_id": "2025-10-00017-SMGRA",
+    "payment_amount": 1072.5,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-11T20:50:41.000+00:00"
+  },
+  {
+    "payment_id": "PAY-94-SMVAL",
+    "transaction_id": "2025-10-00016-SMVAL",
+    "payment_amount": 1150.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-11T23:59:24.000+00:00"
+  },
+  {
+    "payment_id": "PAY-88-SMGRA",
+    "transaction_id": "2025-10-00018-SMGRA",
+    "payment_amount": 487.5,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-11T22:11:58.000+00:00"
+  },
+  {
+    "payment_id": "PAY-92-SMBAL",
+    "transaction_id": "2025-10-00023-SMBAL",
+    "payment_amount": 1800.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-12T22:24:45.000+00:00"
+  },
+  {
+    "payment_id": "PAY-89-SMGRA",
+    "transaction_id": "2025-10-00019-SMGRA",
+    "payment_amount": 2925.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-12T01:23:24.000+00:00"
+  },
+  {
+    "payment_id": "PAY-95-SMVAL",
+    "transaction_id": "2025-10-00019-SMVAL",
+    "payment_amount": 550.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-12T21:00:23.000+00:00"
+  },
+  {
+    "payment_id": "PAY-93-SMBAL",
+    "transaction_id": "2025-10-00024-SMBAL",
+    "payment_amount": 1600.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-12T03:58:20.000+00:00"
+  },
+  {
+    "payment_id": "PAY-90-SMGRA",
+    "transaction_id": "2025-10-00020-SMGRA",
+    "payment_amount": 694.62,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-13T16:22:33.000+00:00"
+  },
+  {
+    "payment_id": "PAY-96-SMVAL",
+    "transaction_id": "2025-10-00021-SMVAL",
+    "payment_amount": 2156.61,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-13T23:23:53.000+00:00"
+  },
+  {
+    "payment_id": "PAY-97-SMVAL",
+    "transaction_id": "2025-10-00022-SMVAL",
+    "payment_amount": 1200.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-13T04:52:07.000+00:00"
+  },
+  {
+    "payment_id": "PAY-91-SMGRA",
+    "transaction_id": "2025-10-00021-SMGRA",
+    "payment_amount": 7410.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-13T13:13:23.000+00:00"
+  },
+  {
+    "payment_id": "PAY-94-SMBAL",
+    "transaction_id": "2025-10-00025-SMBAL",
+    "payment_amount": 4425.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-14T06:03:51.000+00:00"
+  },
+  {
+    "payment_id": "PAY-92-SMGRA",
+    "transaction_id": "2025-10-00022-SMGRA",
+    "payment_amount": 1100.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-14T02:59:09.000+00:00"
+  },
+  {
+    "payment_id": "PAY-93-SMGRA",
+    "transaction_id": "2025-10-00023-SMGRA",
+    "payment_amount": 2025.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-14T16:59:12.000+00:00"
+  },
+  {
+    "payment_id": "PAY-94-SMGRA",
+    "transaction_id": "2025-10-00024-SMGRA",
+    "payment_amount": 1143.65,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-14T20:19:48.000+00:00"
+  },
+  {
+    "payment_id": "PAY-98-SMVAL",
+    "transaction_id": "2025-10-00024-SMVAL",
+    "payment_amount": 450.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-14T23:51:12.000+00:00"
+  },
+  {
+    "payment_id": "PAY-99-SMVAL",
+    "transaction_id": "2025-10-00025-SMVAL",
+    "payment_amount": 1875.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-15T04:44:43.000+00:00"
+  },
+  {
+    "payment_id": "PAY-95-SMGRA",
+    "transaction_id": "2025-10-00025-SMGRA",
+    "payment_amount": 1600.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-15T23:00:02.000+00:00"
+  },
+  {
+    "payment_id": "PAY-95-SMBAL",
+    "transaction_id": "2025-10-00026-SMBAL",
+    "payment_amount": 750.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-15T14:30:50.000+00:00"
+  },
+  {
+    "payment_id": "PAY-96-SMBAL",
+    "transaction_id": "2025-10-00027-SMBAL",
+    "payment_amount": 425.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-15T02:12:49.000+00:00"
+  },
+  {
+    "payment_id": "PAY-97-SMBAL",
+    "transaction_id": "2025-10-00029-SMBAL",
+    "payment_amount": 3150.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-15T18:05:30.000+00:00"
+  },
+  {
+    "payment_id": "PAY-98-SMBAL",
+    "transaction_id": "2025-10-00030-SMBAL",
+    "payment_amount": 825.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-16T09:28:03.000+00:00"
+  },
+  {
+    "payment_id": "PAY-96-SMGRA",
+    "transaction_id": "2025-10-00027-SMGRA",
+    "payment_amount": 1350.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-16T17:13:53.000+00:00"
+  },
+  {
+    "payment_id": "PAY-97-SMGRA",
+    "transaction_id": "2025-10-00028-SMGRA",
+    "payment_amount": 3950.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-16T17:22:19.000+00:00"
+  },
+  {
+    "payment_id": "PAY-99-SMBAL",
+    "transaction_id": "2025-10-00031-SMBAL",
+    "payment_amount": 1125.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-16T20:25:09.000+00:00"
+  },
+  {
+    "payment_id": "PAY-100-SMBAL",
+    "transaction_id": "2025-10-00032-SMBAL",
+    "payment_amount": 2650.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-16T01:29:45.000+00:00"
+  },
+  {
+    "payment_id": "PAY-100-SMVAL",
+    "transaction_id": "2025-10-00026-SMVAL",
+    "payment_amount": 1225.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-17T00:47:54.000+00:00"
+  },
+  {
+    "payment_id": "PAY-101-SMVAL",
+    "transaction_id": "2025-10-00027-SMVAL",
+    "payment_amount": 3900.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-17T09:53:05.000+00:00"
+  },
+  {
+    "payment_id": "PAY-102-SMVAL",
+    "transaction_id": "2025-10-00028-SMVAL",
+    "payment_amount": 1875.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-17T17:16:31.000+00:00"
+  },
+  {
+    "payment_id": "PAY-103-SMVAL",
+    "transaction_id": "2025-10-00029-SMVAL",
+    "payment_amount": 3650.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-17T01:47:22.000+00:00"
+  },
+  {
+    "payment_id": "PAY-98-SMGRA",
+    "transaction_id": "2025-10-00029-SMGRA",
+    "payment_amount": 1600.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-18T21:02:18.000+00:00"
+  },
+  {
+    "payment_id": "PAY-99-SMGRA",
+    "transaction_id": "2025-10-00030-SMGRA",
+    "payment_amount": 625.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-18T09:38:18.000+00:00"
+  },
+  {
+    "payment_id": "PAY-104-SMVAL",
+    "transaction_id": "2025-10-00030-SMVAL",
+    "payment_amount": 641.35,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-18T05:18:09.000+00:00"
+  },
+  {
+    "payment_id": "PAY-100-SMGRA",
+    "transaction_id": "2025-10-00031-SMGRA",
+    "payment_amount": 375.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-18T11:58:36.000+00:00"
+  },
+  {
+    "payment_id": "PAY-101-SMGRA",
+    "transaction_id": "2025-10-00032-SMGRA",
+    "payment_amount": 3525.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-18T17:15:50.000+00:00"
+  },
+  {
+    "payment_id": "PAY-102-SMGRA",
+    "transaction_id": "2025-10-00033-SMGRA",
+    "payment_amount": 3725.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-18T19:37:10.000+00:00"
+  },
+  {
+    "payment_id": "PAY-105-SMVAL",
+    "transaction_id": "2025-10-00031-SMVAL",
+    "payment_amount": 1900.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-19T18:44:20.000+00:00"
+  },
+  {
+    "payment_id": "PAY-103-SMGRA",
+    "transaction_id": "2025-10-00034-SMGRA",
+    "payment_amount": 1353.82,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-19T08:52:57.000+00:00"
+  },
+  {
+    "payment_id": "PAY-101-SMBAL",
+    "transaction_id": "2025-10-00034-SMBAL",
+    "payment_amount": 625.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-19T00:03:27.000+00:00"
+  },
+  {
+    "payment_id": "PAY-104-SMGRA",
+    "transaction_id": "2025-10-00035-SMGRA",
+    "payment_amount": 3925.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-19T14:08:30.000+00:00"
+  },
+  {
+    "payment_id": "PAY-102-SMBAL",
+    "transaction_id": "2025-10-00035-SMBAL",
+    "payment_amount": 825.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-19T05:00:57.000+00:00"
+  },
+  {
+    "payment_id": "PAY-106-SMVAL",
+    "transaction_id": "2025-10-00032-SMVAL",
+    "payment_amount": 3087.5,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-20T00:11:02.000+00:00"
+  },
+  {
+    "payment_id": "PAY-105-SMGRA",
+    "transaction_id": "2025-10-00036-SMGRA",
+    "payment_amount": 125.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-20T15:39:45.000+00:00"
+  },
+  {
+    "payment_id": "PAY-107-SMVAL",
+    "transaction_id": "2025-10-00033-SMVAL",
+    "payment_amount": 5427.5,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-20T17:11:34.000+00:00"
+  },
+  {
+    "payment_id": "PAY-103-SMBAL",
+    "transaction_id": "2025-10-00037-SMBAL",
+    "payment_amount": 1175.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-20T06:26:23.000+00:00"
+  },
+  {
+    "payment_id": "PAY-106-SMGRA",
+    "transaction_id": "2025-10-00037-SMGRA",
+    "payment_amount": 1975.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-20T22:53:56.000+00:00"
+  },
+  {
+    "payment_id": "PAY-108-SMVAL",
+    "transaction_id": "2025-10-00034-SMVAL",
+    "payment_amount": 2242.5,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-21T01:50:55.000+00:00"
+  },
+  {
+    "payment_id": "PAY-107-SMGRA",
+    "transaction_id": "2025-10-00038-SMGRA",
+    "payment_amount": 899.52,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-21T12:53:01.000+00:00"
+  },
+  {
+    "payment_id": "PAY-109-SMVAL",
+    "transaction_id": "2025-10-00035-SMVAL",
+    "payment_amount": 1917.5,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-21T14:07:25.000+00:00"
+  },
+  {
+    "payment_id": "PAY-110-SMVAL",
+    "transaction_id": "2025-10-00036-SMVAL",
+    "payment_amount": 910.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-21T05:26:28.000+00:00"
+  },
+  {
+    "payment_id": "PAY-111-SMVAL",
+    "transaction_id": "2025-10-00037-SMVAL",
+    "payment_amount": 1852.5,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-21T20:35:33.000+00:00"
+  },
+  {
+    "payment_id": "PAY-104-SMBAL",
+    "transaction_id": "2025-10-00039-SMBAL",
+    "payment_amount": 2855.62,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-22T03:26:21.000+00:00"
+  },
+  {
+    "payment_id": "PAY-108-SMGRA",
+    "transaction_id": "2025-10-00039-SMGRA",
+    "payment_amount": 4725.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-22T06:28:02.000+00:00"
+  },
+  {
+    "payment_id": "PAY-112-SMVAL",
+    "transaction_id": "2025-10-00038-SMVAL",
+    "payment_amount": 1852.5,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-22T21:16:59.000+00:00"
+  },
+  {
+    "payment_id": "PAY-105-SMBAL",
+    "transaction_id": "2025-10-00040-SMBAL",
+    "payment_amount": 1675.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-22T13:25:09.000+00:00"
+  },
+  {
+    "payment_id": "PAY-113-SMVAL",
+    "transaction_id": "2025-10-00039-SMVAL",
+    "payment_amount": 1917.5,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-22T16:30:56.000+00:00"
+  },
+  {
+    "payment_id": "PAY-114-SMVAL",
+    "transaction_id": "2025-10-00040-SMVAL",
+    "payment_amount": 162.5,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-23T09:29:35.000+00:00"
+  },
+  {
+    "payment_id": "PAY-109-SMGRA",
+    "transaction_id": "2025-10-00040-SMGRA",
+    "payment_amount": 750.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-23T21:21:56.000+00:00"
+  },
+  {
+    "payment_id": "PAY-110-SMGRA",
+    "transaction_id": "2025-10-00041-SMGRA",
+    "payment_amount": 4150.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-23T14:31:50.000+00:00"
+  },
+  {
+    "payment_id": "PAY-111-SMGRA",
+    "transaction_id": "2025-10-00043-SMGRA",
+    "payment_amount": 3000.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-23T10:10:16.000+00:00"
+  },
+  {
+    "payment_id": "PAY-106-SMBAL",
+    "transaction_id": "2025-10-00041-SMBAL",
+    "payment_amount": 580.65,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-24T04:03:31.000+00:00"
+  },
+  {
+    "payment_id": "PAY-115-SMVAL",
+    "transaction_id": "2025-10-00041-SMVAL",
+    "payment_amount": 1025.94,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-24T23:28:45.000+00:00"
+  },
+  {
+    "payment_id": "PAY-116-SMVAL",
+    "transaction_id": "2025-10-00042-SMVAL",
+    "payment_amount": 450.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-24T18:24:38.000+00:00"
+  },
+  {
+    "payment_id": "PAY-107-SMBAL",
+    "transaction_id": "2025-10-00042-SMBAL",
+    "payment_amount": 360.71,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-24T22:56:50.000+00:00"
+  },
+  {
+    "payment_id": "PAY-112-SMGRA",
+    "transaction_id": "2025-10-00044-SMGRA",
+    "payment_amount": 3477.5,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-24T06:39:51.000+00:00"
+  },
+  {
+    "payment_id": "PAY-117-SMVAL",
+    "transaction_id": "2025-10-00043-SMVAL",
+    "payment_amount": 4775.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-25T20:42:17.000+00:00"
+  },
+  {
+    "payment_id": "PAY-113-SMGRA",
+    "transaction_id": "2025-10-00045-SMGRA",
+    "payment_amount": 2381.16,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-25T08:52:15.000+00:00"
+  },
+  {
+    "payment_id": "PAY-114-SMGRA",
+    "transaction_id": "2025-10-00046-SMGRA",
+    "payment_amount": 1023.68,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-25T04:11:51.000+00:00"
+  },
+  {
+    "payment_id": "PAY-108-SMBAL",
+    "transaction_id": "2025-10-00043-SMBAL",
+    "payment_amount": 555.66,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-25T00:50:21.000+00:00"
+  },
+  {
+    "payment_id": "PAY-118-SMVAL",
+    "transaction_id": "2025-10-00044-SMVAL",
+    "payment_amount": 717.57,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-26T22:14:36.000+00:00"
+  },
+  {
+    "payment_id": "PAY-109-SMBAL",
+    "transaction_id": "2025-10-00044-SMBAL",
+    "payment_amount": 2125.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-26T11:54:54.000+00:00"
+  },
+  {
+    "payment_id": "PAY-119-SMVAL",
+    "transaction_id": "2025-10-00045-SMVAL",
+    "payment_amount": 997.12,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-26T19:40:14.000+00:00"
+  },
+  {
+    "payment_id": "PAY-115-SMGRA",
+    "transaction_id": "2025-10-00048-SMGRA",
+    "payment_amount": 576.71,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-27T08:24:15.000+00:00"
+  },
+  {
+    "payment_id": "PAY-116-SMGRA",
+    "transaction_id": "2025-10-00049-SMGRA",
+    "payment_amount": 3258.71,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-27T23:09:29.000+00:00"
+  },
+  {
+    "payment_id": "PAY-120-SMVAL",
+    "transaction_id": "2025-10-00046-SMVAL",
+    "payment_amount": 1300.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-27T22:21:43.000+00:00"
+  },
+  {
+    "payment_id": "PAY-117-SMGRA",
+    "transaction_id": "2025-10-00050-SMGRA",
+    "payment_amount": 1657.5,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-27T18:17:04.000+00:00"
+  },
+  {
+    "payment_id": "PAY-118-SMGRA",
+    "transaction_id": "2025-10-00051-SMGRA",
+    "payment_amount": 1755.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-28T13:03:34.000+00:00"
+  },
+  {
+    "payment_id": "PAY-121-SMVAL",
+    "transaction_id": "2025-10-00048-SMVAL",
+    "payment_amount": 575.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-28T23:23:16.000+00:00"
+  },
+  {
+    "payment_id": "PAY-122-SMVAL",
+    "transaction_id": "2025-10-00049-SMVAL",
+    "payment_amount": 3500.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-28T10:50:53.000+00:00"
+  },
+  {
+    "payment_id": "PAY-123-SMVAL",
+    "transaction_id": "2025-10-00050-SMVAL",
+    "payment_amount": 3025.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-28T02:19:43.000+00:00"
+  },
+  {
+    "payment_id": "PAY-110-SMBAL",
+    "transaction_id": "2025-10-00047-SMBAL",
+    "payment_amount": 2092.99,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-28T16:25:26.000+00:00"
+  },
+  {
+    "payment_id": "PAY-111-SMBAL",
+    "transaction_id": "2025-10-00048-SMBAL",
+    "payment_amount": 3425.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-29T06:48:08.000+00:00"
+  },
+  {
+    "payment_id": "PAY-124-SMVAL",
+    "transaction_id": "2025-10-00051-SMVAL",
+    "payment_amount": 1050.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-29T13:59:53.000+00:00"
+  },
+  {
+    "payment_id": "PAY-112-SMBAL",
+    "transaction_id": "2025-10-00049-SMBAL",
+    "payment_amount": 1440.65,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-29T17:33:57.000+00:00"
+  },
+  {
+    "payment_id": "PAY-119-SMGRA",
+    "transaction_id": "2025-10-00053-SMGRA",
+    "payment_amount": 917.86,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-30T04:18:27.000+00:00"
+  },
+  {
+    "payment_id": "PAY-120-SMGRA",
+    "transaction_id": "2025-10-00054-SMGRA",
+    "payment_amount": 1075.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-30T23:07:37.000+00:00"
+  },
+  {
+    "payment_id": "PAY-113-SMBAL",
+    "transaction_id": "2025-10-00050-SMBAL",
+    "payment_amount": 1800.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-30T09:04:14.000+00:00"
+  },
+  {
+    "payment_id": "PAY-121-SMGRA",
+    "transaction_id": "2025-10-00055-SMGRA",
+    "payment_amount": 3675.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-10-30T11:41:44.000+00:00"
+  },
+  {
+    "payment_id": "PAY-125-SMVAL",
+    "transaction_id": "2025-10-00053-SMVAL",
+    "payment_amount": 3750.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-10-30T12:08:15.000+00:00"
+  },
+  {
+    "payment_id": "PAY-126-SMVAL",
+    "transaction_id": "2025-10-00054-SMVAL",
+    "payment_amount": 975.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-10-30T06:36:34.000+00:00"
+  },
+  {
+    "payment_id": "PAY-122-SMGRA",
+    "transaction_id": "2025-10-00056-SMGRA",
+    "payment_amount": 419.73,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-30T21:23:45.000+00:00"
+  },
+  {
+    "payment_id": "PAY-123-SMGRA",
+    "transaction_id": "2025-10-00058-SMGRA",
+    "payment_amount": 675.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-31T04:53:36.000+00:00"
+  },
+  {
+    "payment_id": "PAY-114-SMBAL",
+    "transaction_id": "2025-10-00051-SMBAL",
+    "payment_amount": 936.42,
+    "payment_mode": "Bank",
+    "payment_date": "2025-10-31T11:42:53.000+00:00"
+  },
+  {
+    "payment_id": "PAY-115-SMBAL",
+    "transaction_id": "2025-11-00001-SMBAL",
+    "payment_amount": 625.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-11-01T09:04:45.000+00:00"
+  },
+  {
+    "payment_id": "PAY-127-SMVAL",
+    "transaction_id": "2025-11-00001-SMVAL",
+    "payment_amount": 864.29,
+    "payment_mode": "Cash",
+    "payment_date": "2025-11-01T15:22:21.000+00:00"
+  },
+  {
+    "payment_id": "PAY-116-SMBAL",
+    "transaction_id": "2025-11-00002-SMBAL",
+    "payment_amount": 1775.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-11-01T03:50:48.000+00:00"
+  },
+  {
+    "payment_id": "PAY-117-SMBAL",
+    "transaction_id": "2025-11-00003-SMBAL",
+    "payment_amount": 3275.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-11-01T04:06:14.000+00:00"
+  },
+  {
+    "payment_id": "PAY-128-SMVAL",
+    "transaction_id": "2025-11-00002-SMVAL",
+    "payment_amount": 1466.62,
+    "payment_mode": "Other",
+    "payment_date": "2025-11-01T13:30:58.000+00:00"
+  },
+  {
+    "payment_id": "PAY-129-SMVAL",
+    "transaction_id": "2025-11-00004-SMVAL",
+    "payment_amount": 1900.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-11-02T16:47:55.000+00:00"
+  },
+  {
+    "payment_id": "PAY-118-SMBAL",
+    "transaction_id": "2025-11-00004-SMBAL",
+    "payment_amount": 650.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-11-02T02:29:25.000+00:00"
+  },
+  {
+    "payment_id": "PAY-130-SMVAL",
+    "transaction_id": "2025-11-00005-SMVAL",
+    "payment_amount": 450.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-11-02T17:16:28.000+00:00"
+  },
+  {
+    "payment_id": "PAY-124-SMGRA",
+    "transaction_id": "2025-11-00001-SMGRA",
+    "payment_amount": 367.71,
+    "payment_mode": "Other",
+    "payment_date": "2025-11-02T13:04:26.000+00:00"
+  },
+  {
+    "payment_id": "PAY-125-SMGRA",
+    "transaction_id": "2025-11-00002-SMGRA",
+    "payment_amount": 3500.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-11-02T17:26:19.000+00:00"
+  },
+  {
+    "payment_id": "PAY-119-SMBAL",
+    "transaction_id": "2025-11-00005-SMBAL",
+    "payment_amount": 2775.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-11-02T09:59:15.000+00:00"
+  },
+  {
+    "payment_id": "PAY-131-SMVAL",
+    "transaction_id": "2025-11-00006-SMVAL",
+    "payment_amount": 1150.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-11-02T21:06:15.000+00:00"
+  },
+  {
+    "payment_id": "PAY-126-SMGRA",
+    "transaction_id": "2025-11-00003-SMGRA",
+    "payment_amount": 2075.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-11-03T03:29:58.000+00:00"
+  },
+  {
+    "payment_id": "PAY-127-SMGRA",
+    "transaction_id": "2025-11-00004-SMGRA",
+    "payment_amount": 211.45,
+    "payment_mode": "Cash",
+    "payment_date": "2025-11-03T08:06:02.000+00:00"
+  },
+  {
+    "payment_id": "PAY-120-SMBAL",
+    "transaction_id": "2025-11-00006-SMBAL",
+    "payment_amount": 300.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-11-04T01:40:29.000+00:00"
+  },
+  {
+    "payment_id": "PAY-121-SMBAL",
+    "transaction_id": "2025-11-00007-SMBAL",
+    "payment_amount": 2725.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-11-04T08:33:05.000+00:00"
+  },
+  {
+    "payment_id": "PAY-122-SMBAL",
+    "transaction_id": "2025-11-00008-SMBAL",
+    "payment_amount": 2500.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-11-04T18:34:40.000+00:00"
+  },
+  {
+    "payment_id": "PAY-123-SMBAL",
+    "transaction_id": "2025-11-00009-SMBAL",
+    "payment_amount": 3575.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-11-04T22:17:56.000+00:00"
+  },
+  {
+    "payment_id": "PAY-124-SMBAL",
+    "transaction_id": "2025-11-00010-SMBAL",
+    "payment_amount": 4011.97,
+    "payment_mode": "Cash",
+    "payment_date": "2025-11-04T19:13:11.000+00:00"
+  },
+  {
+    "payment_id": "PAY-125-SMBAL",
+    "transaction_id": "2025-11-00011-SMBAL",
+    "payment_amount": 3475.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-11-05T18:28:16.000+00:00"
+  },
+  {
+    "payment_id": "PAY-126-SMBAL",
+    "transaction_id": "2025-11-00012-SMBAL",
+    "payment_amount": 750.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-11-05T07:12:27.000+00:00"
+  },
+  {
+    "payment_id": "PAY-128-SMGRA",
+    "transaction_id": "2025-11-00005-SMGRA",
+    "payment_amount": 1150.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-11-05T09:21:11.000+00:00"
+  },
+  {
+    "payment_id": "PAY-132-SMVAL",
+    "transaction_id": "2025-11-00008-SMVAL",
+    "payment_amount": 2375.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-11-05T17:11:26.000+00:00"
+  },
+  {
+    "payment_id": "PAY-133-SMVAL",
+    "transaction_id": "2025-11-00009-SMVAL",
+    "payment_amount": 3975.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-11-06T15:27:18.000+00:00"
+  },
+  {
+    "payment_id": "PAY-127-SMBAL",
+    "transaction_id": "2025-11-00014-SMBAL",
+    "payment_amount": 1500.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-11-06T18:12:21.000+00:00"
+  },
+  {
+    "payment_id": "PAY-128-SMBAL",
+    "transaction_id": "2025-11-00015-SMBAL",
+    "payment_amount": 1775.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-11-06T01:05:59.000+00:00"
+  },
+  {
+    "payment_id": "PAY-129-SMBAL",
+    "transaction_id": "2025-11-00016-SMBAL",
+    "payment_amount": 3225.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-11-06T19:11:10.000+00:00"
+  },
+  {
+    "payment_id": "PAY-134-SMVAL",
+    "transaction_id": "2025-11-00012-SMVAL",
+    "payment_amount": 1691.99,
+    "payment_mode": "Other",
+    "payment_date": "2025-11-07T20:12:52.000+00:00"
+  },
+  {
+    "payment_id": "PAY-135-SMVAL",
+    "transaction_id": "2025-11-00013-SMVAL",
+    "payment_amount": 3100.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-11-07T00:47:24.000+00:00"
+  },
+  {
+    "payment_id": "PAY-129-SMGRA",
+    "transaction_id": "2025-11-00006-SMGRA",
+    "payment_amount": 3000.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-11-07T14:44:20.000+00:00"
+  },
+  {
+    "payment_id": "PAY-130-SMBAL",
+    "transaction_id": "2025-11-00017-SMBAL",
+    "payment_amount": 425.62,
+    "payment_mode": "Cash",
+    "payment_date": "2025-11-07T00:32:31.000+00:00"
+  },
+  {
+    "payment_id": "PAY-130-SMGRA",
+    "transaction_id": "2025-11-00007-SMGRA",
+    "payment_amount": 3425.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-11-08T08:39:24.000+00:00"
+  },
+  {
+    "payment_id": "PAY-131-SMBAL",
+    "transaction_id": "2025-11-00018-SMBAL",
+    "payment_amount": 831.95,
+    "payment_mode": "Bank",
+    "payment_date": "2025-11-08T12:23:22.000+00:00"
+  },
+  {
+    "payment_id": "PAY-132-SMBAL",
+    "transaction_id": "2025-11-00019-SMBAL",
+    "payment_amount": 852.18,
+    "payment_mode": "GCash",
+    "payment_date": "2025-11-08T23:08:33.000+00:00"
+  },
+  {
+    "payment_id": "PAY-136-SMVAL",
+    "transaction_id": "2025-11-00014-SMVAL",
+    "payment_amount": 926.21,
+    "payment_mode": "Bank",
+    "payment_date": "2025-11-08T13:29:53.000+00:00"
+  },
+  {
+    "payment_id": "PAY-137-SMVAL",
+    "transaction_id": "2025-11-00015-SMVAL",
+    "payment_amount": 1125.0,
+    "payment_mode": "Other",
+    "payment_date": "2025-11-08T16:44:22.000+00:00"
+  },
+  {
+    "payment_id": "PAY-133-SMBAL",
+    "transaction_id": "2025-11-00020-SMBAL",
+    "payment_amount": 1250.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-11-09T09:18:12.000+00:00"
+  },
+  {
+    "payment_id": "PAY-134-SMBAL",
+    "transaction_id": "2025-11-00021-SMBAL",
+    "payment_amount": 325.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-11-09T03:19:36.000+00:00"
+  },
+  {
+    "payment_id": "PAY-135-SMBAL",
+    "transaction_id": "2025-11-00024-SMBAL",
+    "payment_amount": 746.12,
+    "payment_mode": "Other",
+    "payment_date": "2025-11-09T06:40:39.000+00:00"
+  },
+  {
+    "payment_id": "PAY-138-SMVAL",
+    "transaction_id": "2025-11-00016-SMVAL",
+    "payment_amount": 1800.0,
+    "payment_mode": "GCash",
+    "payment_date": "2025-11-09T16:07:16.000+00:00"
+  },
+  {
+    "payment_id": "PAY-139-SMVAL",
+    "transaction_id": "2025-11-00017-SMVAL",
+    "payment_amount": 275.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-11-09T11:45:17.000+00:00"
+  },
+  {
+    "payment_id": "PAY-131-SMGRA",
+    "transaction_id": "2025-11-00009-SMGRA",
+    "payment_amount": 600.0,
+    "payment_mode": "Bank",
+    "payment_date": "2025-11-10T23:17:31.000+00:00"
+  },
+  {
+    "payment_id": "PAY-136-SMBAL",
+    "transaction_id": "2025-11-00025-SMBAL",
+    "payment_amount": 1799.35,
+    "payment_mode": "Bank",
+    "payment_date": "2025-11-10T00:42:01.000+00:00"
+  },
+  {
+    "payment_id": "PAY-132-SMGRA",
+    "transaction_id": "2025-11-00011-SMGRA",
+    "payment_amount": 6325.0,
+    "payment_mode": "Cash",
+    "payment_date": "2025-11-10T00:23:55.000+00:00"
+  }
+]

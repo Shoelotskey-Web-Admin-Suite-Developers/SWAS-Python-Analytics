@@ -1,0 +1,325 @@
+[
+  {
+    "week_start": "2025-10-13",
+    "forecast": {
+      "SMBAL-B-NCR": 14878.42,
+      "SMGRA-B-NCR": 14420.5,
+      "SMVAL-B-NCR": 15583.84,
+      "total": 44882.76
+    },
+    "actual": {
+      "SMBAL-B-NCR": 14800.0,
+      "SMGRA-B-NCR": 31210.0,
+      "SMVAL-B-NCR": 16075.0,
+      "total": 62085.0
+    },
+    "SMBAL-B-NCR": 14878.42,
+    "SMGRA-B-NCR": 14420.5,
+    "SMVAL-B-NCR": 15583.84,
+    "total": 44882.76
+  },
+  {
+    "week_start": "2025-10-20",
+    "forecast": {
+      "SMBAL-B-NCR": 13842.56,
+      "SMGRA-B-NCR": 14469.82,
+      "SMVAL-B-NCR": 16885.42,
+      "total": 45197.8
+    },
+    "actual": {
+      "SMBAL-B-NCR": 4975.0,
+      "SMGRA-B-NCR": 18202.5,
+      "SMVAL-B-NCR": 24595.0,
+      "total": 47772.5
+    },
+    "SMBAL-B-NCR": 13842.56,
+    "SMGRA-B-NCR": 14469.82,
+    "SMVAL-B-NCR": 16885.42,
+    "total": 45197.8
+  },
+  {
+    "week_start": "2025-10-27",
+    "forecast": {
+      "SMBAL-B-NCR": 13555.36,
+      "SMGRA-B-NCR": 14272.6,
+      "SMVAL-B-NCR": 17208.41,
+      "total": 45036.37
+    },
+    "actual": {
+      "SMBAL-B-NCR": 14325.0,
+      "SMGRA-B-NCR": 12337.5,
+      "SMVAL-B-NCR": 17675.0,
+      "total": 44337.5
+    },
+    "SMBAL-B-NCR": 13555.36,
+    "SMGRA-B-NCR": 14272.6,
+    "SMVAL-B-NCR": 17208.41,
+    "total": 45036.37
+  },
+  {
+    "week_start": "2025-11-03",
+    "forecast": {
+      "SMBAL-B-NCR": 13473.13,
+      "SMGRA-B-NCR": 13959.63,
+      "SMVAL-B-NCR": 16628.6,
+      "total": 44061.36
+    },
+    "actual": {
+      "SMBAL-B-NCR": 21400.0,
+      "SMGRA-B-NCR": 9650.0,
+      "SMVAL-B-NCR": 12650.0,
+      "total": 43700.0
+    },
+    "SMBAL-B-NCR": 13473.13,
+    "SMGRA-B-NCR": 13959.63,
+    "SMVAL-B-NCR": 16628.6,
+    "total": 44061.36
+  },
+  {
+    "week_start": "2025-11-10",
+    "forecast": {
+      "SMBAL-B-NCR": 14277.95,
+      "SMGRA-B-NCR": 13892.23,
+      "SMVAL-B-NCR": 16818.35,
+      "total": 44988.53
+    },
+    "actual": {
+      "SMBAL-B-NCR": 0.0,
+      "SMGRA-B-NCR": 6925.0,
+      "SMVAL-B-NCR": 0.0,
+      "total": 6925.0
+    },
+    "SMBAL-B-NCR": 14277.95,
+    "SMGRA-B-NCR": 13892.23,
+    "SMVAL-B-NCR": 16818.35,
+    "total": 44988.53
+  },
+  {
+    "week_start": "2025-11-17",
+    "forecast": {
+      "SMBAL-B-NCR": 8669.62,
+      "SMGRA-B-NCR": 13825.5,
+      "SMVAL-B-NCR": 18937.28,
+      "total": 41432.4
+    },
+    "actual": {
+      "SMBAL-B-NCR": null,
+      "SMGRA-B-NCR": null,
+      "SMVAL-B-NCR": null,
+      "total": null
+    },
+    "SMBAL-B-NCR": 8669.62,
+    "SMGRA-B-NCR": 13825.5,
+    "SMVAL-B-NCR": 18937.28,
+    "total": 41432.4
+  },
+  {
+    "week_start": "2025-11-24",
+    "forecast": {
+      "SMBAL-B-NCR": 13131.86,
+      "SMGRA-B-NCR": 11677.07,
+      "SMVAL-B-NCR": 16446.06,
+      "total": 41254.99
+    },
+    "actual": {
+      "SMBAL-B-NCR": null,
+      "SMGRA-B-NCR": null,
+      "SMVAL-B-NCR": null,
+      "total": null
+    },
+    "SMBAL-B-NCR": 13131.86,
+    "SMGRA-B-NCR": 11677.07,
+    "SMVAL-B-NCR": 16446.06,
+    "total": 41254.99
+  },
+  {
+    "week_start": "2025-12-01",
+    "forecast": {
+      "SMBAL-B-NCR": 16130.21,
+      "SMGRA-B-NCR": 10246.64,
+      "SMVAL-B-NCR": 13906.51,
+      "total": 40283.36
+    },
+    "actual": {
+      "SMBAL-B-NCR": null,
+      "SMGRA-B-NCR": null,
+      "SMVAL-B-NCR": null,
+      "total": null
+    },
+    "SMBAL-B-NCR": 16130.21,
+    "SMGRA-B-NCR": 10246.64,
+    "SMVAL-B-NCR": 13906.51,
+    "total": 40283.36
+  },
+  {
+    "week_start": "2025-12-08",
+    "forecast": {
+      "SMBAL-B-NCR": 10005.3,
+      "SMGRA-B-NCR": 8789.17,
+      "SMVAL-B-NCR": 11967.07,
+      "total": 30761.54
+    },
+    "actual": {
+      "SMBAL-B-NCR": null,
+      "SMGRA-B-NCR": null,
+      "SMVAL-B-NCR": null,
+      "total": null
+    },
+    "SMBAL-B-NCR": 10005.3,
+    "SMGRA-B-NCR": 8789.17,
+    "SMVAL-B-NCR": 11967.07,
+    "total": 30761.54
+  },
+  {
+    "week_start": "2025-12-15",
+    "forecast": {
+      "SMBAL-B-NCR": 10043.6,
+      "SMGRA-B-NCR": 13991.83,
+      "SMVAL-B-NCR": 19747.1,
+      "total": 43782.53
+    },
+    "actual": {
+      "SMBAL-B-NCR": null,
+      "SMGRA-B-NCR": null,
+      "SMVAL-B-NCR": null,
+      "total": null
+    },
+    "SMBAL-B-NCR": 10043.6,
+    "SMGRA-B-NCR": 13991.83,
+    "SMVAL-B-NCR": 19747.1,
+    "total": 43782.53
+  },
+  {
+    "week_start": "2025-12-22",
+    "forecast": {
+      "SMBAL-B-NCR": 13195.6,
+      "SMGRA-B-NCR": 11798.01,
+      "SMVAL-B-NCR": 16767.29,
+      "total": 41760.9
+    },
+    "actual": {
+      "SMBAL-B-NCR": null,
+      "SMGRA-B-NCR": null,
+      "SMVAL-B-NCR": null,
+      "total": null
+    },
+    "SMBAL-B-NCR": 13195.6,
+    "SMGRA-B-NCR": 11798.01,
+    "SMVAL-B-NCR": 16767.29,
+    "total": 41760.9
+  },
+  {
+    "week_start": "2025-12-29",
+    "forecast": {
+      "SMBAL-B-NCR": 16351.41,
+      "SMGRA-B-NCR": 10308.23,
+      "SMVAL-B-NCR": 14162.78,
+      "total": 40822.42
+    },
+    "actual": {
+      "SMBAL-B-NCR": null,
+      "SMGRA-B-NCR": null,
+      "SMVAL-B-NCR": null,
+      "total": null
+    },
+    "SMBAL-B-NCR": 16351.41,
+    "SMGRA-B-NCR": 10308.23,
+    "SMVAL-B-NCR": 14162.78,
+    "total": 40822.42
+  },
+  {
+    "week_start": "2026-01-05",
+    "forecast": {
+      "SMBAL-B-NCR": 10455.9,
+      "SMGRA-B-NCR": 8766.27,
+      "SMVAL-B-NCR": 12016.24,
+      "total": 31238.41
+    },
+    "actual": {
+      "SMBAL-B-NCR": null,
+      "SMGRA-B-NCR": null,
+      "SMVAL-B-NCR": null,
+      "total": null
+    },
+    "SMBAL-B-NCR": 10455.9,
+    "SMGRA-B-NCR": 8766.27,
+    "SMVAL-B-NCR": 12016.24,
+    "total": 31238.41
+  },
+  {
+    "week_start": "2026-01-12",
+    "forecast": {
+      "SMBAL-B-NCR": 9701.41,
+      "SMGRA-B-NCR": 13872.03,
+      "SMVAL-B-NCR": 19265.03,
+      "total": 42838.47
+    },
+    "actual": {
+      "SMBAL-B-NCR": null,
+      "SMGRA-B-NCR": null,
+      "SMVAL-B-NCR": null,
+      "total": null
+    },
+    "SMBAL-B-NCR": 9701.41,
+    "SMGRA-B-NCR": 13872.03,
+    "SMVAL-B-NCR": 19265.03,
+    "total": 42838.47
+  },
+  {
+    "week_start": "2026-01-19",
+    "forecast": {
+      "SMBAL-B-NCR": 13109.16,
+      "SMGRA-B-NCR": 11763.0,
+      "SMVAL-B-NCR": 16699.9,
+      "total": 41572.06
+    },
+    "actual": {
+      "SMBAL-B-NCR": null,
+      "SMGRA-B-NCR": null,
+      "SMVAL-B-NCR": null,
+      "total": null
+    },
+    "SMBAL-B-NCR": 13109.16,
+    "SMGRA-B-NCR": 11763.0,
+    "SMVAL-B-NCR": 16699.9,
+    "total": 41572.06
+  },
+  {
+    "week_start": "2026-01-26",
+    "forecast": {
+      "SMBAL-B-NCR": 16366.29,
+      "SMGRA-B-NCR": 10258.33,
+      "SMVAL-B-NCR": 14151.42,
+      "total": 40776.04
+    },
+    "actual": {
+      "SMBAL-B-NCR": null,
+      "SMGRA-B-NCR": null,
+      "SMVAL-B-NCR": null,
+      "total": null
+    },
+    "SMBAL-B-NCR": 16366.29,
+    "SMGRA-B-NCR": 10258.33,
+    "SMVAL-B-NCR": 14151.42,
+    "total": 40776.04
+  },
+  {
+    "week_start": "2026-02-02",
+    "forecast": {
+      "SMBAL-B-NCR": 10479.37,
+      "SMGRA-B-NCR": 8688.39,
+      "SMVAL-B-NCR": 11991.95,
+      "total": 31159.71
+    },
+    "actual": {
+      "SMBAL-B-NCR": null,
+      "SMGRA-B-NCR": null,
+      "SMVAL-B-NCR": null,
+      "total": null
+    },
+    "SMBAL-B-NCR": 10479.37,
+    "SMGRA-B-NCR": 8688.39,
+    "SMVAL-B-NCR": 11991.95,
+    "total": 31159.71
+  }
+]

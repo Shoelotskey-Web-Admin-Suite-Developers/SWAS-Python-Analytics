@@ -1,0 +1,37 @@
+[
+  {
+    "week_start": "2025-10-13",
+    "SMBAL-B-NCR": 14800.0,
+    "SMGRA-B-NCR": 31210.0,
+    "SMVAL-B-NCR": 16075.0,
+    "total": 62085.0
+  },
+  {
+    "week_start": "2025-10-20",
+    "SMBAL-B-NCR": 4975.0,
+    "SMGRA-B-NCR": 18202.5,
+    "SMVAL-B-NCR": 24595.0,
+    "total": 47772.5
+  },
+  {
+    "week_start": "2025-10-27",
+    "SMBAL-B-NCR": 14325.0,
+    "SMGRA-B-NCR": 12337.5,
+    "SMVAL-B-NCR": 17675.0,
+    "total": 44337.5
+  },
+  {
+    "week_start": "2025-11-03",
+    "SMBAL-B-NCR": 21400.0,
+    "SMGRA-B-NCR": 9650.0,
+    "SMVAL-B-NCR": 12650.0,
+    "total": 43700.0
+  },
+  {
+    "week_start": "2025-11-10",
+    "SMBAL-B-NCR": 0.0,
+    "SMGRA-B-NCR": 6925.0,
+    "SMVAL-B-NCR": 0.0,
+    "total": 6925.0
+  }
+]

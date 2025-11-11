@@ -1,0 +1,98 @@
+[
+  {
+    "month": "Jan",
+    "Year": 2025,
+    "SMBAL-B-NCR": 0.0,
+    "SMGRA-B-NCR": 0.0,
+    "SMVAL-B-NCR": 0.0,
+    "total": 0.0
+  },
+  {
+    "month": "Feb",
+    "Year": 2025,
+    "SMBAL-B-NCR": 0.0,
+    "SMGRA-B-NCR": 0.0,
+    "SMVAL-B-NCR": 0.0,
+    "total": 0.0
+  },
+  {
+    "month": "Mar",
+    "Year": 2025,
+    "SMBAL-B-NCR": 0.0,
+    "SMGRA-B-NCR": 0.0,
+    "SMVAL-B-NCR": 0.0,
+    "total": 0.0
+  },
+  {
+    "month": "Apr",
+    "Year": 2025,
+    "SMBAL-B-NCR": 0.0,
+    "SMGRA-B-NCR": 0.0,
+    "SMVAL-B-NCR": 0.0,
+    "total": 0.0
+  },
+  {
+    "month": "May",
+    "Year": 2025,
+    "SMBAL-B-NCR": 0.0,
+    "SMGRA-B-NCR": 0.0,
+    "SMVAL-B-NCR": 0.0,
+    "total": 0.0
+  },
+  {
+    "month": "Jun",
+    "Year": 2025,
+    "SMBAL-B-NCR": 0.0,
+    "SMGRA-B-NCR": 0.0,
+    "SMVAL-B-NCR": 0.0,
+    "total": 0.0
+  },
+  {
+    "month": "Jul",
+    "Year": 2025,
+    "SMBAL-B-NCR": 0.0,
+    "SMGRA-B-NCR": 0.0,
+    "SMVAL-B-NCR": 0.0,
+    "total": 0.0
+  },
+  {
+    "month": "Aug",
+    "Year": 2025,
+    "SMBAL-B-NCR": 48370.0,
+    "SMGRA-B-NCR": 31250.0,
+    "SMVAL-B-NCR": 64207.5,
+    "total": 143827.5
+  },
+  {
+    "month": "Sep",
+    "Year": 2025,
+    "SMBAL-B-NCR": 70882.5,
+    "SMGRA-B-NCR": 98525.0,
+    "SMVAL-B-NCR": 64500.0,
+    "total": 233907.5
+  },
+  {
+    "month": "Oct",
+    "Year": 2025,
+    "SMBAL-B-NCR": 50232.5,
+    "SMGRA-B-NCR": 82305.0,
+    "SMVAL-B-NCR": 77445.0,
+    "total": 209982.5
+  },
+  {
+    "month": "Nov",
+    "Year": 2025,
+    "SMBAL-B-NCR": 30500.0,
+    "SMGRA-B-NCR": 20075.0,
+    "SMVAL-B-NCR": 16150.0,
+    "total": 66725.0
+  },
+  {
+    "month": "Dec",
+    "Year": 2025,
+    "SMBAL-B-NCR": 0.0,
+    "SMGRA-B-NCR": 0.0,
+    "SMVAL-B-NCR": 0.0,
+    "total": 0.0
+  }
+]

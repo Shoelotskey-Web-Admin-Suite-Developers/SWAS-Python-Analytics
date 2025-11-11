@@ -1,0 +1,429 @@
+[
+  {
+    "date": "2025-09-12",
+    "SMGRA-B-NCR": 1934.16,
+    "SMVAL-B-NCR": 1742.63,
+    "VAL-B-NCR": 858.24,
+    "total": 9001.66
+  },
+  {
+    "date": "2025-09-13",
+    "SMGRA-B-NCR": 1582.48,
+    "SMVAL-B-NCR": 1842.38,
+    "VAL-B-NCR": 481.76,
+    "total": 7856.77
+  },
+  {
+    "date": "2025-09-14",
+    "SMGRA-B-NCR": 1311.52,
+    "SMVAL-B-NCR": 447.11,
+    "VAL-B-NCR": 1499.22,
+    "total": 6578.28
+  },
+  {
+    "date": "2025-09-15",
+    "SMGRA-B-NCR": 1882.65,
+    "SMVAL-B-NCR": 1523.66,
+    "VAL-B-NCR": 543.96,
+    "total": 7805.76
+  },
+  {
+    "date": "2025-09-16",
+    "SMGRA-B-NCR": 712.05,
+    "SMVAL-B-NCR": 2158.49,
+    "VAL-B-NCR": 860.57,
+    "total": 7219.5
+  },
+  {
+    "date": "2025-09-17",
+    "SMGRA-B-NCR": 953.82,
+    "SMVAL-B-NCR": 1800.64,
+    "VAL-B-NCR": 1443.97,
+    "total": 8426.38
+  },
+  {
+    "date": "2025-09-18",
+    "SMGRA-B-NCR": 1811.52,
+    "SMVAL-B-NCR": 849.35,
+    "VAL-B-NCR": 714.05,
+    "total": 6454.69
+  },
+  {
+    "date": "2025-09-19",
+    "SMGRA-B-NCR": 1923.56,
+    "SMVAL-B-NCR": 1384.33,
+    "VAL-B-NCR": 811.99,
+    "total": 8104.7
+  },
+  {
+    "date": "2025-09-20",
+    "SMGRA-B-NCR": 1307.44,
+    "SMVAL-B-NCR": 2027.35,
+    "VAL-B-NCR": 455.18,
+    "total": 7393.66
+  },
+  {
+    "date": "2025-09-21",
+    "SMGRA-B-NCR": 1286.17,
+    "SMVAL-B-NCR": 262.26,
+    "VAL-B-NCR": 1496.35,
+    "total": 6714.02
+  },
+  {
+    "date": "2025-09-22",
+    "SMGRA-B-NCR": 1734.15,
+    "SMVAL-B-NCR": 1106.35,
+    "VAL-B-NCR": 706.41,
+    "total": 7316.87
+  },
+  {
+    "date": "2025-09-23",
+    "SMGRA-B-NCR": 836.7,
+    "SMVAL-B-NCR": 2004.07,
+    "VAL-B-NCR": 1205.08,
+    "total": 8044.61
+  },
+  {
+    "date": "2025-09-24",
+    "SMGRA-B-NCR": 779.35,
+    "SMVAL-B-NCR": 1583.37,
+    "VAL-B-NCR": 1397.23,
+    "total": 7533.3
+  },
+  {
+    "date": "2025-09-25",
+    "SMGRA-B-NCR": 1957.13,
+    "SMVAL-B-NCR": 863.63,
+    "VAL-B-NCR": 649.66,
+    "total": 7042.24
+  },
+  {
+    "date": "2025-09-26",
+    "SMGRA-B-NCR": 1624.89,
+    "SMVAL-B-NCR": 1297.22,
+    "VAL-B-NCR": 1001.71,
+    "total": 7760.82
+  },
+  {
+    "date": "2025-09-27",
+    "SMGRA-B-NCR": 1187.41,
+    "SMVAL-B-NCR": 714.87,
+    "VAL-B-NCR": 783.44,
+    "total": 6365.93
+  },
+  {
+    "date": "2025-09-28",
+    "SMGRA-B-NCR": 1213.39,
+    "SMVAL-B-NCR": 817.18,
+    "VAL-B-NCR": 1530.68,
+    "total": 7264.8
+  },
+  {
+    "date": "2025-09-29",
+    "SMGRA-B-NCR": 1724.5,
+    "SMVAL-B-NCR": 992.6,
+    "VAL-B-NCR": 833.9,
+    "total": 6996.76
+  },
+  {
+    "date": "2025-09-30",
+    "SMGRA-B-NCR": 707.95,
+    "SMVAL-B-NCR": 1813.05,
+    "VAL-B-NCR": 1267.86,
+    "total": 7511.82
+  },
+  {
+    "date": "2025-10-01",
+    "SMGRA-B-NCR": 929.19,
+    "SMVAL-B-NCR": 1683.78,
+    "VAL-B-NCR": 1509.35,
+    "total": 8256.47
+  },
+  {
+    "date": "2025-10-02",
+    "SMGRA-B-NCR": 1936.44,
+    "SMVAL-B-NCR": 637.04,
+    "VAL-B-NCR": 734.59,
+    "total": 6634.58
+  },
+  {
+    "date": "2025-10-03",
+    "SMGRA-B-NCR": 1712.89,
+    "SMVAL-B-NCR": 1361.2,
+    "VAL-B-NCR": 909.85,
+    "total": 7926.55
+  },
+  {
+    "date": "2025-10-04",
+    "SMGRA-B-NCR": 1237.12,
+    "SMVAL-B-NCR": 1720.78,
+    "VAL-B-NCR": 992.48,
+    "total": 7630.83
+  },
+  {
+    "date": "2025-10-05",
+    "SMGRA-B-NCR": 1262.29,
+    "SMVAL-B-NCR": -1006.57,
+    "VAL-B-NCR": 1652.31,
+    "total": 5466.66
+  },
+  {
+    "date": "2025-10-06",
+    "SMGRA-B-NCR": 1623.05,
+    "SMVAL-B-NCR": 1155.99,
+    "VAL-B-NCR": 737.78,
+    "total": 6960.15
+  },
+  {
+    "date": "2025-10-07",
+    "SMGRA-B-NCR": 857.36,
+    "SMVAL-B-NCR": 2118.25,
+    "VAL-B-NCR": 1094.03,
+    "total": 8026.18
+  },
+  {
+    "date": "2025-10-08",
+    "SMGRA-B-NCR": 1024.08,
+    "SMVAL-B-NCR": 1700.03,
+    "VAL-B-NCR": 1401.66,
+    "total": 8227.49
+  },
+  {
+    "date": "2025-10-09",
+    "SMGRA-B-NCR": 1658.13,
+    "SMVAL-B-NCR": 943.35,
+    "VAL-B-NCR": 836.24,
+    "total": 6600.08
+  },
+  {
+    "date": "2025-10-10",
+    "SMGRA-B-NCR": 1600.49,
+    "SMVAL-B-NCR": 1217.93,
+    "VAL-B-NCR": 998.59,
+    "total": 7888.48
+  },
+  {
+    "date": "2025-10-11",
+    "SMGRA-B-NCR": 1106.47,
+    "SMVAL-B-NCR": 1690.24,
+    "VAL-B-NCR": 836.5,
+    "total": 7168.62
+  },
+  {
+    "date": "2025-10-12",
+    "SMGRA-B-NCR": 1888.68,
+    "SMVAL-B-NCR": 2258.85,
+    "VAL-B-NCR": 2101.86,
+    "total": 12115.53
+  },
+  {
+    "date": "2025-10-13",
+    "SMGRA-B-NCR": 2404.83,
+    "SMVAL-B-NCR": 2567.14,
+    "VAL-B-NCR": 1368.55,
+    "total": 12383.58
+  },
+  {
+    "date": "2025-10-14",
+    "SMGRA-B-NCR": 1571.89,
+    "SMVAL-B-NCR": 3312.4,
+    "VAL-B-NCR": 1682.44,
+    "total": 12865.99
+  },
+  {
+    "date": "2025-10-15",
+    "SMGRA-B-NCR": 1778.39,
+    "SMVAL-B-NCR": 2785.39,
+    "VAL-B-NCR": 2042.13,
+    "total": 12904.02
+  },
+  {
+    "date": "2025-10-16",
+    "SMGRA-B-NCR": 2759.79,
+    "SMVAL-B-NCR": 2150.06,
+    "VAL-B-NCR": 1429.36,
+    "total": 12371.1
+  },
+  {
+    "date": "2025-10-17",
+    "SMGRA-B-NCR": 2187.05,
+    "SMVAL-B-NCR": 3070.53,
+    "VAL-B-NCR": 1546.11,
+    "total": 13122.44
+  },
+  {
+    "date": "2025-10-18",
+    "SMGRA-B-NCR": 3698.76,
+    "SMVAL-B-NCR": 5281.59,
+    "VAL-B-NCR": 2699.26,
+    "total": 22974.38
+  },
+  {
+    "date": "2025-10-19",
+    "SMGRA-B-NCR": 1947.44,
+    "SMVAL-B-NCR": 2408.75,
+    "VAL-B-NCR": 2170.84,
+    "total": 12636.12
+  },
+  {
+    "date": "2025-10-20",
+    "SMGRA-B-NCR": 2463.59,
+    "SMVAL-B-NCR": 2717.04,
+    "VAL-B-NCR": 1437.53,
+    "total": 12904.17
+  },
+  {
+    "date": "2025-10-21",
+    "SMGRA-B-NCR": 1630.65,
+    "SMVAL-B-NCR": 3462.3,
+    "VAL-B-NCR": 1751.43,
+    "total": 13386.59
+  },
+  {
+    "date": "2025-10-22",
+    "SMGRA-B-NCR": 1837.15,
+    "SMVAL-B-NCR": 2935.29,
+    "VAL-B-NCR": 2111.11,
+    "total": 13424.61
+  },
+  {
+    "date": "2025-10-23",
+    "SMGRA-B-NCR": 2818.55,
+    "SMVAL-B-NCR": 2299.96,
+    "VAL-B-NCR": 1498.34,
+    "total": 12891.69
+  },
+  {
+    "date": "2025-10-24",
+    "SMGRA-B-NCR": 2245.81,
+    "SMVAL-B-NCR": 3220.43,
+    "VAL-B-NCR": 1615.1,
+    "total": 13643.04
+  },
+  {
+    "date": "2025-10-25",
+    "SMGRA-B-NCR": 3757.52,
+    "SMVAL-B-NCR": 5431.49,
+    "VAL-B-NCR": 2768.24,
+    "total": 23494.98
+  },
+  {
+    "date": "2025-10-26",
+    "SMGRA-B-NCR": 2006.21,
+    "SMVAL-B-NCR": 2558.65,
+    "VAL-B-NCR": 2239.83,
+    "total": 13156.73
+  },
+  {
+    "date": "2025-10-27",
+    "SMGRA-B-NCR": 2522.35,
+    "SMVAL-B-NCR": 2866.93,
+    "VAL-B-NCR": 1506.52,
+    "total": 13424.76
+  },
+  {
+    "date": "2025-10-28",
+    "SMGRA-B-NCR": 1689.42,
+    "SMVAL-B-NCR": 3612.2,
+    "VAL-B-NCR": 1820.41,
+    "total": 13907.2
+  },
+  {
+    "date": "2025-10-29",
+    "SMGRA-B-NCR": 1895.92,
+    "SMVAL-B-NCR": 3085.19,
+    "VAL-B-NCR": 2180.1,
+    "total": 13945.22
+  },
+  {
+    "date": "2025-10-30",
+    "SMGRA-B-NCR": 2877.32,
+    "SMVAL-B-NCR": 2449.86,
+    "VAL-B-NCR": 1567.33,
+    "total": 13412.3
+  },
+  {
+    "date": "2025-10-31",
+    "SMGRA-B-NCR": 2304.58,
+    "SMVAL-B-NCR": 3370.33,
+    "VAL-B-NCR": 1684.08,
+    "total": 14163.64
+  },
+  {
+    "date": "2025-11-01",
+    "SMGRA-B-NCR": 3816.28,
+    "SMVAL-B-NCR": 5581.39,
+    "VAL-B-NCR": 2837.23,
+    "total": 24015.58
+  },
+  {
+    "date": "2025-11-02",
+    "SMGRA-B-NCR": 2064.97,
+    "SMVAL-B-NCR": 2708.55,
+    "VAL-B-NCR": 2308.81,
+    "total": 13677.33
+  },
+  {
+    "date": "2025-11-03",
+    "SMGRA-B-NCR": 2581.12,
+    "SMVAL-B-NCR": 3016.83,
+    "VAL-B-NCR": 1575.5,
+    "total": 13945.37
+  },
+  {
+    "date": "2025-11-04",
+    "SMGRA-B-NCR": 1748.18,
+    "SMVAL-B-NCR": 3762.1,
+    "VAL-B-NCR": 1889.4,
+    "total": 14427.8
+  },
+  {
+    "date": "2025-11-05",
+    "SMGRA-B-NCR": 1954.68,
+    "SMVAL-B-NCR": 3235.09,
+    "VAL-B-NCR": 2249.08,
+    "total": 14465.82
+  },
+  {
+    "date": "2025-11-06",
+    "SMGRA-B-NCR": 2936.08,
+    "SMVAL-B-NCR": 2599.76,
+    "VAL-B-NCR": 1636.31,
+    "total": 13932.9
+  },
+  {
+    "date": "2025-11-07",
+    "SMGRA-B-NCR": 2363.34,
+    "SMVAL-B-NCR": 3520.22,
+    "VAL-B-NCR": 1753.07,
+    "total": 14684.24
+  },
+  {
+    "date": "2025-11-08",
+    "SMGRA-B-NCR": 3875.05,
+    "SMVAL-B-NCR": 5731.29,
+    "VAL-B-NCR": 2906.21,
+    "total": 24536.18
+  },
+  {
+    "date": "2025-11-09",
+    "SMGRA-B-NCR": 2123.73,
+    "SMVAL-B-NCR": 2858.45,
+    "VAL-B-NCR": 2377.8,
+    "total": 14197.93
+  },
+  {
+    "date": "2025-11-10",
+    "SMGRA-B-NCR": 2639.88,
+    "SMVAL-B-NCR": 3166.73,
+    "VAL-B-NCR": 1644.49,
+    "total": 14465.97
+  },
+  {
+    "date": "2025-11-11",
+    "SMGRA-B-NCR": 1806.94,
+    "SMVAL-B-NCR": 3912.0,
+    "VAL-B-NCR": 1958.38,
+    "total": 14948.39
+  }
+]
