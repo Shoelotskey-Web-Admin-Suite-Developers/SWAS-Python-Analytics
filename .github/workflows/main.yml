@@ -26,22 +26,33 @@ jobs:
 
       - name: Add runner IP to Atlas access list
         id: add_ip
+        shell: bash
         run: |
           IP=$(curl -s https://api.ipify.org)
           echo "Runner IP: $IP"
           COMMENT="gha-$(date +%Y%m%d-%H%M%S)"
-          PAYLOAD=$(jq -n --arg ip "$IP" --arg comment "$COMMENT" '{ipAddress: $ip, comment: $comment}')
-          # POST to accessList endpoint (new name; whitelist still works for older)
+          # Atlas expects an array payload
+          PAYLOAD=$(jq -n --arg ip "$IP" --arg comment "$COMMENT" '[{ipAddress:$ip, comment:$comment}]')
+
           RESP=$(curl -s -w "\n%{http_code}" -u "$ATLAS_PUBLIC_KEY:$ATLAS_PRIVATE_KEY" --digest \
             -H "Content-Type: application/json" \
-            -X POST "https://cloud.mongodb.com/api/atlas/v1.0/groups/$ATLAS_GROUP_ID/accessList" \
+            -X POST "https://cloud.mongodb.com/api/atlas/v2/groups/$ATLAS_GROUP_ID/accessList" \
             --data "$PAYLOAD")
+
           BODY=$(echo "$RESP" | sed '$d'); CODE=$(echo "$RESP" | tail -n1)
           echo "$BODY"
-          if [ "$CODE" != "201" ] && [ "$CODE" != "200" ]; then
+
+          if [ "$CODE" = "201" ] || [ "$CODE" = "200" ]; then
+            CREATED=true
+          elif [ "$CODE" = "409" ]; then
+            echo "IP already present in access list."
+            CREATED=false
+          else
             echo "Failed to add IP (HTTP $CODE)"; exit 1
           fi
-          echo "IP_ADDED=$IP" >> $GITHUB_OUTPUT
+
+          echo "IP_ADDED=$IP" >> "$GITHUB_OUTPUT"
+          echo "CREATED=$CREATED" >> "$GITHUB_OUTPUT"
 
       - name: Cache pip
         uses: actions/cache@v4
@@ -59,16 +70,20 @@ jobs:
 
       - name: Remove IP from Atlas access list
         if: always()
+        shell: bash
         run: |
           IP="${{ steps.add_ip.outputs.IP_ADDED }}"
-          [ -z "$IP" ] && echo "No IP recorded; skipping removal." && exit 0
-          LIST=$(curl -s -u "$ATLAS_PUBLIC_KEY:$ATLAS_PRIVATE_KEY" --digest \
-            "https://cloud.mongodb.com/api/atlas/v1.0/groups/$ATLAS_GROUP_ID/accessList")
-          ID=$(echo "$LIST" | jq -r --arg ip "$IP" '.results[] | select(.ipAddress==$ip) | .id')
-          if [ -n "$ID" ]; then
-            curl -s -u "$ATLAS_PUBLIC_KEY:$ATLAS_PRIVATE_KEY" --digest -X DELETE \
-              "https://cloud.mongodb.com/api/atlas/v1.0/groups/$ATLAS_GROUP_ID/accessList/$ID"
-            echo "Removed IP $IP (id $ID)"
+          CREATED="${{ steps.add_ip.outputs.CREATED }}"
+          if [ -z "$IP" ] || [ "$CREATED" != "true" ]; then
+            echo "No newly created IP entry to remove."; exit 0
+          fi
+          # Delete by entry value (IP). For CIDR you'd need URL-encoding.
+          RESP=$(curl -s -w "\n%{http_code}" -u "$ATLAS_PUBLIC_KEY:$ATLAS_PRIVATE_KEY" --digest -X DELETE \
+            "https://cloud.mongodb.com/api/atlas/v2/groups/$ATLAS_GROUP_ID/accessList/$IP")
+          BODY=$(echo "$RESP" | sed '$d'); CODE=$(echo "$RESP" | tail -n1)
+          echo "$BODY"
+          if [ "$CODE" = "200" ] || [ "$CODE" = "202" ] || [ "$CODE" = "204" ]; then
+            echo "Removed IP $IP"
           else
-            echo "No matching IP entry found to remove."
+            echo "Failed to remove IP (HTTP $CODE)"
           fi
