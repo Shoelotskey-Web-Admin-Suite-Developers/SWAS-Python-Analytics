@@ -2,16 +2,19 @@ name: Daily Analytics
 
 on:
   schedule:
-    - cron: "0 1 * * *"        # 01:00 UTC daily
-  workflow_dispatch:           # manual trigger
+    - cron: "0 1 * * *"   # 01:00 UTC daily
+  workflow_dispatch:
 
 jobs:
   run-analytics:
     runs-on: ubuntu-latest
     env:
-      PYTHONUNBUFFERED: "1"
       MONGO_URI: ${{ secrets.MONGO_URI }}
-      MONGO_DB: ${{ secrets.MONGO_DB }}  # remove if not needed
+      MONGO_DB: ${{ secrets.MONGO_DB }}
+      PYTHONUNBUFFERED: "1"
+      ATLAS_PUBLIC_KEY: ${{ secrets.ATLAS_PUBLIC_KEY }}
+      ATLAS_PRIVATE_KEY: ${{ secrets.ATLAS_PRIVATE_KEY }}
+      ATLAS_GROUP_ID: ${{ secrets.ATLAS_GROUP_ID }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -19,7 +22,26 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-            python-version: "3.11"
+          python-version: "3.11"
+
+      - name: Add runner IP to Atlas access list
+        id: add_ip
+        run: |
+          IP=$(curl -s https://api.ipify.org)
+          echo "Runner IP: $IP"
+          COMMENT="gha-$(date +%Y%m%d-%H%M%S)"
+          PAYLOAD=$(jq -n --arg ip "$IP" --arg comment "$COMMENT" '{ipAddress: $ip, comment: $comment}')
+          # POST to accessList endpoint (new name; whitelist still works for older)
+          RESP=$(curl -s -w "\n%{http_code}" -u "$ATLAS_PUBLIC_KEY:$ATLAS_PRIVATE_KEY" --digest \
+            -H "Content-Type: application/json" \
+            -X POST "https://cloud.mongodb.com/api/atlas/v1.0/groups/$ATLAS_GROUP_ID/accessList" \
+            --data "$PAYLOAD")
+          BODY=$(echo "$RESP" | sed '$d'); CODE=$(echo "$RESP" | tail -n1)
+          echo "$BODY"
+          if [ "$CODE" != "201" ] && [ "$CODE" != "200" ]; then
+            echo "Failed to add IP (HTTP $CODE)"; exit 1
+          fi
+          echo "IP_ADDED=$IP" >> $GITHUB_OUTPUT
 
       - name: Cache pip
         uses: actions/cache@v4
@@ -29,18 +51,24 @@ jobs:
           restore-keys: |
             pip-${{ runner.os }}-
 
-      - name: Install deps
-        run: |
-          pip install -r server/requirements.txt
-
-      - name: (Optional) Cache CmdStan
-        uses: actions/cache@v4
-        with:
-          path: ~/.cmdstan
-          key: cmdstan-${{ runner.os }}
-          restore-keys: |
-            cmdstan-
+      - name: Install dependencies
+        run: pip install -r server/requirements.txt
 
       - name: Run analytics
+        run: python server/scripts/run_daily_analytics.py
+
+      - name: Remove IP from Atlas access list
+        if: always()
         run: |
-          python server/scripts/run_daily_analytics.py
+          IP="${{ steps.add_ip.outputs.IP_ADDED }}"
+          [ -z "$IP" ] && echo "No IP recorded; skipping removal." && exit 0
+          LIST=$(curl -s -u "$ATLAS_PUBLIC_KEY:$ATLAS_PRIVATE_KEY" --digest \
+            "https://cloud.mongodb.com/api/atlas/v1.0/groups/$ATLAS_GROUP_ID/accessList")
+          ID=$(echo "$LIST" | jq -r --arg ip "$IP" '.results[] | select(.ipAddress==$ip) | .id')
+          if [ -n "$ID" ]; then
+            curl -s -u "$ATLAS_PUBLIC_KEY:$ATLAS_PRIVATE_KEY" --digest -X DELETE \
+              "https://cloud.mongodb.com/api/atlas/v1.0/groups/$ATLAS_GROUP_ID/accessList/$ID"
+            echo "Removed IP $IP (id $ID)"
+          else
+            echo "No matching IP entry found to remove."
+          fi
