@@ -5,6 +5,100 @@ import { MonthlyRevenue } from "../models/MonthlyRevenue"
 import { LineItem } from "../models/LineItem"
 import { Service } from "../models/Service"
 import { Transaction } from "../models/Transactions"
+import { Branch } from "../models/Branch" // Import Branch model
+
+// Helper function to get branch mapping from database (only type 'B')
+const getBranchIdMap = async (): Promise<{ [key: string]: string }> => {
+  try {
+    // Only fetch branches with type 'B'
+    const branches = await Branch.find({ type: 'B' }).sort({ branch_number: 1 }).lean()
+    const branchMap: { [key: string]: string } = {}
+    
+    // Map index-based IDs (1,2,3...) to actual branch_ids
+    branches.forEach((branch: any, index: number) => {
+      // Use index + 1 as the frontend ID
+      branchMap[String(index + 1)] = branch.branch_id
+    })
+    
+    return branchMap
+  } catch (error) {
+    console.error("Error fetching branch map:", error)
+    return {}
+  }
+}
+
+// Helper function to get all branches with type 'B'
+const getBranchesByType = async (type: string = 'B'): Promise<any[]> => {
+  try {
+    return await Branch.find({ type }).sort({ branch_number: 1 }).lean()
+  } catch (error) {
+    console.error(`Error fetching branches with type ${type}:`, error)
+    return []
+  }
+}
+
+// Helper function to resolve branch filters (only for type 'B')
+const resolveBranchFilter = async (branchesParam: string | undefined): Promise<any> => {
+  if (!branchesParam || typeof branchesParam !== 'string') {
+    return {}
+  }
+
+  const branchArray = branchesParam.split(',').filter(b => b.trim())
+  if (branchArray.length === 0) {
+    return {}
+  }
+
+  // Get branch mapping from database (only type 'B')
+  const branchIdMap = await getBranchIdMap()
+  
+  // If "total" is selected or no specific branches, don't filter
+  if (branchArray.includes("total") || branchArray.includes("0")) {
+    return {}
+  }
+
+  // Resolve frontend IDs to actual branch_ids
+  const actualBranchIds = branchArray
+    .map(b => branchIdMap[b])
+    .filter(Boolean) // Remove undefined values
+
+  if (actualBranchIds.length === 0) {
+    return {}
+  }
+
+  return { branch_id: { $in: actualBranchIds } }
+}
+
+// Helper function to get branch selection options (only type 'B')
+export const getBranchOptions = async (req: Request, res: Response) => {
+  try {
+    // Only fetch branches with type 'B'
+    const branches = await Branch.find({ type: 'B' }).sort({ branch_number: 1 }).lean()
+    
+    const options = branches.map((branch: any, index: number) => ({
+      id: String(index + 1), // Use sequential number as frontend ID
+      label: branch.branch_name,
+      value: branch.branch_id,
+      code: branch.branch_code,
+      type: branch.type,
+      branchNumber: branch.branch_number
+    }))
+
+    // Add "All Branches" option
+    const allOption = {
+      id: "0",
+      label: "All Branches",
+      value: "all",
+      code: "ALL",
+      type: "ALL",
+      branchNumber: 0
+    }
+
+    return res.status(200).json([allOption, ...options])
+  } catch (error) {
+    console.error("Error fetching branch options:", error)
+    return res.status(500).json({ error: "Failed to fetch branch options" })
+  }
+}
 
 export const getDailyRevenue = async (req: Request, res: Response) => {
   try {
@@ -114,30 +208,7 @@ export const getTopServices = async (req: Request, res: Response) => {
   try {
     // Get branch filter from query params
     const { branches } = req.query
-    let branchFilter: any = {}
-    
-    // Handle branch filtering
-    if (branches && typeof branches === 'string') {
-      const branchArray = branches.split(',').filter(b => b.trim())
-      
-      // Map frontend branch IDs to actual branch_ids
-      const branchIdMap: { [key: string]: string } = {
-        "1": "SMVAL-B-NCR",    // SM Valenzuela
-        "2": "VAL-B-NCR",      // Valenzuela  
-        "3": "SMGRA-B-NCR"     // SM Grand
-      }
-      
-      // If "4" (Total) is selected or no specific branches, don't filter
-      if (!branchArray.includes("4") && branchArray.length > 0) {
-        const actualBranchIds = branchArray
-          .map(b => branchIdMap[b])
-          .filter(Boolean) // Remove undefined values
-        
-        if (actualBranchIds.length > 0) {
-          branchFilter = { branch_id: { $in: actualBranchIds } }
-        }
-      }
-    }
+    const branchFilter = await resolveBranchFilter(branches as string | undefined)
     
     // Get line items with branch filtering
     const lineItems = await LineItem.find(branchFilter).lean()
@@ -221,30 +292,7 @@ export const getSalesBreakdown = async (req: Request, res: Response) => {
   try {
     // Get branch filter from query params
     const { branches } = req.query
-    let branchFilter: any = {}
-    
-    // Handle branch filtering
-    if (branches && typeof branches === 'string') {
-      const branchArray = branches.split(',').filter(b => b.trim())
-      
-      // Map frontend branch IDs to actual branch_ids
-      const branchIdMap: { [key: string]: string } = {
-        "1": "SMVAL-B-NCR",    // SM Valenzuela
-        "2": "VAL-B-NCR",      // Valenzuela  
-        "3": "SMGRA-B-NCR"     // SM Grand
-      }
-      
-      // If "4" (Total) is selected or no specific branches, don't filter
-      if (!branchArray.includes("4") && branchArray.length > 0) {
-        const actualBranchIds = branchArray
-          .map(b => branchIdMap[b])
-          .filter(Boolean) // Remove undefined values
-        
-        if (actualBranchIds.length > 0) {
-          branchFilter = { branch_id: { $in: actualBranchIds } }
-        }
-      }
-    }
+    const branchFilter = await resolveBranchFilter(branches as string | undefined)
     
     // Get all transactions with branch filtering
     const transactions = await Transaction.find(branchFilter).lean()
@@ -298,21 +346,18 @@ export const getSalesBreakdown = async (req: Request, res: Response) => {
         status: "Unpaid",
         transactions: statusData.NP.count,
         amount: statusData.NP.amount,
-        // brand danger variant (accessible on light bg)
         fill: "#DC2626"
       },
       {
         status: "Partially Paid", 
         transactions: statusData.PARTIAL.count,
         amount: statusData.PARTIAL.amount,
-        // neutral/info accent
         fill: "#2563EB"
       },
       {
         status: "Paid",
         transactions: statusData.PAID.count,
         amount: statusData.PAID.amount,
-        // success / highlight
         fill: "#16A34A"
       }
     ]
@@ -336,7 +381,6 @@ export const getSalesBreakdown = async (req: Request, res: Response) => {
 
 // Helper function to assign colors to services
 function getServiceColor(serviceId: string): string {
-  // Updated to align with curated palette & ensure distinctness
   const colorMap: { [key: string]: string } = {
     "SERVICE-1": "#2563EB",    // blue
     "SERVICE-2": "#16A34A",    // green

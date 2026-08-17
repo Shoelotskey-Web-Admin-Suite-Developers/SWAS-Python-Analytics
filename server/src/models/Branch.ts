@@ -8,6 +8,7 @@ export interface IBranch extends Document {
   location: string; // e.g., "Valenzuela, NCR"
   branch_code: string; // e.g., VAL, SMV
   type: "H" | "B" | "W"; // Hub or Branch
+  fb_link?: string;
 }
 
 const BranchSchema: Schema = new Schema<IBranch>(
@@ -18,6 +19,7 @@ const BranchSchema: Schema = new Schema<IBranch>(
     location: { type: String, required: true, maxlength: 100 },
     branch_code: { type: String, required: true, unique: true, maxlength: 20 },
     type: { type: String, enum: ["H", "B", "W"], required: true },
+    fb_link: { type: String, maxlength: 200 },
   }
   // no timestamps
 );
